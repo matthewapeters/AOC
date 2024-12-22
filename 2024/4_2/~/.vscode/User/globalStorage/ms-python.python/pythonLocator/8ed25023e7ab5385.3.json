@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/mpeters/home/bin/python",
+    "prefix": "/home/mpeters/home",
+    "version": "3.12.7.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/mpeters/home/bin/python",
+      "/home/mpeters/home/bin/python3",
+      "/home/mpeters/home/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}

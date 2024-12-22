@@ -1,0 +1,8 @@
+2024-12-11 08:44:46.692 [warning] /home/mpeters/.ssh/config: ENOENT: no such file or directory, open '/home/mpeters/.ssh/config'
+2024-12-11 08:44:46.692 [info] Activation> Extension version: 0.98.0
+2024-12-11 08:44:47.030 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/mpeters/projects/AOC/2024/_2/~/.vscode/User/globalStorage/github.vscode-pull-request-github/temp'
+2024-12-11 08:44:47.240 [info] Looking for git repository
+2024-12-11 08:44:47.240 [info] Found 0 repositories during activation
+2024-12-11 08:44:47.240 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-11 08:44:51.892 [info] Registering git provider
+2024-12-11 08:44:51.981 [info] Git initialization state changed: state=initialized

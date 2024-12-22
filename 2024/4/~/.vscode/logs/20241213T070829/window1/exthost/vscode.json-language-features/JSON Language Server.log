@@ -1,0 +1,27 @@
+2024-12-13 07:14:01.802 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-12-13 07:14:01.833 [info] cancelled
+2024-12-13 07:14:02.018 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2024-12-13 07:14:02.028 [info] read schema from vscode: vscode://schemas/launch
+2024-12-13 07:14:02.037 [info] read schema from vscode: vscode://schemas/token-styling
+2024-12-13 07:14:02.038 [info] read schema from vscode: vscode://schemas/textmate-colors
+2024-12-13 07:14:02.038 [info] read schema from vscode: vscode://schemas/workbench-colors
+2024-12-13 07:14:02.865 [info] schema change detected vscode://schemas/settings/folder
+2024-12-13 07:14:02.867 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-12-13 07:14:52.517 [info] schema change detected vscode://schemas/settings/folder
+2024-12-13 07:14:52.520 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-12-13 07:14:53.540 [info] schema change detected vscode://schemas/settings/folder
+2024-12-13 07:14:53.543 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-12-13 07:15:08.557 [info] schema change detected vscode://schemas/settings/folder
+2024-12-13 07:15:08.559 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-12-13 07:15:16.434 [info] schema change detected vscode://schemas/settings/folder
+2024-12-13 07:15:16.435 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-12-13 07:15:37.198 [info] schema change detected vscode://schemas/settings/folder
+2024-12-13 07:15:37.200 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-12-13 07:16:13.384 [info] cancelled
+2024-12-13 07:16:14.433 [info] schema change detected vscode://schemas/settings/folder
+2024-12-13 07:16:14.435 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-12-13 07:17:51.824 [info] schema change detected vscode://schemas/settings/folder
+2024-12-13 07:17:51.825 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-12-13 07:19:19.805 [info] schema change detected vscode://schemas/launch
+2024-12-13 07:19:19.807 [info] read schema from vscode: vscode://schemas/settings/folder
+2024-12-13 07:19:19.934 [info] read schema from vscode: vscode://schemas/launch

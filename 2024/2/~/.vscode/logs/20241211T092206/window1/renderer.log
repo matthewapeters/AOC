@@ -1,0 +1,14 @@
+2024-12-11 09:22:09.069 [info] Started local extension host with pid 10657.
+2024-12-11 09:22:09.610 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 09:22:09.875 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 09:22:09.876 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 09:22:09.880 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 09:22:09.901 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 09:22:09.901 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 09:22:09.902 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 09:22:09.902 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 09:22:16.235 [info] [perf] Render performance baseline is 81ms
+2024-12-11 09:22:19.030 [info] Extension host (LocalProcess pid: 10657) is unresponsive.
+2024-12-11 09:22:19.046 [info] Extension host (LocalProcess pid: 10657) is responsive.
+2024-12-11 09:22:19.757 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-12-11 09:22:21.428 [info] UNRESPONSIVE extension host: starting to profile NOW

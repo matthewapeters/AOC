@@ -1,0 +1,3 @@
+2024-12-13 11:31:22.880 [info] update#setState idle
+2024-12-13 11:31:33.355 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 312332]: crashed with code 15 and reason 'killed'
+2024-12-13 11:31:35.354 [info] Extension host with pid 312363 exited with code: 0, signal: unknown.

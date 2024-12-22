@@ -1,0 +1,712 @@
+2024-12-13T16:53:38.088Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T16:53:38.095Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:53:38.096Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T16:53:38.096Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:53:38.097Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T16:53:38.098Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:53:49.333Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:53:49.333Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:53:49.333Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:53:49.335Z INFO unittest at '_4': Unittest test discovery is disabled
+2024-12-13T16:53:49.335Z INFO testplan at '_4': TestPlan test discovery is disabled
+2024-12-13T16:53:49.337Z INFO pytest at '_4': Environment variables file /home/mpeters/projects/AOC/2024/_4/.env does not exist
+2024-12-13T16:53:49.338Z INFO pytest at '_4': Discovering tests using python path '/home/mpeters/home/bin/python' in /home/mpeters/projects/AOC/2024/_4
+2024-12-13T16:53:49.340Z INFO pytest at '_4': Running pytest with arguments: --collect-only
+2024-12-13T16:53:49.340Z INFO pytest at '_4': Running pytest as a Python module
+2024-12-13T16:53:49.486Z WARN pytest at '_4': No tests discovered
+2024-12-13T16:55:38.987Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T16:55:38.988Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:55:38.988Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T16:55:38.989Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:55:38.989Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T16:55:38.990Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:55:38.991Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:55:38.992Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:55:38.992Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:55:38.993Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T16:55:38.993Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T16:55:38.993Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T16:56:12.301Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T16:56:12.302Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:56:12.302Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T16:56:12.303Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:56:12.303Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T16:56:12.303Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:56:12.304Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:56:12.304Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:56:12.304Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:56:12.304Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T16:56:12.304Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T16:56:12.304Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T16:58:16.977Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T16:58:16.978Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:58:16.978Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T16:58:16.978Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:58:16.978Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T16:58:16.978Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:58:16.979Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:58:16.979Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:58:16.979Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:58:16.979Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T16:58:16.979Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T16:58:16.980Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:03:21.488Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:03:21.490Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:03:21.490Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:03:21.490Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:03:21.490Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:03:21.490Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:03:21.491Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:03:21.491Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:03:21.491Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:03:21.492Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:03:21.492Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:03:21.492Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:04:46.251Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:04:46.252Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:04:46.252Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:04:46.252Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:04:46.252Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:04:46.253Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:04:46.253Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:04:46.253Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:04:46.253Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:04:46.253Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:04:46.254Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:04:46.254Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:05:03.783Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:05:03.783Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:05:03.783Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:05:03.784Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:05:03.784Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:05:03.784Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:05:03.785Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:05:03.785Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:05:03.785Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:05:03.785Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:05:03.785Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:05:03.786Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:05:37.459Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:05:37.459Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:05:37.459Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:05:37.460Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:05:37.460Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:05:37.460Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:05:37.461Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:05:37.461Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:05:37.461Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:05:37.461Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:05:37.461Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:05:37.461Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:07:05.949Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:07:05.950Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:07:05.950Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:07:05.951Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:07:05.951Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:07:05.951Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:07:05.951Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:07:05.951Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:07:05.951Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:07:05.952Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:07:05.952Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:07:05.952Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:07:38.379Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:07:38.380Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:07:38.380Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:07:38.380Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:07:38.380Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:07:38.381Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:07:38.381Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:07:38.381Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:07:38.381Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:07:38.381Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:07:38.382Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:07:38.382Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:08:40.736Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:08:40.737Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:08:40.737Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:08:40.737Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:08:40.737Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:08:40.737Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:08:40.738Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:08:40.738Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:08:40.738Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:08:40.739Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:08:40.739Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:08:40.739Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:10:56.532Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:10:56.533Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:10:56.533Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:10:56.533Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:10:56.533Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:10:56.534Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:10:56.534Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:10:56.534Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:10:56.534Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:10:56.535Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:10:56.535Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:10:56.535Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:11:03.062Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:11:03.063Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:11:03.063Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:11:03.063Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:11:03.063Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:11:03.064Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:11:03.064Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:11:03.064Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:11:03.064Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:11:03.064Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:11:03.064Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:11:03.064Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:13:06.533Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:13:06.534Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:13:06.534Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:13:06.534Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:13:06.535Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:13:06.535Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:13:06.536Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:13:06.536Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:13:06.536Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:13:06.536Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:13:06.536Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:13:06.536Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:15:26.992Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:15:26.992Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:15:26.992Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:15:26.993Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:15:26.993Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:15:26.994Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:15:26.994Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:15:26.994Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:15:26.994Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:15:26.994Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:15:26.994Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:15:26.994Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:17:43.966Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:17:43.967Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:17:43.967Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:17:43.967Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:17:43.968Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:17:43.968Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:17:43.968Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:17:43.968Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:17:43.968Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:17:43.969Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:17:43.969Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:17:43.969Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:24:08.674Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:24:08.675Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:24:08.675Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:24:08.675Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:24:08.675Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:24:08.676Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:24:08.677Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:24:08.677Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:24:08.677Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:24:08.677Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:24:08.677Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:24:08.677Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:25:57.802Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:25:57.802Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:25:57.802Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:25:57.803Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:25:57.803Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:25:57.803Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:25:57.803Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:25:57.803Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:25:57.803Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:25:57.804Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:25:57.804Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:25:57.804Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:26:27.225Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:26:27.226Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:26:27.226Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:26:27.226Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:26:27.226Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:26:27.227Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:26:27.227Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:26:27.227Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:26:27.227Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:26:27.228Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:26:27.228Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:26:27.228Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:27:55.318Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:27:55.319Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:27:55.319Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:27:55.319Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:27:55.319Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:27:55.320Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:27:55.320Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:27:55.320Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:27:55.320Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:27:55.321Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:27:55.321Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:27:55.321Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:37:31.431Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:37:31.432Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:37:31.432Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:37:31.432Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:37:31.433Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:37:31.433Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:37:31.433Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:37:31.433Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:37:31.433Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:37:31.434Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:37:31.434Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:37:31.434Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:39:09.691Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:39:09.692Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:39:09.692Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:39:09.693Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:39:09.693Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:39:09.693Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:39:09.693Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:39:09.693Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:39:09.693Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:39:09.694Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:39:09.694Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:39:09.694Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:39:19.858Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:39:19.859Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:39:19.859Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:39:19.859Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:39:19.859Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:39:19.859Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:39:19.860Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:39:19.860Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:39:19.860Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:39:19.860Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:39:19.860Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:39:19.860Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:40:40.562Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:40:40.562Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:40:40.562Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:40:40.563Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:40:40.563Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:40:40.563Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:40:40.564Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:40:40.564Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:40:40.564Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:40:40.564Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:40:40.564Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:40:40.564Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:48:58.702Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:48:58.702Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:48:58.702Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:48:58.703Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:48:58.703Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:48:58.703Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:48:58.704Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:48:58.704Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:48:58.704Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:48:58.704Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:48:58.704Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:48:58.704Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:50:49.215Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:50:49.216Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:50:49.216Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:50:49.217Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:50:49.217Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:50:49.217Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:50:49.217Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:50:49.217Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:50:49.217Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:50:49.218Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:50:49.218Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:50:49.218Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:51:14.999Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:51:15.000Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:51:15.000Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:51:15.001Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:51:15.001Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:51:15.001Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:51:15.002Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:51:15.002Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:51:15.002Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:51:15.003Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:51:15.003Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:51:15.003Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:51:39.561Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:51:39.562Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:51:39.562Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:51:39.562Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:51:39.562Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:51:39.563Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:51:39.563Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:51:39.563Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:51:39.563Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:51:39.563Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:51:39.563Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:51:39.563Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:52:39.015Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:52:39.015Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:52:39.015Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:52:39.016Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:52:39.016Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:52:39.016Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:52:39.016Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:52:39.016Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:52:39.016Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:52:39.017Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:52:39.017Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:52:39.017Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:52:49.418Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:52:49.418Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:52:49.418Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:52:49.419Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:52:49.419Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:52:49.419Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:52:49.419Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:52:49.419Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:52:49.419Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:52:49.420Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:52:49.420Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:52:49.420Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:54:07.400Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:54:07.401Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:54:07.401Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:54:07.402Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:54:07.402Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:54:07.402Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:54:07.402Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:54:07.402Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:54:07.402Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:54:07.403Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:54:07.403Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:54:07.403Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:54:28.387Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:54:28.387Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:54:28.387Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:54:28.388Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:54:28.388Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:54:28.388Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:54:28.388Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:54:28.388Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:54:28.388Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:54:28.389Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:54:28.389Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:54:28.389Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:55:15.442Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:55:15.443Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:55:15.443Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:55:15.443Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:55:15.444Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:55:15.444Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:55:15.444Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:55:15.444Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:55:15.444Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:55:15.444Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:55:15.445Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:55:15.445Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T17:55:26.017Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T17:55:26.018Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:55:26.018Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T17:55:26.018Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:55:26.018Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T17:55:26.019Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T17:55:26.019Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:55:26.019Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:55:26.019Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T17:55:26.020Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T17:55:26.020Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T17:55:26.020Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:00:16.773Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:00:16.774Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:00:16.774Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:00:16.774Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:00:16.774Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:00:16.775Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:00:16.775Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:00:16.775Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:00:16.775Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:00:16.776Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:00:16.776Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:00:16.776Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:06:01.122Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:01.123Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:01.123Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:01.123Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:01.123Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:01.123Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:01.124Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:01.124Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:01.124Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:01.124Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:06:01.124Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:06:01.124Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:06:09.277Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:09.277Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:09.277Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:09.278Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:09.278Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:09.278Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:09.278Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:09.278Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:09.278Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:09.279Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:06:09.279Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:06:09.279Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:06:41.063Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:41.064Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:41.064Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:41.064Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:41.064Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:41.065Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:41.065Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:41.065Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:41.065Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:41.065Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:06:41.065Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:06:41.065Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:06:56.008Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:56.009Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:56.009Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:56.009Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:56.009Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:06:56.009Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:06:56.010Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:56.010Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:56.010Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:06:56.010Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:06:56.010Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:06:56.010Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:07:23.917Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:07:23.918Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:07:23.918Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:07:23.919Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:07:23.919Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:07:23.919Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:07:23.919Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:07:23.919Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:07:23.919Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:07:23.920Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:07:23.920Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:07:23.920Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:07:54.587Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:07:54.588Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:07:54.588Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:07:54.588Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:07:54.588Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:07:54.588Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:07:54.588Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:07:54.588Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:07:54.589Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:07:54.589Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:07:54.589Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:07:54.589Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:08:29.574Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:08:29.574Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:08:29.574Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:08:29.575Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:08:29.575Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:08:29.575Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:08:29.575Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:08:29.575Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:08:29.575Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:08:29.576Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:08:29.576Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:08:29.576Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:11:39.941Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:11:39.941Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:11:39.941Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:11:39.942Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:11:39.942Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:11:39.942Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:11:39.943Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:11:39.943Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:11:39.943Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:11:39.943Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:11:39.943Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:11:39.943Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:14:36.837Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:14:36.838Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:14:36.838Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:14:36.839Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:14:36.839Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:14:36.839Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:14:36.839Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:14:36.839Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:14:36.839Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:14:36.840Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:14:36.840Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:14:36.840Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:15:21.716Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:15:21.716Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:15:21.716Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:15:21.717Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:15:21.717Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:15:21.717Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:15:21.717Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:15:21.717Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:15:21.717Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:15:21.718Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:15:21.718Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:15:21.718Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:17:30.383Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:17:30.383Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:17:30.383Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:17:30.384Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:17:30.384Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:17:30.384Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:17:30.384Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:17:30.384Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:17:30.384Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:17:30.385Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:17:30.385Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:17:30.385Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:18:40.172Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:18:40.173Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:18:40.173Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:18:40.173Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:18:40.173Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:18:40.173Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:18:40.174Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:18:40.174Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:18:40.174Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:18:40.174Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:18:40.174Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:18:40.174Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:20:44.305Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:20:44.306Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:20:44.306Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:20:44.306Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:20:44.306Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:20:44.307Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:20:44.307Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:20:44.307Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:20:44.307Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:20:44.307Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:20:44.307Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:20:44.307Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:21:39.149Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:21:39.150Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:21:39.150Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:21:39.150Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:21:39.150Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:21:39.151Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:21:39.151Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:21:39.151Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:21:39.151Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:21:39.151Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:21:39.152Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:21:39.152Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:22:07.595Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:22:07.596Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:22:07.596Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:22:07.596Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:22:07.596Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:22:07.597Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:22:07.597Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:22:07.597Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:22:07.597Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:22:07.598Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:22:07.598Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:22:07.598Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:38:21.669Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:38:21.670Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:38:21.670Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:38:21.670Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:38:21.670Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:38:21.670Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:38:21.671Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:38:21.671Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:38:21.671Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:38:21.671Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:38:21.671Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:38:21.671Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:39:02.447Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:02.448Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:02.448Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:02.449Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:02.449Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:02.449Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:02.449Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:02.449Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:02.449Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:02.450Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:39:02.450Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:39:02.450Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:39:26.854Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:26.855Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:26.855Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:26.855Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:26.855Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:26.856Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:26.856Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:26.856Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:26.856Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:26.856Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:39:26.856Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:39:26.856Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:39:48.332Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:48.332Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:48.333Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:48.333Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:48.333Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:48.333Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:48.334Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:48.334Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:48.334Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:48.334Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:39:48.334Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:39:48.334Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:39:58.848Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:58.849Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:58.849Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:58.849Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:58.849Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:39:58.850Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:39:58.850Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:58.850Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:58.851Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:39:58.851Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:39:58.851Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:39:58.851Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:40:43.808Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:40:43.809Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:40:43.809Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:40:43.809Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:40:43.809Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:40:43.810Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:40:43.812Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:40:43.812Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:40:43.812Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:40:43.812Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:40:43.813Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:40:43.813Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:41:11.158Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:41:11.158Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:41:11.158Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:41:11.159Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:41:11.159Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:41:11.159Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:41:11.159Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:41:11.159Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:41:11.159Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:41:11.160Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:41:11.160Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:41:11.160Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:41:57.615Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:41:57.616Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:41:57.616Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:41:57.617Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:41:57.617Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:41:57.617Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:41:57.618Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:41:57.618Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:41:57.618Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:41:57.618Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:41:57.618Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:41:57.618Z  DBG testplan at '_4': Sending autorun event
+2024-12-13T18:42:17.969Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T18:42:17.970Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:42:17.970Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T18:42:17.970Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:42:17.970Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T18:42:17.970Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T18:42:17.971Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:42:17.971Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:42:17.971Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T18:42:17.971Z  DBG unittest at '_4': Sending autorun event
+2024-12-13T18:42:17.971Z  DBG pytest at '_4': Sending autorun event
+2024-12-13T18:42:17.971Z  DBG testplan at '_4': Sending autorun event

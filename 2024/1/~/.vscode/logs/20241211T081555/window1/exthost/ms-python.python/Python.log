@@ -1,0 +1,86 @@
+2024-12-11 08:16:57.472 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-11 08:16:57.472 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-11 08:16:57.472 [info] Experiment 'pythonTestAdapter' is active
+2024-12-11 08:16:57.504 [warning] Dir "/home/mpeters/projects/AOC/2024/_1/.pixi/envs" is not watchable (directory does not exist)
+2024-12-11 08:16:57.659 [info] Starting Environment refresh
+2024-12-11 08:16:57.660 [info] Searching for interpreters in posix paths locator
+2024-12-11 08:16:57.677 [info] Searching for pyenv environments
+2024-12-11 08:16:57.677 [info] Searching for conda environments
+2024-12-11 08:16:57.678 [info] Searching for global virtual environments
+2024-12-11 08:16:57.678 [info] Searching for custom virtual environments
+2024-12-11 08:16:57.769 [info] pyenv is not installed
+2024-12-11 08:16:57.770 [info] Finished searching for pyenv environments: 106 milliseconds
+2024-12-11 08:16:57.772 [info] Finished searching for custom virtual envs: 105 milliseconds
+2024-12-11 08:16:57.787 [info] > conda info --json
+2024-12-11 08:16:57.801 [info] > hatch env show --json
+2024-12-11 08:16:57.801 [info] cwd: .
+2024-12-11 08:16:57.879 [info] > pyenv which python
+2024-12-11 08:16:57.880 [info] cwd: .
+2024-12-11 08:16:57.890 [info] Finished searching for global virtual envs: 224 milliseconds
+2024-12-11 08:16:58.024 [info] Found: /bin/python3 --> /bin/python3.12
+2024-12-11 08:16:58.032 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-12-11 08:16:58.104 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-12-11 08:16:58.113 [info] > pyenv which python
+2024-12-11 08:16:58.113 [info] cwd: .
+2024-12-11 08:16:58.115 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-12-11 08:16:58.185 [info] Finished searching for interpreters in posix paths locator: 522 milliseconds
+2024-12-11 08:16:58.185 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/interpreterInfo.py
+2024-12-11 08:16:58.217 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python_files/interpreterInfo.py
+2024-12-11 08:16:58.217 [info] Environments refresh paths discovered (event): 563 milliseconds
+2024-12-11 08:16:58.217 [info] Environments refresh paths discovered: 564 milliseconds
+2024-12-11 08:16:58.310 [info] Environments refresh finished (event): 657 milliseconds
+2024-12-11 08:16:58.337 [info] Environment refresh took 683 milliseconds
+2024-12-11 08:16:58.345 [error] Failed to get conda envs from environments.txt [TypeError: e.splitLines is not a function
+	at /home/mpeters/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/out/client/extension.js:2:603792
+	at async /home/mpeters/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/out/client/extension.js:2:603742
+	at async Promise.all (index 2)
+	at async /home/mpeters/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/out/client/extension.js:2:603463
+	at async x.sendTelemetryImpl (/home/mpeters/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/out/client/extension.js:2:602854)]
+2024-12-11 08:16:58.394 [info] Python interpreter path: /bin/python3
+2024-12-11 08:16:59.107 [info] Shell integration status changed, can confirm it's working.
+2024-12-11 08:17:01.943 [info] Starting Pylance language server.
+2024-12-11 08:17:04.657 [info] Send text to terminal: python
+2024-12-11 08:17:06.667 [info] Send text to terminal: 
+from importlib import reload
+import os, sys
+import subprocess
+from databricks.sdk import WorkspaceClient
+from databricks.sdk.service.compute import Language
+
+sys.path.append("/tmp/db-notebook")
+
+os.makedirs("/tmp/db-notebook", exist_ok=True)
+
+class my_logger:
+  def __init__(self, log_file):
+    self.log_file = log_file
+    if os.path.exists(log_file):
+      os.remove(log_file)
+  def write(self, msg):
+    with open(self.log_file, "a") as f:
+      f.write(msg)
+  def clear_done(self, done_file):
+    if os.path.exists(done_file):
+      os.remove(done_file)
+  def flag_done(self, done_file):
+    with open(done_file, "w") as f:
+      f.write("DONE")
+  def flush(self):
+    pass
+
+logger = my_logger("/tmp/db-notebook/cell-command0d8c0963a272480e3e6e0a52f56fba65.out")
+
+spark = None
+
+try:
+  from databricks.connect import DatabricksSession
+  spark = DatabricksSession.builder.getOrCreate()
+except e:
+  print(f"Unable to create a remote Spark Session: {e}")
+
+sys.stdout = logger
+sys.stderr = logger
+
+w = WorkspaceClient()
+lang = Language.PYTHON
+

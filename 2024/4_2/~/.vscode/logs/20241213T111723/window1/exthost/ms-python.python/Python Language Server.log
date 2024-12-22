@@ -1,0 +1,14 @@
+2024-12-13 11:17:28.420 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.0)
+2024-12-13 11:17:29.045 [info] [Info  - 11:17:29 AM] (305245) Server root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-13 11:17:29.046 [info] [Info  - 11:17:29 AM] (305245) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-13 11:17:29.051 [info] [Info  - 11:17:29 AM] (305245) Starting service instance "_4_2"
+2024-12-13 11:17:29.106 [info] [Info  - 11:17:29 AM] (305245) Setting environmentName for service "_4_2": "3.12.7 (home venv)"
+2024-12-13 11:17:29.106 [info] [Info  - 11:17:29 AM] (305245) Setting pythonPath for service "_4_2": "/home/mpeters/home/bin/python"
+2024-12-13 11:17:29.106 [info] [Info  - 11:17:29 AM] (305245) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:17:29.107 [info] [Info  - 11:17:29 AM] (305245) Auto-excluding **/node_modules
+2024-12-13 11:17:29.107 [info] [Info  - 11:17:29 AM] (305245) Auto-excluding **/__pycache__
+2024-12-13 11:17:29.108 [info] [Info  - 11:17:29 AM] (305245) Auto-excluding **/.*
+2024-12-13 11:17:29.134 [info] [Info  - 11:17:29 AM] (305245) Assuming Python version 3.12.7.final.0
+2024-12-13 11:17:29.187 [info] [Info  - 11:17:29 AM] (305245) Found 1 source file
+2024-12-13 11:17:29.549 [info] [Info  - 11:17:29 AM] (305245) Background analysis(1) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-13 11:17:29.551 [info] [Info  - 11:17:29 AM] (305245) Background analysis(1) started

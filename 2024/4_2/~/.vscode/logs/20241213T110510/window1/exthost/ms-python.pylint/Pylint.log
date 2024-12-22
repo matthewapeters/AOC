@@ -1,0 +1,167 @@
+2024-12-13 11:05:20.106 [info] Name: Pylint
+2024-12-13 11:05:20.106 [info] Module: pylint
+2024-12-13 11:05:20.106 [info] Python extension loading
+2024-12-13 11:05:20.106 [info] Waiting for interpreter from Python extension.
+2024-12-13 11:05:20.106 [info] No interpreter found from setting pylint.interpreter
+2024-12-13 11:05:20.106 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:05:20.134 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_4_2: /home/mpeters/home/bin/python
+2024-12-13 11:05:20.135 [info] No interpreter found from setting pylint.interpreter
+2024-12-13 11:05:20.135 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:05:20.136 [info] Python extension loaded
+2024-12-13 11:05:20.136 [info] No interpreter found from setting pylint.interpreter
+2024-12-13 11:05:20.136 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:05:20.141 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_4_2: /home/mpeters/home/bin/python
+2024-12-13 11:05:20.141 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_4_2: /home/mpeters/home/bin/python
+2024-12-13 11:05:20.141 [info] No interpreter found from setting pylint.interpreter
+2024-12-13 11:05:20.141 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:05:20.152 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_4_2: /home/mpeters/home/bin/python
+2024-12-13 11:05:20.252 [info] Server run command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.pylint-2024.0.0/bundled/tool/lsp_server.py
+2024-12-13 11:05:20.254 [info] Server: Start requested.
+2024-12-13 11:05:20.264 [info] Server run command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.pylint-2024.0.0/bundled/tool/lsp_server.py
+2024-12-13 11:05:20.264 [info] Server: Start requested.
+2024-12-13 11:05:21.071 [info] CWD Server: /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:05:21.071 [info] Settings used to run Server:
+[
+    {
+        "enabled": true,
+        "cwd": "/home/mpeters/projects/AOC/2024/_4_2",
+        "workspace": "file:///home/mpeters/projects/AOC/2024/_4_2",
+        "args": [],
+        "severity": {
+            "convention": "Information",
+            "error": "Error",
+            "fatal": "Error",
+            "refactor": "Hint",
+            "warning": "Warning",
+            "info": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/mpeters/home/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": []
+    }
+]
+
+2024-12-13 11:05:21.072 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "enabled": true,
+    "workspace": "/home/mpeters/projects/AOC/2024/_4_2",
+    "args": [],
+    "severity": {
+        "convention": "Information",
+        "error": "Error",
+        "fatal": "Error",
+        "refactor": "Hint",
+        "warning": "Warning",
+        "info": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": []
+}
+
+2024-12-13 11:05:21.072 [info] sys.path used to run Server:
+   /home/mpeters/projects/AOC/2024/_4_2
+   /home/mpeters/.vscode/extensions/ms-python.pylint-2024.0.0/bundled/libs
+   /home/mpeters/.vscode/extensions/ms-python.pylint-2024.0.0/bundled/tool
+   /usr/lib/python312.zip
+   /usr/lib/python3.12
+   /usr/lib/python3.12/lib-dynload
+   /home/mpeters/home/lib/python3.12/site-packages
+2024-12-13 11:05:21.076 [info] /home/mpeters/home/bin/python -m pylint --version
+2024-12-13 11:05:21.076 [info] CWD Linter: /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:05:21.088 [info] CWD Server: /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:05:21.088 [info] Settings used to run Server:
+[
+    {
+        "enabled": true,
+        "cwd": "/home/mpeters/projects/AOC/2024/_4_2",
+        "workspace": "file:///home/mpeters/projects/AOC/2024/_4_2",
+        "args": [],
+        "severity": {
+            "convention": "Information",
+            "error": "Error",
+            "fatal": "Error",
+            "refactor": "Hint",
+            "warning": "Warning",
+            "info": "Information"
+        },
+        "path": [],
+        "ignorePatterns": [],
+        "interpreter": [
+            "/home/mpeters/home/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off",
+        "extraPaths": []
+    }
+]
+
+2024-12-13 11:05:21.089 [info] Global settings:
+{
+    "cwd": "${workspaceFolder}",
+    "enabled": true,
+    "workspace": "/home/mpeters/projects/AOC/2024/_4_2",
+    "args": [],
+    "severity": {
+        "convention": "Information",
+        "error": "Error",
+        "fatal": "Error",
+        "refactor": "Hint",
+        "warning": "Warning",
+        "info": "Information"
+    },
+    "path": [],
+    "ignorePatterns": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off",
+    "extraPaths": []
+}
+
+2024-12-13 11:05:21.089 [info] sys.path used to run Server:
+   /home/mpeters/projects/AOC/2024/_4_2
+   /home/mpeters/.vscode/extensions/ms-python.pylint-2024.0.0/bundled/libs
+   /home/mpeters/.vscode/extensions/ms-python.pylint-2024.0.0/bundled/tool
+   /usr/lib/python312.zip
+   /usr/lib/python3.12
+   /usr/lib/python3.12/lib-dynload
+   /home/mpeters/home/lib/python3.12/site-packages
+2024-12-13 11:05:21.092 [info] /home/mpeters/home/bin/python -m pylint --version
+2024-12-13 11:05:21.092 [info] CWD Linter: /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:05:21.289 [info] 
+pylint 3.2.7
+astroid 3.2.4
+Python 3.12.7 (main, Nov  6 2024, 18:29:01) [GCC 14.2.0]
+
+
+2024-12-13 11:05:21.289 [info] 
+pylint 3.2.7
+astroid 3.2.4
+Python 3.12.7 (main, Nov  6 2024, 18:29:01) [GCC 14.2.0]
+
+
+2024-12-13 11:05:21.289 [info] Version info for linter running for /home/mpeters/projects/AOC/2024/_4_2:
+pylint 3.2.7
+astroid 3.2.4
+Python 3.12.7 (main, Nov  6 2024, 18:29:01) [GCC 14.2.0]
+
+2024-12-13 11:05:21.289 [info] Version info for linter running for /home/mpeters/projects/AOC/2024/_4_2:
+pylint 3.2.7
+astroid 3.2.4
+Python 3.12.7 (main, Nov  6 2024, 18:29:01) [GCC 14.2.0]
+
+2024-12-13 11:05:21.289 [info] SUPPORTED pylint>=2.12.2
+FOUND pylint==3.2.7
+
+2024-12-13 11:05:21.289 [info] SUPPORTED pylint>=2.12.2
+FOUND pylint==3.2.7
+

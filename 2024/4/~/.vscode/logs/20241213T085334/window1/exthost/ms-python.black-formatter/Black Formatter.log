@@ -1,0 +1,2158 @@
+2024-12-13 08:53:38.528 [info] Name: Black Formatter
+2024-12-13 08:53:38.528 [info] Module: black
+2024-12-13 08:53:38.528 [info] Default formatter is set to ms-python.black-formatter for workspace /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:53:38.528 [info] Python extension loading
+2024-12-13 08:53:38.528 [info] Waiting for interpreter from python extension.
+2024-12-13 08:53:38.528 [info] No interpreter found from setting black-formatter.interpreter
+2024-12-13 08:53:38.528 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:53:38.528 [info] Python extension loaded
+2024-12-13 08:53:38.528 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_4: /home/mpeters/home/bin/python
+2024-12-13 08:53:38.528 [info] Workspace settings for /home/mpeters/projects/AOC/2024/_4 (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "file:///home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/mpeters/home/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-13 08:53:38.528 [info] No interpreter found from setting black-formatter.interpreter
+2024-12-13 08:53:38.528 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:53:38.528 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_4: /home/mpeters/home/bin/python
+2024-12-13 08:53:38.528 [info] Workspace settings for /home/mpeters/projects/AOC/2024/_4 (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "file:///home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/mpeters/home/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-13 08:53:38.528 [info] Global settings (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "/home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-13 08:53:38.528 [info] Server run command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py
+2024-12-13 08:53:38.528 [info] Server: Start requested.
+2024-12-13 08:53:39.141 [info] CWD Server: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:53:39.142 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/mpeters/projects/AOC/2024/_4",
+        "workspace": "file:///home/mpeters/projects/AOC/2024/_4",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/mpeters/home/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2024-12-13 08:53:39.142 [info] Global settings received on server:
+{
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "/home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2024-12-13 08:53:39.142 [info] sys.path used to run Server:
+   /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/libs
+   /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool
+   /usr/lib/python312.zip
+   /usr/lib/python3.12
+   /usr/lib/python3.12/lib-dynload
+   /home/mpeters/home/lib/python3.12/site-packages
+2024-12-13 08:53:39.143 [info] /home/mpeters/home/bin/python -m black --version
+2024-12-13 08:53:39.144 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:53:39.282 [info] Version info for formatter running for /home/mpeters/projects/AOC/2024/_4:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.12.7
+
+2024-12-13 08:53:39.282 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2024-12-13 08:55:16.697 [info] [Trace - 8:55:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:16.742 [info] [Trace - 8:55:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:16.991 [info] [Trace - 8:55:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:17.202 [info] [Trace - 8:55:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:17.340 [info] [Trace - 8:55:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:17.370 [info] [Trace - 8:55:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:17.591 [info] [Trace - 8:55:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:17.721 [info] [Trace - 8:55:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:18.331 [info] [Trace - 8:55:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:18.509 [info] [Trace - 8:55:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:18.728 [info] [Trace - 8:55:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:19.324 [info] [Trace - 8:55:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:19.510 [info] [Trace - 8:55:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:19.722 [info] [Trace - 8:55:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:19.864 [info] [Trace - 8:55:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:20.064 [info] [Trace - 8:55:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:20.270 [info] [Trace - 8:55:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:20.534 [info] [Trace - 8:55:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:20.739 [info] [Trace - 8:55:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:20.985 [info] [Trace - 8:55:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:21.381 [info] [Trace - 8:55:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:21.582 [info] [Trace - 8:55:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:21.724 [info] [Trace - 8:55:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:21.879 [info] [Trace - 8:55:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:22.175 [info] [Trace - 8:55:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:22.525 [info] [Trace - 8:55:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:22.680 [info] [Trace - 8:55:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:55:38.789 [info] [Trace - 8:55:38 AM] Sending request 'textDocument/formatting - (1)'.
+2024-12-13 08:55:38.794 [info] [Trace - 8:55:38 AM] Received notification 'window/logMessage'.
+2024-12-13 08:55:38.794 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:55:38.794 [info] [Trace - 8:55:38 AM] Received notification 'window/logMessage'.
+2024-12-13 08:55:38.794 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:55:38.907 [info] [Trace - 8:55:38 AM] Received notification 'window/logMessage'.
+2024-12-13 08:55:38.907 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:55:38.914 [info] [Trace - 8:55:38 AM] Received response 'textDocument/formatting - (1)' in 125ms.
+2024-12-13 08:55:38.919 [info] [Trace - 8:55:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:06.935 [info] [Trace - 8:56:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:07.063 [info] [Trace - 8:56:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:07.408 [info] [Trace - 8:56:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:07.524 [info] [Trace - 8:56:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:07.679 [info] [Trace - 8:56:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:07.735 [info] [Trace - 8:56:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:07.923 [info] [Trace - 8:56:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:08.105 [info] [Trace - 8:56:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:08.191 [info] [Trace - 8:56:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:08.222 [info] [Trace - 8:56:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:08.388 [info] [Trace - 8:56:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:08.710 [info] [Trace - 8:56:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:09.523 [info] [Trace - 8:56:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:09.657 [info] [Trace - 8:56:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:09.803 [info] [Trace - 8:56:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:09.838 [info] [Trace - 8:56:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:09.999 [info] [Trace - 8:56:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:10.262 [info] [Trace - 8:56:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:10.294 [info] [Trace - 8:56:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:10.409 [info] [Trace - 8:56:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:10.544 [info] [Trace - 8:56:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:56:12.243 [info] [Trace - 8:56:12 AM] Sending request 'textDocument/formatting - (2)'.
+2024-12-13 08:56:12.247 [info] [Trace - 8:56:12 AM] Received notification 'window/logMessage'.
+2024-12-13 08:56:12.247 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:56:12.247 [info] [Trace - 8:56:12 AM] Received notification 'window/logMessage'.
+2024-12-13 08:56:12.247 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:56:12.291 [info] [Trace - 8:56:12 AM] Received notification 'window/logMessage'.
+2024-12-13 08:56:12.291 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:56:12.292 [info] [Trace - 8:56:12 AM] Received response 'textDocument/formatting - (2)' in 49ms.
+2024-12-13 08:57:59.701 [info] [Trace - 8:57:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:58:00.196 [info] [Trace - 8:58:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:58:00.446 [info] [Trace - 8:58:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:58:00.739 [info] [Trace - 8:58:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:58:01.363 [info] [Trace - 8:58:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:58:02.126 [info] [Trace - 8:58:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:58:02.651 [info] [Trace - 8:58:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:58:03.365 [info] [Trace - 8:58:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:58:04.433 [info] [Trace - 8:58:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:58:04.974 [info] [Trace - 8:58:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 08:58:16.848 [info] [Trace - 8:58:16 AM] Sending request 'textDocument/formatting - (3)'.
+2024-12-13 08:58:16.851 [info] [Trace - 8:58:16 AM] Received notification 'window/logMessage'.
+2024-12-13 08:58:16.851 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:58:16.852 [info] [Trace - 8:58:16 AM] Received notification 'window/logMessage'.
+2024-12-13 08:58:16.852 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:58:16.951 [info] [Trace - 8:58:16 AM] Received notification 'window/logMessage'.
+2024-12-13 08:58:16.951 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:58:16.955 [info] [Trace - 8:58:16 AM] Received response 'textDocument/formatting - (3)' in 107ms.
+2024-12-13 08:58:16.959 [info] [Trace - 8:58:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:01:17.126 [info] [Trace - 9:01:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:01:17.345 [info] [Trace - 9:01:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:01:33.118 [info] [Trace - 9:01:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:01:33.274 [info] [Trace - 9:01:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:01:49.915 [info] [Trace - 9:01:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:01:51.382 [info] [Trace - 9:01:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:01:53.297 [info] [Trace - 9:01:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:01:56.689 [info] [Trace - 9:01:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:01:59.706 [info] [Trace - 9:01:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:02:13.878 [info] [Trace - 9:02:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:02:15.704 [info] [Trace - 9:02:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:02:27.388 [info] [Trace - 9:02:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:02:29.752 [info] [Trace - 9:02:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:02:31.759 [info] [Trace - 9:02:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:02:44.352 [info] [Trace - 9:02:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:02:47.977 [info] [Trace - 9:02:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:02:50.368 [info] [Trace - 9:02:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:02:59.899 [info] [Trace - 9:02:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:03:00.045 [info] [Trace - 9:03:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:03:07.248 [info] [Trace - 9:03:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:03:11.258 [info] [Trace - 9:03:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:03:11.528 [info] [Trace - 9:03:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:03:21.348 [info] [Trace - 9:03:21 AM] Sending request 'textDocument/formatting - (4)'.
+2024-12-13 09:03:21.354 [info] [Trace - 9:03:21 AM] Received notification 'window/logMessage'.
+2024-12-13 09:03:21.354 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:03:21.354 [info] [Trace - 9:03:21 AM] Received notification 'window/logMessage'.
+2024-12-13 09:03:21.355 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:03:21.454 [info] [Trace - 9:03:21 AM] Received notification 'window/logMessage'.
+2024-12-13 09:03:21.454 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:03:21.459 [info] [Trace - 9:03:21 AM] Received response 'textDocument/formatting - (4)' in 111ms.
+2024-12-13 09:03:21.462 [info] [Trace - 9:03:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:09.785 [info] [Trace - 9:04:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:09.880 [info] [Trace - 9:04:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:12.360 [info] [Trace - 9:04:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:14.985 [info] [Trace - 9:04:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:16.308 [info] [Trace - 9:04:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:25.761 [info] [Trace - 9:04:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:27.485 [info] [Trace - 9:04:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:29.043 [info] [Trace - 9:04:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:41.429 [info] [Trace - 9:04:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:41.674 [info] [Trace - 9:04:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:42.165 [info] [Trace - 9:04:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:42.261 [info] [Trace - 9:04:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:42.646 [info] [Trace - 9:04:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:42.859 [info] [Trace - 9:04:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:42.984 [info] [Trace - 9:04:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:46.028 [info] [Trace - 9:04:46 AM] Sending request 'textDocument/formatting - (5)'.
+2024-12-13 09:04:46.036 [info] [Trace - 9:04:46 AM] Received notification 'window/logMessage'.
+2024-12-13 09:04:46.036 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:04:46.036 [info] [Trace - 9:04:46 AM] Received notification 'window/logMessage'.
+2024-12-13 09:04:46.036 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:04:46.219 [info] [Trace - 9:04:46 AM] Received notification 'window/logMessage'.
+2024-12-13 09:04:46.219 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:04:46.224 [info] [Trace - 9:04:46 AM] Received response 'textDocument/formatting - (5)' in 196ms.
+2024-12-13 09:04:46.230 [info] [Trace - 9:04:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:52.409 [info] [Trace - 9:04:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:52.692 [info] [Trace - 9:04:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:53.037 [info] [Trace - 9:04:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:04:54.898 [info] [Trace - 9:04:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:00.341 [info] [Trace - 9:05:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:00.605 [info] [Trace - 9:05:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:00.886 [info] [Trace - 9:05:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:01.820 [info] [Trace - 9:05:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:03.721 [info] [Trace - 9:05:03 AM] Sending request 'textDocument/formatting - (6)'.
+2024-12-13 09:05:03.725 [info] [Trace - 9:05:03 AM] Received notification 'window/logMessage'.
+2024-12-13 09:05:03.725 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:05:03.725 [info] [Trace - 9:05:03 AM] Received notification 'window/logMessage'.
+2024-12-13 09:05:03.725 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:05:03.774 [info] [Trace - 9:05:03 AM] Received notification 'window/logMessage'.
+2024-12-13 09:05:03.774 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:05:03.774 [info] [Trace - 9:05:03 AM] Received response 'textDocument/formatting - (6)' in 53ms.
+2024-12-13 09:05:19.058 [info] [Trace - 9:05:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:19.839 [info] [Trace - 9:05:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:20.498 [info] [Trace - 9:05:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:21.287 [info] [Trace - 9:05:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:21.330 [info] [Trace - 9:05:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:21.469 [info] [Trace - 9:05:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:22.339 [info] [Trace - 9:05:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:22.591 [info] [Trace - 9:05:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:22.839 [info] [Trace - 9:05:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:22.927 [info] [Trace - 9:05:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:23.044 [info] [Trace - 9:05:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:25.274 [info] [Trace - 9:05:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:25.409 [info] [Trace - 9:05:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:25.640 [info] [Trace - 9:05:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:26.337 [info] [Trace - 9:05:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:27.129 [info] [Trace - 9:05:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:27.295 [info] [Trace - 9:05:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:27.432 [info] [Trace - 9:05:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:27.512 [info] [Trace - 9:05:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:27.623 [info] [Trace - 9:05:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:27.986 [info] [Trace - 9:05:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:28.178 [info] [Trace - 9:05:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:28.446 [info] [Trace - 9:05:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:28.653 [info] [Trace - 9:05:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:28.788 [info] [Trace - 9:05:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:28.999 [info] [Trace - 9:05:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:29.069 [info] [Trace - 9:05:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:29.296 [info] [Trace - 9:05:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:29.512 [info] [Trace - 9:05:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:29.680 [info] [Trace - 9:05:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:29.814 [info] [Trace - 9:05:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:30.246 [info] [Trace - 9:05:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:30.360 [info] [Trace - 9:05:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:30.603 [info] [Trace - 9:05:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:30.868 [info] [Trace - 9:05:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:31.073 [info] [Trace - 9:05:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:31.328 [info] [Trace - 9:05:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:31.826 [info] [Trace - 9:05:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:34.463 [info] [Trace - 9:05:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:35.111 [info] [Trace - 9:05:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:37.289 [info] [Trace - 9:05:37 AM] Sending request 'textDocument/formatting - (7)'.
+2024-12-13 09:05:37.293 [info] [Trace - 9:05:37 AM] Received notification 'window/logMessage'.
+2024-12-13 09:05:37.293 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:05:37.294 [info] [Trace - 9:05:37 AM] Received notification 'window/logMessage'.
+2024-12-13 09:05:37.294 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:05:37.421 [info] [Trace - 9:05:37 AM] Received notification 'window/logMessage'.
+2024-12-13 09:05:37.421 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:05:37.426 [info] [Trace - 9:05:37 AM] Received response 'textDocument/formatting - (7)' in 137ms.
+2024-12-13 09:05:37.429 [info] [Trace - 9:05:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:05:58.539 [info] [Trace - 9:05:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:06:59.150 [info] [Trace - 9:06:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:07:05.904 [info] [Trace - 9:07:05 AM] Sending request 'textDocument/formatting - (8)'.
+2024-12-13 09:07:05.907 [info] [Trace - 9:07:05 AM] Received notification 'window/logMessage'.
+2024-12-13 09:07:05.907 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:07:05.907 [info] [Trace - 9:07:05 AM] Received notification 'window/logMessage'.
+2024-12-13 09:07:05.908 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:07:05.939 [info] [Trace - 9:07:05 AM] Received notification 'window/logMessage'.
+2024-12-13 09:07:05.939 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:07:05.940 [info] [Trace - 9:07:05 AM] Received response 'textDocument/formatting - (8)' in 35ms.
+2024-12-13 09:07:28.785 [info] [Trace - 9:07:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:07:33.448 [info] [Trace - 9:07:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:07:33.673 [info] [Trace - 9:07:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:07:35.441 [info] [Trace - 9:07:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:07:35.666 [info] [Trace - 9:07:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:07:38.337 [info] [Trace - 9:07:38 AM] Sending request 'textDocument/formatting - (9)'.
+2024-12-13 09:07:38.340 [info] [Trace - 9:07:38 AM] Received notification 'window/logMessage'.
+2024-12-13 09:07:38.341 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:07:38.341 [info] [Trace - 9:07:38 AM] Received notification 'window/logMessage'.
+2024-12-13 09:07:38.341 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:07:38.370 [info] [Trace - 9:07:38 AM] Received notification 'window/logMessage'.
+2024-12-13 09:07:38.370 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:07:38.370 [info] [Trace - 9:07:38 AM] Received response 'textDocument/formatting - (9)' in 33ms.
+2024-12-13 09:08:37.614 [info] [Trace - 9:08:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:08:37.842 [info] [Trace - 9:08:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:08:38.014 [info] [Trace - 9:08:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:08:39.185 [info] [Trace - 9:08:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:08:40.687 [info] [Trace - 9:08:40 AM] Sending request 'textDocument/formatting - (10)'.
+2024-12-13 09:08:40.691 [info] [Trace - 9:08:40 AM] Received notification 'window/logMessage'.
+2024-12-13 09:08:40.691 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:08:40.691 [info] [Trace - 9:08:40 AM] Received notification 'window/logMessage'.
+2024-12-13 09:08:40.691 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:08:40.728 [info] [Trace - 9:08:40 AM] Received notification 'window/logMessage'.
+2024-12-13 09:08:40.728 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:08:40.728 [info] [Trace - 9:08:40 AM] Received response 'textDocument/formatting - (10)' in 41ms.
+2024-12-13 09:10:49.007 [info] [Trace - 9:10:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:10:51.943 [info] [Trace - 9:10:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:10:54.673 [info] [Trace - 9:10:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:10:56.488 [info] [Trace - 9:10:56 AM] Sending request 'textDocument/formatting - (11)'.
+2024-12-13 09:10:56.491 [info] [Trace - 9:10:56 AM] Received notification 'window/logMessage'.
+2024-12-13 09:10:56.491 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:10:56.492 [info] [Trace - 9:10:56 AM] Received notification 'window/logMessage'.
+2024-12-13 09:10:56.492 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:10:56.524 [info] [Trace - 9:10:56 AM] Received notification 'window/logMessage'.
+2024-12-13 09:10:56.524 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:10:56.524 [info] [Trace - 9:10:56 AM] Received response 'textDocument/formatting - (11)' in 36ms.
+2024-12-13 09:11:01.287 [info] [Trace - 9:11:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:11:03.017 [info] [Trace - 9:11:03 AM] Sending request 'textDocument/formatting - (12)'.
+2024-12-13 09:11:03.021 [info] [Trace - 9:11:03 AM] Received notification 'window/logMessage'.
+2024-12-13 09:11:03.021 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:11:03.021 [info] [Trace - 9:11:03 AM] Received notification 'window/logMessage'.
+2024-12-13 09:11:03.021 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:11:03.055 [info] [Trace - 9:11:03 AM] Received notification 'window/logMessage'.
+2024-12-13 09:11:03.055 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:11:03.055 [info] [Trace - 9:11:03 AM] Received response 'textDocument/formatting - (12)' in 38ms.
+2024-12-13 09:12:49.802 [info] [Trace - 9:12:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:12:53.474 [info] [Trace - 9:12:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:12:53.633 [info] [Trace - 9:12:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:12:54.368 [info] [Trace - 9:12:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:12:58.988 [info] [Trace - 9:12:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:13:01.894 [info] [Trace - 9:13:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:13:02.142 [info] [Trace - 9:13:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:13:02.680 [info] [Trace - 9:13:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:13:04.069 [info] [Trace - 9:13:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:13:04.472 [info] [Trace - 9:13:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:13:06.387 [info] [Trace - 9:13:06 AM] Sending request 'textDocument/formatting - (13)'.
+2024-12-13 09:13:06.390 [info] [Trace - 9:13:06 AM] Received notification 'window/logMessage'.
+2024-12-13 09:13:06.390 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:13:06.391 [info] [Trace - 9:13:06 AM] Received notification 'window/logMessage'.
+2024-12-13 09:13:06.391 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:13:06.492 [info] [Trace - 9:13:06 AM] Received notification 'window/logMessage'.
+2024-12-13 09:13:06.492 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:13:06.497 [info] [Trace - 9:13:06 AM] Received response 'textDocument/formatting - (13)' in 110ms.
+2024-12-13 09:13:06.502 [info] [Trace - 9:13:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:15:07.979 [info] [Trace - 9:15:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:15:12.333 [info] [Trace - 9:15:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:15:12.553 [info] [Trace - 9:15:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:15:26.911 [info] [Trace - 9:15:26 AM] Sending request 'textDocument/formatting - (14)'.
+2024-12-13 09:15:26.914 [info] [Trace - 9:15:26 AM] Received notification 'window/logMessage'.
+2024-12-13 09:15:26.914 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:15:26.914 [info] [Trace - 9:15:26 AM] Received notification 'window/logMessage'.
+2024-12-13 09:15:26.914 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:15:26.981 [info] [Trace - 9:15:26 AM] Received notification 'window/logMessage'.
+2024-12-13 09:15:26.982 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:15:26.982 [info] [Trace - 9:15:26 AM] Received response 'textDocument/formatting - (14)' in 71ms.
+2024-12-13 09:17:27.894 [info] [Trace - 9:17:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:28.148 [info] [Trace - 9:17:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:28.917 [info] [Trace - 9:17:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:29.666 [info] [Trace - 9:17:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:32.896 [info] [Trace - 9:17:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:33.128 [info] [Trace - 9:17:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:33.308 [info] [Trace - 9:17:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:34.626 [info] [Trace - 9:17:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:36.928 [info] [Trace - 9:17:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:39.426 [info] [Trace - 9:17:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:42.024 [info] [Trace - 9:17:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:17:43.817 [info] [Trace - 9:17:43 AM] Sending request 'textDocument/formatting - (15)'.
+2024-12-13 09:17:43.821 [info] [Trace - 9:17:43 AM] Received notification 'window/logMessage'.
+2024-12-13 09:17:43.821 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:17:43.821 [info] [Trace - 9:17:43 AM] Received notification 'window/logMessage'.
+2024-12-13 09:17:43.821 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:17:43.923 [info] [Trace - 9:17:43 AM] Received notification 'window/logMessage'.
+2024-12-13 09:17:43.923 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:17:43.927 [info] [Trace - 9:17:43 AM] Received response 'textDocument/formatting - (15)' in 110ms.
+2024-12-13 09:17:43.932 [info] [Trace - 9:17:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:48.177 [info] [Trace - 9:21:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:48.379 [info] [Trace - 9:21:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:48.576 [info] [Trace - 9:21:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:52.851 [info] [Trace - 9:21:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:53.287 [info] [Trace - 9:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:53.791 [info] [Trace - 9:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:53.818 [info] [Trace - 9:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:53.850 [info] [Trace - 9:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:53.898 [info] [Trace - 9:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:53.926 [info] [Trace - 9:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:53.963 [info] [Trace - 9:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.004 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.029 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.050 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.084 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.126 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.168 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.191 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.247 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.265 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.288 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.321 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.375 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.424 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:21:54.430 [info] [Trace - 9:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:03.881 [info] [Trace - 9:22:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:08.537 [info] [Trace - 9:22:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:08.760 [info] [Trace - 9:22:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:11.273 [info] [Trace - 9:22:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:17.207 [info] [Trace - 9:22:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:18.160 [info] [Trace - 9:22:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:20.480 [info] [Trace - 9:22:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:20.727 [info] [Trace - 9:22:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:21.017 [info] [Trace - 9:22:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:23.781 [info] [Trace - 9:22:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:26.640 [info] [Trace - 9:22:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:26.801 [info] [Trace - 9:22:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:27.089 [info] [Trace - 9:22:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:27.470 [info] [Trace - 9:22:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:27.758 [info] [Trace - 9:22:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:28.119 [info] [Trace - 9:22:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:28.428 [info] [Trace - 9:22:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:28.744 [info] [Trace - 9:22:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:29.231 [info] [Trace - 9:22:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:34.352 [info] [Trace - 9:22:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:34.856 [info] [Trace - 9:22:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:36.315 [info] [Trace - 9:22:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:38.829 [info] [Trace - 9:22:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:39.053 [info] [Trace - 9:22:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:40.838 [info] [Trace - 9:22:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:42.730 [info] [Trace - 9:22:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:42.934 [info] [Trace - 9:22:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:45.257 [info] [Trace - 9:22:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:48.185 [info] [Trace - 9:22:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:48.362 [info] [Trace - 9:22:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:49.974 [info] [Trace - 9:22:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:22:55.828 [info] [Trace - 9:22:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:02.384 [info] [Trace - 9:23:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:02.862 [info] [Trace - 9:23:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:03.735 [info] [Trace - 9:23:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:05.160 [info] [Trace - 9:23:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:07.356 [info] [Trace - 9:23:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:07.787 [info] [Trace - 9:23:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:09.308 [info] [Trace - 9:23:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:11.823 [info] [Trace - 9:23:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:12.452 [info] [Trace - 9:23:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:14.701 [info] [Trace - 9:23:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:27.379 [info] [Trace - 9:23:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:30.685 [info] [Trace - 9:23:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:33.117 [info] [Trace - 9:23:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:33.342 [info] [Trace - 9:23:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:33.677 [info] [Trace - 9:23:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:34.636 [info] [Trace - 9:23:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:35.868 [info] [Trace - 9:23:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:36.127 [info] [Trace - 9:23:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:36.378 [info] [Trace - 9:23:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:36.650 [info] [Trace - 9:23:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:37.709 [info] [Trace - 9:23:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:40.058 [info] [Trace - 9:23:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:41.667 [info] [Trace - 9:23:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:42.350 [info] [Trace - 9:23:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:46.097 [info] [Trace - 9:23:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:47.017 [info] [Trace - 9:23:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:47.261 [info] [Trace - 9:23:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:48.275 [info] [Trace - 9:23:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:48.499 [info] [Trace - 9:23:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:23:50.407 [info] [Trace - 9:23:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:04.330 [info] [Trace - 9:24:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:04.693 [info] [Trace - 9:24:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:05.415 [info] [Trace - 9:24:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:05.601 [info] [Trace - 9:24:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:08.542 [info] [Trace - 9:24:08 AM] Sending request 'textDocument/formatting - (16)'.
+2024-12-13 09:24:08.546 [info] [Trace - 9:24:08 AM] Received notification 'window/logMessage'.
+2024-12-13 09:24:08.546 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:24:08.546 [info] [Trace - 9:24:08 AM] Received notification 'window/logMessage'.
+2024-12-13 09:24:08.547 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:24:08.646 [info] [Trace - 9:24:08 AM] Received notification 'window/logMessage'.
+2024-12-13 09:24:08.646 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:24:08.651 [info] [Trace - 9:24:08 AM] Received response 'textDocument/formatting - (16)' in 109ms.
+2024-12-13 09:24:08.654 [info] [Trace - 9:24:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:15.049 [info] [Trace - 9:24:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:15.295 [info] [Trace - 9:24:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:16.039 [info] [Trace - 9:24:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:16.334 [info] [Trace - 9:24:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:16.601 [info] [Trace - 9:24:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:16.739 [info] [Trace - 9:24:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:16.853 [info] [Trace - 9:24:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:16.965 [info] [Trace - 9:24:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:17.527 [info] [Trace - 9:24:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:17.708 [info] [Trace - 9:24:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:18.628 [info] [Trace - 9:24:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:18.742 [info] [Trace - 9:24:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:18.922 [info] [Trace - 9:24:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:19.108 [info] [Trace - 9:24:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:19.213 [info] [Trace - 9:24:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:19.329 [info] [Trace - 9:24:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:19.440 [info] [Trace - 9:24:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:19.601 [info] [Trace - 9:24:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:19.800 [info] [Trace - 9:24:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:19.979 [info] [Trace - 9:24:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:20.093 [info] [Trace - 9:24:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:20.584 [info] [Trace - 9:24:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:20.700 [info] [Trace - 9:24:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:20.901 [info] [Trace - 9:24:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:21.369 [info] [Trace - 9:24:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:21.484 [info] [Trace - 9:24:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:21.706 [info] [Trace - 9:24:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:21.726 [info] [Trace - 9:24:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:21.863 [info] [Trace - 9:24:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:22.199 [info] [Trace - 9:24:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:22.422 [info] [Trace - 9:24:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:22.644 [info] [Trace - 9:24:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:22.754 [info] [Trace - 9:24:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:22.897 [info] [Trace - 9:24:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:23.265 [info] [Trace - 9:24:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:23.462 [info] [Trace - 9:24:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:23.607 [info] [Trace - 9:24:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:23.813 [info] [Trace - 9:24:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:24.358 [info] [Trace - 9:24:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:24.485 [info] [Trace - 9:24:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:24.580 [info] [Trace - 9:24:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:24.687 [info] [Trace - 9:24:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:25.290 [info] [Trace - 9:24:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:25.581 [info] [Trace - 9:24:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:25.716 [info] [Trace - 9:24:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:26.092 [info] [Trace - 9:24:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:26.176 [info] [Trace - 9:24:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:26.228 [info] [Trace - 9:24:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:26.320 [info] [Trace - 9:24:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:26.432 [info] [Trace - 9:24:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:26.574 [info] [Trace - 9:24:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:28.373 [info] [Trace - 9:24:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:28.599 [info] [Trace - 9:24:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:29.227 [info] [Trace - 9:24:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:29.668 [info] [Trace - 9:24:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:29.873 [info] [Trace - 9:24:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:30.104 [info] [Trace - 9:24:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:30.539 [info] [Trace - 9:24:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:30.766 [info] [Trace - 9:24:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:31.011 [info] [Trace - 9:24:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:38.977 [info] [Trace - 9:24:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:39.049 [info] [Trace - 9:24:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:39.406 [info] [Trace - 9:24:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:39.768 [info] [Trace - 9:24:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:39.849 [info] [Trace - 9:24:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:39.970 [info] [Trace - 9:24:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:40.210 [info] [Trace - 9:24:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:40.307 [info] [Trace - 9:24:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:40.378 [info] [Trace - 9:24:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:40.543 [info] [Trace - 9:24:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:43.408 [info] [Trace - 9:24:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:43.436 [info] [Trace - 9:24:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:43.514 [info] [Trace - 9:24:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:43.620 [info] [Trace - 9:24:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:43.803 [info] [Trace - 9:24:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:44.007 [info] [Trace - 9:24:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:44.257 [info] [Trace - 9:24:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:44.668 [info] [Trace - 9:24:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:44.851 [info] [Trace - 9:24:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:45.038 [info] [Trace - 9:24:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:45.282 [info] [Trace - 9:24:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:45.420 [info] [Trace - 9:24:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:45.557 [info] [Trace - 9:24:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:45.764 [info] [Trace - 9:24:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:45.877 [info] [Trace - 9:24:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:45.988 [info] [Trace - 9:24:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:46.781 [info] [Trace - 9:24:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:47.233 [info] [Trace - 9:24:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:47.442 [info] [Trace - 9:24:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:48.162 [info] [Trace - 9:24:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:48.526 [info] [Trace - 9:24:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:48.661 [info] [Trace - 9:24:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:48.906 [info] [Trace - 9:24:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:49.599 [info] [Trace - 9:24:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:49.855 [info] [Trace - 9:24:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:49.993 [info] [Trace - 9:24:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:50.104 [info] [Trace - 9:24:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:50.212 [info] [Trace - 9:24:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:51.497 [info] [Trace - 9:24:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:51.611 [info] [Trace - 9:24:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:51.708 [info] [Trace - 9:24:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:51.767 [info] [Trace - 9:24:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:54.346 [info] [Trace - 9:24:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:54.713 [info] [Trace - 9:24:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:55.022 [info] [Trace - 9:24:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:55.544 [info] [Trace - 9:24:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:55.631 [info] [Trace - 9:24:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:24:55.818 [info] [Trace - 9:24:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:06.488 [info] [Trace - 9:25:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:06.629 [info] [Trace - 9:25:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:06.829 [info] [Trace - 9:25:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:07.032 [info] [Trace - 9:25:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:07.232 [info] [Trace - 9:25:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:07.411 [info] [Trace - 9:25:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:07.634 [info] [Trace - 9:25:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:07.904 [info] [Trace - 9:25:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:08.126 [info] [Trace - 9:25:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:08.326 [info] [Trace - 9:25:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:09.155 [info] [Trace - 9:25:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:09.310 [info] [Trace - 9:25:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:09.622 [info] [Trace - 9:25:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:09.713 [info] [Trace - 9:25:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:09.913 [info] [Trace - 9:25:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:10.160 [info] [Trace - 9:25:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:10.185 [info] [Trace - 9:25:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:10.273 [info] [Trace - 9:25:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:10.826 [info] [Trace - 9:25:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:11.042 [info] [Trace - 9:25:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:11.253 [info] [Trace - 9:25:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:11.498 [info] [Trace - 9:25:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:17.207 [info] [Trace - 9:25:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:17.464 [info] [Trace - 9:25:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:17.781 [info] [Trace - 9:25:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:18.099 [info] [Trace - 9:25:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:19.730 [info] [Trace - 9:25:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:19.835 [info] [Trace - 9:25:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:20.110 [info] [Trace - 9:25:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:20.226 [info] [Trace - 9:25:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:20.363 [info] [Trace - 9:25:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:20.545 [info] [Trace - 9:25:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:20.611 [info] [Trace - 9:25:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:20.689 [info] [Trace - 9:25:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:20.858 [info] [Trace - 9:25:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:20.968 [info] [Trace - 9:25:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:21.050 [info] [Trace - 9:25:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:21.106 [info] [Trace - 9:25:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:21.386 [info] [Trace - 9:25:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:21.581 [info] [Trace - 9:25:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:21.777 [info] [Trace - 9:25:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:21.898 [info] [Trace - 9:25:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:21.923 [info] [Trace - 9:25:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:22.704 [info] [Trace - 9:25:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:23.154 [info] [Trace - 9:25:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:23.764 [info] [Trace - 9:25:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:23.988 [info] [Trace - 9:25:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:24.584 [info] [Trace - 9:25:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:24.691 [info] [Trace - 9:25:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:24.849 [info] [Trace - 9:25:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:25.089 [info] [Trace - 9:25:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:25.245 [info] [Trace - 9:25:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:25.384 [info] [Trace - 9:25:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:25.584 [info] [Trace - 9:25:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:25.785 [info] [Trace - 9:25:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:25.942 [info] [Trace - 9:25:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:26.032 [info] [Trace - 9:25:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:26.123 [info] [Trace - 9:25:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:26.218 [info] [Trace - 9:25:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:26.347 [info] [Trace - 9:25:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:26.388 [info] [Trace - 9:25:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:26.480 [info] [Trace - 9:25:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:31.536 [info] [Trace - 9:25:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:31.678 [info] [Trace - 9:25:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:31.861 [info] [Trace - 9:25:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:32.035 [info] [Trace - 9:25:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:32.235 [info] [Trace - 9:25:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:32.327 [info] [Trace - 9:25:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:32.434 [info] [Trace - 9:25:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:32.674 [info] [Trace - 9:25:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:32.863 [info] [Trace - 9:25:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:32.998 [info] [Trace - 9:25:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:33.466 [info] [Trace - 9:25:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:33.582 [info] [Trace - 9:25:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:33.699 [info] [Trace - 9:25:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:33.794 [info] [Trace - 9:25:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:42.684 [info] [Trace - 9:25:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:42.714 [info] [Trace - 9:25:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:43.105 [info] [Trace - 9:25:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:43.293 [info] [Trace - 9:25:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:43.913 [info] [Trace - 9:25:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:44.651 [info] [Trace - 9:25:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:44.882 [info] [Trace - 9:25:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:45.045 [info] [Trace - 9:25:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:45.213 [info] [Trace - 9:25:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:45.346 [info] [Trace - 9:25:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:46.607 [info] [Trace - 9:25:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:46.882 [info] [Trace - 9:25:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:47.049 [info] [Trace - 9:25:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:47.252 [info] [Trace - 9:25:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:47.429 [info] [Trace - 9:25:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:47.934 [info] [Trace - 9:25:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:48.185 [info] [Trace - 9:25:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:48.344 [info] [Trace - 9:25:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:48.499 [info] [Trace - 9:25:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:48.660 [info] [Trace - 9:25:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:51.043 [info] [Trace - 9:25:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:51.204 [info] [Trace - 9:25:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:51.410 [info] [Trace - 9:25:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:25:57.656 [info] [Trace - 9:25:57 AM] Sending request 'textDocument/formatting - (17)'.
+2024-12-13 09:25:57.661 [info] [Trace - 9:25:57 AM] Received notification 'window/logMessage'.
+2024-12-13 09:25:57.661 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:25:57.661 [info] [Trace - 9:25:57 AM] Received notification 'window/logMessage'.
+2024-12-13 09:25:57.661 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:25:57.775 [info] [Trace - 9:25:57 AM] Received notification 'window/logMessage'.
+2024-12-13 09:25:57.775 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:25:57.781 [info] [Trace - 9:25:57 AM] Received response 'textDocument/formatting - (17)' in 125ms.
+2024-12-13 09:25:57.785 [info] [Trace - 9:25:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:09.616 [info] [Trace - 9:26:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:13.122 [info] [Trace - 9:26:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:13.259 [info] [Trace - 9:26:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:13.767 [info] [Trace - 9:26:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:18.055 [info] [Trace - 9:26:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:21.388 [info] [Trace - 9:26:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:21.568 [info] [Trace - 9:26:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:22.025 [info] [Trace - 9:26:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:22.950 [info] [Trace - 9:26:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:23.244 [info] [Trace - 9:26:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:23.989 [info] [Trace - 9:26:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:24.581 [info] [Trace - 9:26:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:26:27.067 [info] [Trace - 9:26:27 AM] Sending request 'textDocument/formatting - (18)'.
+2024-12-13 09:26:27.071 [info] [Trace - 9:26:27 AM] Received notification 'window/logMessage'.
+2024-12-13 09:26:27.071 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:26:27.071 [info] [Trace - 9:26:27 AM] Received notification 'window/logMessage'.
+2024-12-13 09:26:27.071 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:26:27.186 [info] [Trace - 9:26:27 AM] Received notification 'window/logMessage'.
+2024-12-13 09:26:27.186 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:26:27.191 [info] [Trace - 9:26:27 AM] Received response 'textDocument/formatting - (18)' in 124ms.
+2024-12-13 09:26:27.195 [info] [Trace - 9:26:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:27:49.738 [info] [Trace - 9:27:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:27:49.760 [info] [Trace - 9:27:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:27:55.139 [info] [Trace - 9:27:55 AM] Sending request 'textDocument/formatting - (19)'.
+2024-12-13 09:27:55.142 [info] [Trace - 9:27:55 AM] Received notification 'window/logMessage'.
+2024-12-13 09:27:55.142 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:27:55.142 [info] [Trace - 9:27:55 AM] Received notification 'window/logMessage'.
+2024-12-13 09:27:55.142 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:27:55.290 [info] [Trace - 9:27:55 AM] Received notification 'window/logMessage'.
+2024-12-13 09:27:55.290 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:27:55.295 [info] [Trace - 9:27:55 AM] Received response 'textDocument/formatting - (19)' in 156ms.
+2024-12-13 09:27:55.298 [info] [Trace - 9:27:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:29:11.625 [info] [Trace - 9:29:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:29:11.657 [info] [Trace - 9:29:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:29:24.687 [info] [Trace - 9:29:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:29:24.854 [info] [Trace - 9:29:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:37:27.339 [info] [Trace - 9:37:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:37:27.637 [info] [Trace - 9:37:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:37:28.164 [info] [Trace - 9:37:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:37:28.970 [info] [Trace - 9:37:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:37:31.386 [info] [Trace - 9:37:31 AM] Sending request 'textDocument/formatting - (20)'.
+2024-12-13 09:37:31.390 [info] [Trace - 9:37:31 AM] Received notification 'window/logMessage'.
+2024-12-13 09:37:31.390 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:37:31.390 [info] [Trace - 9:37:31 AM] Received notification 'window/logMessage'.
+2024-12-13 09:37:31.390 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:37:31.423 [info] [Trace - 9:37:31 AM] Received notification 'window/logMessage'.
+2024-12-13 09:37:31.423 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:37:31.423 [info] [Trace - 9:37:31 AM] Received response 'textDocument/formatting - (20)' in 37ms.
+2024-12-13 09:38:41.065 [info] [Trace - 9:38:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:41.757 [info] [Trace - 9:38:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:41.943 [info] [Trace - 9:38:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:42.263 [info] [Trace - 9:38:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:43.125 [info] [Trace - 9:38:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:53.382 [info] [Trace - 9:38:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:56.766 [info] [Trace - 9:38:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:57.262 [info] [Trace - 9:38:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:57.815 [info] [Trace - 9:38:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:58.063 [info] [Trace - 9:38:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:58.267 [info] [Trace - 9:38:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:58.354 [info] [Trace - 9:38:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:58.549 [info] [Trace - 9:38:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:38:58.737 [info] [Trace - 9:38:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:00.811 [info] [Trace - 9:39:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:01.420 [info] [Trace - 9:39:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:07.235 [info] [Trace - 9:39:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:07.291 [info] [Trace - 9:39:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:07.309 [info] [Trace - 9:39:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:07.521 [info] [Trace - 9:39:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:09.636 [info] [Trace - 9:39:09 AM] Sending request 'textDocument/formatting - (21)'.
+2024-12-13 09:39:09.640 [info] [Trace - 9:39:09 AM] Received notification 'window/logMessage'.
+2024-12-13 09:39:09.640 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:39:09.640 [info] [Trace - 9:39:09 AM] Received notification 'window/logMessage'.
+2024-12-13 09:39:09.640 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:39:09.682 [info] [Trace - 9:39:09 AM] Received notification 'window/logMessage'.
+2024-12-13 09:39:09.683 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:39:09.683 [info] [Trace - 9:39:09 AM] Received response 'textDocument/formatting - (21)' in 47ms.
+2024-12-13 09:39:13.794 [info] [Trace - 9:39:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:14.008 [info] [Trace - 9:39:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:14.257 [info] [Trace - 9:39:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:14.350 [info] [Trace - 9:39:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:14.532 [info] [Trace - 9:39:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:14.900 [info] [Trace - 9:39:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:15.555 [info] [Trace - 9:39:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:15.602 [info] [Trace - 9:39:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:15.827 [info] [Trace - 9:39:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:17.936 [info] [Trace - 9:39:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:39:19.811 [info] [Trace - 9:39:19 AM] Sending request 'textDocument/formatting - (22)'.
+2024-12-13 09:39:19.818 [info] [Trace - 9:39:19 AM] Received notification 'window/logMessage'.
+2024-12-13 09:39:19.818 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:39:19.819 [info] [Trace - 9:39:19 AM] Received notification 'window/logMessage'.
+2024-12-13 09:39:19.819 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:39:19.850 [info] [Trace - 9:39:19 AM] Received notification 'window/logMessage'.
+2024-12-13 09:39:19.850 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:39:19.851 [info] [Trace - 9:39:19 AM] Received response 'textDocument/formatting - (22)' in 40ms.
+2024-12-13 09:40:22.528 [info] [Trace - 9:40:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:23.539 [info] [Trace - 9:40:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:23.946 [info] [Trace - 9:40:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:24.063 [info] [Trace - 9:40:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:24.182 [info] [Trace - 9:40:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:24.379 [info] [Trace - 9:40:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:24.623 [info] [Trace - 9:40:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:24.695 [info] [Trace - 9:40:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:24.770 [info] [Trace - 9:40:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:25.012 [info] [Trace - 9:40:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:25.047 [info] [Trace - 9:40:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:25.278 [info] [Trace - 9:40:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:25.412 [info] [Trace - 9:40:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:25.551 [info] [Trace - 9:40:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:30.178 [info] [Trace - 9:40:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:33.445 [info] [Trace - 9:40:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:37.642 [info] [Trace - 9:40:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:37.795 [info] [Trace - 9:40:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:37.982 [info] [Trace - 9:40:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:37.991 [info] [Trace - 9:40:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:38.187 [info] [Trace - 9:40:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:38.390 [info] [Trace - 9:40:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:38.461 [info] [Trace - 9:40:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:38.612 [info] [Trace - 9:40:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:38.753 [info] [Trace - 9:40:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:38.808 [info] [Trace - 9:40:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:40:40.402 [info] [Trace - 9:40:40 AM] Sending request 'textDocument/formatting - (23)'.
+2024-12-13 09:40:40.405 [info] [Trace - 9:40:40 AM] Received notification 'window/logMessage'.
+2024-12-13 09:40:40.405 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:40:40.406 [info] [Trace - 9:40:40 AM] Received notification 'window/logMessage'.
+2024-12-13 09:40:40.406 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:40:40.525 [info] [Trace - 9:40:40 AM] Received notification 'window/logMessage'.
+2024-12-13 09:40:40.525 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:40:40.531 [info] [Trace - 9:40:40 AM] Received response 'textDocument/formatting - (23)' in 129ms.
+2024-12-13 09:40:40.536 [info] [Trace - 9:40:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:48:49.632 [info] [Trace - 9:48:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:48:53.301 [info] [Trace - 9:48:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:48:54.104 [info] [Trace - 9:48:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:48:56.408 [info] [Trace - 9:48:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:48:58.656 [info] [Trace - 9:48:58 AM] Sending request 'textDocument/formatting - (24)'.
+2024-12-13 09:48:58.659 [info] [Trace - 9:48:58 AM] Received notification 'window/logMessage'.
+2024-12-13 09:48:58.659 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:48:58.659 [info] [Trace - 9:48:58 AM] Received notification 'window/logMessage'.
+2024-12-13 09:48:58.659 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:48:58.692 [info] [Trace - 9:48:58 AM] Received notification 'window/logMessage'.
+2024-12-13 09:48:58.692 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:48:58.692 [info] [Trace - 9:48:58 AM] Received response 'textDocument/formatting - (24)' in 36ms.
+2024-12-13 09:50:15.111 [info] [Trace - 9:50:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:16.623 [info] [Trace - 9:50:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:16.695 [info] [Trace - 9:50:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:16.763 [info] [Trace - 9:50:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:17.456 [info] [Trace - 9:50:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:18.237 [info] [Trace - 9:50:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:18.836 [info] [Trace - 9:50:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:19.084 [info] [Trace - 9:50:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:19.489 [info] [Trace - 9:50:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:19.666 [info] [Trace - 9:50:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:19.972 [info] [Trace - 9:50:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:20.200 [info] [Trace - 9:50:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:20.407 [info] [Trace - 9:50:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:20.574 [info] [Trace - 9:50:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:22.081 [info] [Trace - 9:50:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:22.815 [info] [Trace - 9:50:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:38.773 [info] [Trace - 9:50:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:40.410 [info] [Trace - 9:50:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:40.791 [info] [Trace - 9:50:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:42.494 [info] [Trace - 9:50:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:43.445 [info] [Trace - 9:50:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:46.008 [info] [Trace - 9:50:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:49.077 [info] [Trace - 9:50:49 AM] Sending request 'textDocument/formatting - (25)'.
+2024-12-13 09:50:49.086 [info] [Trace - 9:50:49 AM] Received notification 'window/logMessage'.
+2024-12-13 09:50:49.086 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:50:49.086 [info] [Trace - 9:50:49 AM] Received notification 'window/logMessage'.
+2024-12-13 09:50:49.087 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:50:49.188 [info] [Trace - 9:50:49 AM] Received notification 'window/logMessage'.
+2024-12-13 09:50:49.188 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:50:49.192 [info] [Trace - 9:50:49 AM] Received response 'textDocument/formatting - (25)' in 115ms.
+2024-12-13 09:50:49.196 [info] [Trace - 9:50:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:50:56.552 [info] [Trace - 9:50:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:05.982 [info] [Trace - 9:51:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:11.052 [info] [Trace - 9:51:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:14.918 [info] [Trace - 9:51:14 AM] Sending request 'textDocument/formatting - (26)'.
+2024-12-13 09:51:14.920 [info] [Trace - 9:51:14 AM] Received notification 'window/logMessage'.
+2024-12-13 09:51:14.920 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:51:14.921 [info] [Trace - 9:51:14 AM] Received notification 'window/logMessage'.
+2024-12-13 09:51:14.921 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:51:14.987 [info] [Trace - 9:51:14 AM] Received notification 'window/logMessage'.
+2024-12-13 09:51:14.987 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:51:14.988 [info] [Trace - 9:51:14 AM] Received response 'textDocument/formatting - (26)' in 70ms.
+2024-12-13 09:51:21.005 [info] [Trace - 9:51:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:21.312 [info] [Trace - 9:51:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:21.628 [info] [Trace - 9:51:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:29.866 [info] [Trace - 9:51:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:32.169 [info] [Trace - 9:51:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:34.360 [info] [Trace - 9:51:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:36.181 [info] [Trace - 9:51:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:39.515 [info] [Trace - 9:51:39 AM] Sending request 'textDocument/formatting - (27)'.
+2024-12-13 09:51:39.518 [info] [Trace - 9:51:39 AM] Received notification 'window/logMessage'.
+2024-12-13 09:51:39.518 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:51:39.518 [info] [Trace - 9:51:39 AM] Received notification 'window/logMessage'.
+2024-12-13 09:51:39.518 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:51:39.552 [info] [Trace - 9:51:39 AM] Received notification 'window/logMessage'.
+2024-12-13 09:51:39.552 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:51:39.552 [info] [Trace - 9:51:39 AM] Received response 'textDocument/formatting - (27)' in 37ms.
+2024-12-13 09:51:54.411 [info] [Trace - 9:51:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:51:58.020 [info] [Trace - 9:51:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:02.710 [info] [Trace - 9:52:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:03.405 [info] [Trace - 9:52:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:04.050 [info] [Trace - 9:52:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:04.741 [info] [Trace - 9:52:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:12.702 [info] [Trace - 9:52:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:16.105 [info] [Trace - 9:52:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:18.248 [info] [Trace - 9:52:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:20.387 [info] [Trace - 9:52:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:20.883 [info] [Trace - 9:52:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:23.154 [info] [Trace - 9:52:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:23.683 [info] [Trace - 9:52:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:24.878 [info] [Trace - 9:52:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:25.860 [info] [Trace - 9:52:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:27.377 [info] [Trace - 9:52:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:27.601 [info] [Trace - 9:52:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:27.823 [info] [Trace - 9:52:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:28.069 [info] [Trace - 9:52:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:32.983 [info] [Trace - 9:52:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:34.606 [info] [Trace - 9:52:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:34.807 [info] [Trace - 9:52:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:34.988 [info] [Trace - 9:52:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:35.183 [info] [Trace - 9:52:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:35.377 [info] [Trace - 9:52:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:35.544 [info] [Trace - 9:52:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:35.748 [info] [Trace - 9:52:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:35.922 [info] [Trace - 9:52:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:36.102 [info] [Trace - 9:52:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:38.860 [info] [Trace - 9:52:38 AM] Sending request 'textDocument/formatting - (28)'.
+2024-12-13 09:52:38.864 [info] [Trace - 9:52:38 AM] Received notification 'window/logMessage'.
+2024-12-13 09:52:38.864 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:52:38.864 [info] [Trace - 9:52:38 AM] Received notification 'window/logMessage'.
+2024-12-13 09:52:38.864 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:52:38.986 [info] [Trace - 9:52:38 AM] Received notification 'window/logMessage'.
+2024-12-13 09:52:38.986 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 09:52:38.992 [info] [Trace - 9:52:38 AM] Received response 'textDocument/formatting - (28)' in 133ms.
+2024-12-13 09:52:38.996 [info] [Trace - 9:52:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:47.666 [info] [Trace - 9:52:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:48.583 [info] [Trace - 9:52:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:52:49.361 [info] [Trace - 9:52:49 AM] Sending request 'textDocument/formatting - (29)'.
+2024-12-13 09:52:49.365 [info] [Trace - 9:52:49 AM] Received notification 'window/logMessage'.
+2024-12-13 09:52:49.365 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:52:49.365 [info] [Trace - 9:52:49 AM] Received notification 'window/logMessage'.
+2024-12-13 09:52:49.365 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:52:49.409 [info] [Trace - 9:52:49 AM] Received notification 'window/logMessage'.
+2024-12-13 09:52:49.409 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:52:49.410 [info] [Trace - 9:52:49 AM] Received response 'textDocument/formatting - (29)' in 48ms.
+2024-12-13 09:53:58.948 [info] [Trace - 9:53:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:53:59.152 [info] [Trace - 9:53:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:53:59.328 [info] [Trace - 9:53:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:53:59.527 [info] [Trace - 9:53:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:53:59.709 [info] [Trace - 9:53:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:53:59.892 [info] [Trace - 9:53:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:54:00.065 [info] [Trace - 9:54:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:54:03.468 [info] [Trace - 9:54:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:54:07.355 [info] [Trace - 9:54:07 AM] Sending request 'textDocument/formatting - (30)'.
+2024-12-13 09:54:07.358 [info] [Trace - 9:54:07 AM] Received notification 'window/logMessage'.
+2024-12-13 09:54:07.358 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:54:07.358 [info] [Trace - 9:54:07 AM] Received notification 'window/logMessage'.
+2024-12-13 09:54:07.358 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:54:07.392 [info] [Trace - 9:54:07 AM] Received notification 'window/logMessage'.
+2024-12-13 09:54:07.392 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:54:07.392 [info] [Trace - 9:54:07 AM] Received response 'textDocument/formatting - (30)' in 37ms.
+2024-12-13 09:54:22.082 [info] [Trace - 9:54:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:54:24.218 [info] [Trace - 9:54:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:54:26.149 [info] [Trace - 9:54:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:54:28.341 [info] [Trace - 9:54:28 AM] Sending request 'textDocument/formatting - (31)'.
+2024-12-13 09:54:28.345 [info] [Trace - 9:54:28 AM] Received notification 'window/logMessage'.
+2024-12-13 09:54:28.345 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:54:28.345 [info] [Trace - 9:54:28 AM] Received notification 'window/logMessage'.
+2024-12-13 09:54:28.345 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:54:28.377 [info] [Trace - 9:54:28 AM] Received notification 'window/logMessage'.
+2024-12-13 09:54:28.377 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:54:28.378 [info] [Trace - 9:54:28 AM] Received response 'textDocument/formatting - (31)' in 38ms.
+2024-12-13 09:55:00.313 [info] [Trace - 9:55:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:00.667 [info] [Trace - 9:55:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:01.339 [info] [Trace - 9:55:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:01.523 [info] [Trace - 9:55:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:01.610 [info] [Trace - 9:55:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:01.732 [info] [Trace - 9:55:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:02.146 [info] [Trace - 9:55:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:02.526 [info] [Trace - 9:55:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:02.797 [info] [Trace - 9:55:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:02.931 [info] [Trace - 9:55:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:03.085 [info] [Trace - 9:55:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:03.179 [info] [Trace - 9:55:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:03.373 [info] [Trace - 9:55:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:03.443 [info] [Trace - 9:55:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:03.580 [info] [Trace - 9:55:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:03.623 [info] [Trace - 9:55:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:03.739 [info] [Trace - 9:55:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:03.872 [info] [Trace - 9:55:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:03.940 [info] [Trace - 9:55:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:04.048 [info] [Trace - 9:55:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:04.522 [info] [Trace - 9:55:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:04.633 [info] [Trace - 9:55:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:04.673 [info] [Trace - 9:55:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:04.787 [info] [Trace - 9:55:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:04.915 [info] [Trace - 9:55:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:05.016 [info] [Trace - 9:55:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:05.347 [info] [Trace - 9:55:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:09.048 [info] [Trace - 9:55:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:09.074 [info] [Trace - 9:55:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:09.255 [info] [Trace - 9:55:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:09.342 [info] [Trace - 9:55:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:09.525 [info] [Trace - 9:55:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:09.656 [info] [Trace - 9:55:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:09.854 [info] [Trace - 9:55:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:10.079 [info] [Trace - 9:55:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:10.756 [info] [Trace - 9:55:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:10.884 [info] [Trace - 9:55:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:10.994 [info] [Trace - 9:55:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:11.197 [info] [Trace - 9:55:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:11.310 [info] [Trace - 9:55:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:11.466 [info] [Trace - 9:55:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:11.602 [info] [Trace - 9:55:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:11.710 [info] [Trace - 9:55:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:11.917 [info] [Trace - 9:55:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:12.036 [info] [Trace - 9:55:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:12.157 [info] [Trace - 9:55:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:12.234 [info] [Trace - 9:55:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:12.404 [info] [Trace - 9:55:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:12.560 [info] [Trace - 9:55:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:12.622 [info] [Trace - 9:55:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:12.672 [info] [Trace - 9:55:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:12.879 [info] [Trace - 9:55:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:15.390 [info] [Trace - 9:55:15 AM] Sending request 'textDocument/formatting - (32)'.
+2024-12-13 09:55:15.394 [info] [Trace - 9:55:15 AM] Received notification 'window/logMessage'.
+2024-12-13 09:55:15.394 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:55:15.394 [info] [Trace - 9:55:15 AM] Received notification 'window/logMessage'.
+2024-12-13 09:55:15.394 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:55:15.433 [info] [Trace - 9:55:15 AM] Received notification 'window/logMessage'.
+2024-12-13 09:55:15.433 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:55:15.434 [info] [Trace - 9:55:15 AM] Received response 'textDocument/formatting - (32)' in 44ms.
+2024-12-13 09:55:20.151 [info] [Trace - 9:55:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:20.218 [info] [Trace - 9:55:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:21.477 [info] [Trace - 9:55:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:21.684 [info] [Trace - 9:55:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:21.777 [info] [Trace - 9:55:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:21.917 [info] [Trace - 9:55:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:22.121 [info] [Trace - 9:55:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:24.258 [info] [Trace - 9:55:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 09:55:25.964 [info] [Trace - 9:55:25 AM] Sending request 'textDocument/formatting - (33)'.
+2024-12-13 09:55:25.969 [info] [Trace - 9:55:25 AM] Received notification 'window/logMessage'.
+2024-12-13 09:55:25.969 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 09:55:25.969 [info] [Trace - 9:55:25 AM] Received notification 'window/logMessage'.
+2024-12-13 09:55:25.969 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 09:55:26.006 [info] [Trace - 9:55:26 AM] Received notification 'window/logMessage'.
+2024-12-13 09:55:26.007 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 09:55:26.007 [info] [Trace - 9:55:26 AM] Received response 'textDocument/formatting - (33)' in 43ms.
+2024-12-13 10:00:05.967 [info] [Trace - 10:00:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:06.967 [info] [Trace - 10:00:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:07.142 [info] [Trace - 10:00:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:07.232 [info] [Trace - 10:00:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:07.948 [info] [Trace - 10:00:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:08.985 [info] [Trace - 10:00:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:09.192 [info] [Trace - 10:00:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:09.862 [info] [Trace - 10:00:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:10.140 [info] [Trace - 10:00:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:10.319 [info] [Trace - 10:00:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:10.417 [info] [Trace - 10:00:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:10.527 [info] [Trace - 10:00:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:10.594 [info] [Trace - 10:00:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:10.779 [info] [Trace - 10:00:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:11.005 [info] [Trace - 10:00:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:11.486 [info] [Trace - 10:00:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:11.809 [info] [Trace - 10:00:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:12.045 [info] [Trace - 10:00:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:13.240 [info] [Trace - 10:00:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:13.889 [info] [Trace - 10:00:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:14.206 [info] [Trace - 10:00:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:14.582 [info] [Trace - 10:00:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:14.724 [info] [Trace - 10:00:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:14.764 [info] [Trace - 10:00:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:14.947 [info] [Trace - 10:00:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:00:16.625 [info] [Trace - 10:00:16 AM] Sending request 'textDocument/formatting - (34)'.
+2024-12-13 10:00:16.629 [info] [Trace - 10:00:16 AM] Received notification 'window/logMessage'.
+2024-12-13 10:00:16.629 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:00:16.629 [info] [Trace - 10:00:16 AM] Received notification 'window/logMessage'.
+2024-12-13 10:00:16.629 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:00:16.742 [info] [Trace - 10:00:16 AM] Received notification 'window/logMessage'.
+2024-12-13 10:00:16.742 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:00:16.747 [info] [Trace - 10:00:16 AM] Received response 'textDocument/formatting - (34)' in 122ms.
+2024-12-13 10:00:16.751 [info] [Trace - 10:00:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:28.710 [info] [Trace - 10:04:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:30.259 [info] [Trace - 10:04:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:30.393 [info] [Trace - 10:04:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:30.512 [info] [Trace - 10:04:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:30.633 [info] [Trace - 10:04:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:30.781 [info] [Trace - 10:04:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:32.396 [info] [Trace - 10:04:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:32.668 [info] [Trace - 10:04:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:32.885 [info] [Trace - 10:04:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:33.029 [info] [Trace - 10:04:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:33.165 [info] [Trace - 10:04:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:33.510 [info] [Trace - 10:04:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:33.730 [info] [Trace - 10:04:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:34.022 [info] [Trace - 10:04:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:34.225 [info] [Trace - 10:04:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:34.413 [info] [Trace - 10:04:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:34.722 [info] [Trace - 10:04:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:35.582 [info] [Trace - 10:04:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:35.829 [info] [Trace - 10:04:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:36.617 [info] [Trace - 10:04:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:36.685 [info] [Trace - 10:04:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:36.935 [info] [Trace - 10:04:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:37.496 [info] [Trace - 10:04:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:37.883 [info] [Trace - 10:04:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:38.113 [info] [Trace - 10:04:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:39.003 [info] [Trace - 10:04:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:40.238 [info] [Trace - 10:04:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:40.460 [info] [Trace - 10:04:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:40.575 [info] [Trace - 10:04:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:40.908 [info] [Trace - 10:04:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:41.178 [info] [Trace - 10:04:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:42.481 [info] [Trace - 10:04:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:42.905 [info] [Trace - 10:04:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:43.085 [info] [Trace - 10:04:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:43.174 [info] [Trace - 10:04:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:43.351 [info] [Trace - 10:04:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:43.418 [info] [Trace - 10:04:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:43.642 [info] [Trace - 10:04:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:44.358 [info] [Trace - 10:04:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:44.831 [info] [Trace - 10:04:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:44.980 [info] [Trace - 10:04:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:45.099 [info] [Trace - 10:04:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:51.355 [info] [Trace - 10:04:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:52.562 [info] [Trace - 10:04:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:52.740 [info] [Trace - 10:04:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:52.828 [info] [Trace - 10:04:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:52.976 [info] [Trace - 10:04:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:53.076 [info] [Trace - 10:04:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:53.856 [info] [Trace - 10:04:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:54.124 [info] [Trace - 10:04:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:54.562 [info] [Trace - 10:04:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:54.794 [info] [Trace - 10:04:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:54.993 [info] [Trace - 10:04:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:55.079 [info] [Trace - 10:04:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:55.264 [info] [Trace - 10:04:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:55.402 [info] [Trace - 10:04:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:57.475 [info] [Trace - 10:04:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:57.785 [info] [Trace - 10:04:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:58.122 [info] [Trace - 10:04:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:58.381 [info] [Trace - 10:04:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:04:58.680 [info] [Trace - 10:04:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:00.243 [info] [Trace - 10:05:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:00.450 [info] [Trace - 10:05:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:00.748 [info] [Trace - 10:05:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:01.191 [info] [Trace - 10:05:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:01.345 [info] [Trace - 10:05:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:05.932 [info] [Trace - 10:05:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:08.377 [info] [Trace - 10:05:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:09.550 [info] [Trace - 10:05:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:09.760 [info] [Trace - 10:05:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:09.991 [info] [Trace - 10:05:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:11.412 [info] [Trace - 10:05:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:11.972 [info] [Trace - 10:05:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:12.715 [info] [Trace - 10:05:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:12.919 [info] [Trace - 10:05:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:13.120 [info] [Trace - 10:05:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:13.364 [info] [Trace - 10:05:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:15.875 [info] [Trace - 10:05:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:16.031 [info] [Trace - 10:05:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:16.723 [info] [Trace - 10:05:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:16.998 [info] [Trace - 10:05:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:17.132 [info] [Trace - 10:05:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:17.370 [info] [Trace - 10:05:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:17.609 [info] [Trace - 10:05:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:18.334 [info] [Trace - 10:05:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:18.836 [info] [Trace - 10:05:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:18.962 [info] [Trace - 10:05:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:19.206 [info] [Trace - 10:05:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:19.430 [info] [Trace - 10:05:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:32.191 [info] [Trace - 10:05:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:33.022 [info] [Trace - 10:05:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:34.053 [info] [Trace - 10:05:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:34.328 [info] [Trace - 10:05:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:34.502 [info] [Trace - 10:05:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:34.703 [info] [Trace - 10:05:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:35.491 [info] [Trace - 10:05:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:37.667 [info] [Trace - 10:05:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:38.692 [info] [Trace - 10:05:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:39.772 [info] [Trace - 10:05:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:39.935 [info] [Trace - 10:05:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:40.114 [info] [Trace - 10:05:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:40.900 [info] [Trace - 10:05:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:44.494 [info] [Trace - 10:05:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:46.969 [info] [Trace - 10:05:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:47.242 [info] [Trace - 10:05:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:47.407 [info] [Trace - 10:05:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:47.588 [info] [Trace - 10:05:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:47.789 [info] [Trace - 10:05:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:48.015 [info] [Trace - 10:05:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:49.117 [info] [Trace - 10:05:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:52.167 [info] [Trace - 10:05:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:52.186 [info] [Trace - 10:05:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:53.461 [info] [Trace - 10:05:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:53.698 [info] [Trace - 10:05:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:53.888 [info] [Trace - 10:05:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:54.325 [info] [Trace - 10:05:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:54.701 [info] [Trace - 10:05:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:54.882 [info] [Trace - 10:05:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:55.021 [info] [Trace - 10:05:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:05:57.520 [info] [Trace - 10:05:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:00.917 [info] [Trace - 10:06:00 AM] Sending request 'textDocument/formatting - (35)'.
+2024-12-13 10:06:00.921 [info] [Trace - 10:06:00 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:00.921 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:06:00.921 [info] [Trace - 10:06:00 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:00.921 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:06:01.093 [info] [Trace - 10:06:01 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:01.093 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:06:01.099 [info] [Trace - 10:06:01 AM] Received response 'textDocument/formatting - (35)' in 182ms.
+2024-12-13 10:06:01.102 [info] [Trace - 10:06:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:06.845 [info] [Trace - 10:06:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:07.347 [info] [Trace - 10:06:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:07.443 [info] [Trace - 10:06:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:07.600 [info] [Trace - 10:06:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:07.761 [info] [Trace - 10:06:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:07.826 [info] [Trace - 10:06:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:09.217 [info] [Trace - 10:06:09 AM] Sending request 'textDocument/formatting - (36)'.
+2024-12-13 10:06:09.220 [info] [Trace - 10:06:09 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:09.220 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:06:09.220 [info] [Trace - 10:06:09 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:09.220 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:06:09.265 [info] [Trace - 10:06:09 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:09.265 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:06:09.265 [info] [Trace - 10:06:09 AM] Received response 'textDocument/formatting - (36)' in 48ms.
+2024-12-13 10:06:34.209 [info] [Trace - 10:06:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:34.321 [info] [Trace - 10:06:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:38.185 [info] [Trace - 10:06:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:38.314 [info] [Trace - 10:06:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:40.922 [info] [Trace - 10:06:40 AM] Sending request 'textDocument/formatting - (37)'.
+2024-12-13 10:06:40.925 [info] [Trace - 10:06:40 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:40.925 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:06:40.925 [info] [Trace - 10:06:40 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:40.925 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:06:41.036 [info] [Trace - 10:06:41 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:41.036 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:06:41.040 [info] [Trace - 10:06:41 AM] Received response 'textDocument/formatting - (37)' in 118ms.
+2024-12-13 10:06:41.043 [info] [Trace - 10:06:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:45.146 [info] [Trace - 10:06:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:45.661 [info] [Trace - 10:06:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:46.292 [info] [Trace - 10:06:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:46.514 [info] [Trace - 10:06:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:46.673 [info] [Trace - 10:06:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:47.569 [info] [Trace - 10:06:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:47.999 [info] [Trace - 10:06:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:48.315 [info] [Trace - 10:06:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:48.742 [info] [Trace - 10:06:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:48.967 [info] [Trace - 10:06:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:49.121 [info] [Trace - 10:06:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:49.239 [info] [Trace - 10:06:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:49.392 [info] [Trace - 10:06:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:49.549 [info] [Trace - 10:06:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:49.686 [info] [Trace - 10:06:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:49.840 [info] [Trace - 10:06:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:49.937 [info] [Trace - 10:06:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:50.001 [info] [Trace - 10:06:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:50.091 [info] [Trace - 10:06:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:50.711 [info] [Trace - 10:06:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:51.455 [info] [Trace - 10:06:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:51.769 [info] [Trace - 10:06:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:51.923 [info] [Trace - 10:06:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:52.039 [info] [Trace - 10:06:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:52.214 [info] [Trace - 10:06:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:52.438 [info] [Trace - 10:06:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:53.224 [info] [Trace - 10:06:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:53.446 [info] [Trace - 10:06:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:06:55.954 [info] [Trace - 10:06:55 AM] Sending request 'textDocument/formatting - (38)'.
+2024-12-13 10:06:55.957 [info] [Trace - 10:06:55 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:55.957 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:06:55.957 [info] [Trace - 10:06:55 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:55.957 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:06:55.999 [info] [Trace - 10:06:55 AM] Received notification 'window/logMessage'.
+2024-12-13 10:06:55.999 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:06:55.999 [info] [Trace - 10:06:55 AM] Received response 'textDocument/formatting - (38)' in 45ms.
+2024-12-13 10:07:19.672 [info] [Trace - 10:07:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:07:20.425 [info] [Trace - 10:07:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:07:21.555 [info] [Trace - 10:07:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:07:22.230 [info] [Trace - 10:07:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:07:23.856 [info] [Trace - 10:07:23 AM] Sending request 'textDocument/formatting - (39)'.
+2024-12-13 10:07:23.862 [info] [Trace - 10:07:23 AM] Received notification 'window/logMessage'.
+2024-12-13 10:07:23.862 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:07:23.862 [info] [Trace - 10:07:23 AM] Received notification 'window/logMessage'.
+2024-12-13 10:07:23.862 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:07:23.909 [info] [Trace - 10:07:23 AM] Received notification 'window/logMessage'.
+2024-12-13 10:07:23.909 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:07:23.909 [info] [Trace - 10:07:23 AM] Received response 'textDocument/formatting - (39)' in 53ms.
+2024-12-13 10:07:50.702 [info] [Trace - 10:07:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:07:51.799 [info] [Trace - 10:07:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:07:52.524 [info] [Trace - 10:07:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:07:52.726 [info] [Trace - 10:07:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:07:52.881 [info] [Trace - 10:07:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:07:53.000 [info] [Trace - 10:07:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:07:54.528 [info] [Trace - 10:07:54 AM] Sending request 'textDocument/formatting - (40)'.
+2024-12-13 10:07:54.532 [info] [Trace - 10:07:54 AM] Received notification 'window/logMessage'.
+2024-12-13 10:07:54.532 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:07:54.533 [info] [Trace - 10:07:54 AM] Received notification 'window/logMessage'.
+2024-12-13 10:07:54.533 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:07:54.578 [info] [Trace - 10:07:54 AM] Received notification 'window/logMessage'.
+2024-12-13 10:07:54.578 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:07:54.578 [info] [Trace - 10:07:54 AM] Received response 'textDocument/formatting - (40)' in 50ms.
+2024-12-13 10:08:18.304 [info] [Trace - 10:08:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:20.555 [info] [Trace - 10:08:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:20.752 [info] [Trace - 10:08:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:21.326 [info] [Trace - 10:08:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:21.530 [info] [Trace - 10:08:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:21.799 [info] [Trace - 10:08:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:21.960 [info] [Trace - 10:08:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:22.072 [info] [Trace - 10:08:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:22.615 [info] [Trace - 10:08:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:22.861 [info] [Trace - 10:08:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:25.266 [info] [Trace - 10:08:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:26.283 [info] [Trace - 10:08:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:27.796 [info] [Trace - 10:08:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:08:29.528 [info] [Trace - 10:08:29 AM] Sending request 'textDocument/formatting - (41)'.
+2024-12-13 10:08:29.531 [info] [Trace - 10:08:29 AM] Received notification 'window/logMessage'.
+2024-12-13 10:08:29.531 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:08:29.531 [info] [Trace - 10:08:29 AM] Received notification 'window/logMessage'.
+2024-12-13 10:08:29.531 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:08:29.566 [info] [Trace - 10:08:29 AM] Received notification 'window/logMessage'.
+2024-12-13 10:08:29.566 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:08:29.566 [info] [Trace - 10:08:29 AM] Received response 'textDocument/formatting - (41)' in 38ms.
+2024-12-13 10:10:52.197 [info] [Trace - 10:10:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:10:53.761 [info] [Trace - 10:10:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:10:53.973 [info] [Trace - 10:10:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:10:54.146 [info] [Trace - 10:10:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:10:54.267 [info] [Trace - 10:10:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:11:01.566 [info] [Trace - 10:11:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:11:02.788 [info] [Trace - 10:11:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:11:03.865 [info] [Trace - 10:11:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:11:04.924 [info] [Trace - 10:11:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:11:38.213 [info] [Trace - 10:11:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:11:39.802 [info] [Trace - 10:11:39 AM] Sending request 'textDocument/formatting - (42)'.
+2024-12-13 10:11:39.805 [info] [Trace - 10:11:39 AM] Received notification 'window/logMessage'.
+2024-12-13 10:11:39.805 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:11:39.805 [info] [Trace - 10:11:39 AM] Received notification 'window/logMessage'.
+2024-12-13 10:11:39.805 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:11:39.911 [info] [Trace - 10:11:39 AM] Received notification 'window/logMessage'.
+2024-12-13 10:11:39.911 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:11:39.918 [info] [Trace - 10:11:39 AM] Received response 'textDocument/formatting - (42)' in 115ms.
+2024-12-13 10:11:39.920 [info] [Trace - 10:11:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:02.286 [info] [Trace - 10:14:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:03.380 [info] [Trace - 10:14:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:03.689 [info] [Trace - 10:14:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:03.732 [info] [Trace - 10:14:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:03.790 [info] [Trace - 10:14:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:03.978 [info] [Trace - 10:14:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:04.142 [info] [Trace - 10:14:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:04.322 [info] [Trace - 10:14:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:04.409 [info] [Trace - 10:14:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:04.654 [info] [Trace - 10:14:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:04.720 [info] [Trace - 10:14:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:05.366 [info] [Trace - 10:14:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:05.459 [info] [Trace - 10:14:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:05.592 [info] [Trace - 10:14:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:08.859 [info] [Trace - 10:14:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:09.074 [info] [Trace - 10:14:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:09.512 [info] [Trace - 10:14:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:09.574 [info] [Trace - 10:14:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:09.750 [info] [Trace - 10:14:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:09.943 [info] [Trace - 10:14:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:10.262 [info] [Trace - 10:14:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:10.512 [info] [Trace - 10:14:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:10.715 [info] [Trace - 10:14:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:11.463 [info] [Trace - 10:14:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:11.669 [info] [Trace - 10:14:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:11.850 [info] [Trace - 10:14:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:12.035 [info] [Trace - 10:14:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:12.397 [info] [Trace - 10:14:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:13.213 [info] [Trace - 10:14:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:13.374 [info] [Trace - 10:14:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:13.578 [info] [Trace - 10:14:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:13.762 [info] [Trace - 10:14:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:13.987 [info] [Trace - 10:14:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:14.381 [info] [Trace - 10:14:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:14.583 [info] [Trace - 10:14:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:14.847 [info] [Trace - 10:14:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:15.006 [info] [Trace - 10:14:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:15.071 [info] [Trace - 10:14:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:15.160 [info] [Trace - 10:14:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:15.321 [info] [Trace - 10:14:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:15.530 [info] [Trace - 10:14:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:15.618 [info] [Trace - 10:14:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:15.666 [info] [Trace - 10:14:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:15.883 [info] [Trace - 10:14:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:15.978 [info] [Trace - 10:14:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:16.580 [info] [Trace - 10:14:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:16.782 [info] [Trace - 10:14:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:16.942 [info] [Trace - 10:14:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:17.122 [info] [Trace - 10:14:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:17.310 [info] [Trace - 10:14:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:17.482 [info] [Trace - 10:14:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:17.661 [info] [Trace - 10:14:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:17.861 [info] [Trace - 10:14:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:18.042 [info] [Trace - 10:14:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:18.246 [info] [Trace - 10:14:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:18.735 [info] [Trace - 10:14:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:19.373 [info] [Trace - 10:14:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:19.868 [info] [Trace - 10:14:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:20.001 [info] [Trace - 10:14:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:20.083 [info] [Trace - 10:14:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:20.114 [info] [Trace - 10:14:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:20.318 [info] [Trace - 10:14:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:20.475 [info] [Trace - 10:14:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:20.567 [info] [Trace - 10:14:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:20.634 [info] [Trace - 10:14:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:20.817 [info] [Trace - 10:14:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:20.885 [info] [Trace - 10:14:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:25.276 [info] [Trace - 10:14:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:26.258 [info] [Trace - 10:14:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:26.748 [info] [Trace - 10:14:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:27.466 [info] [Trace - 10:14:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:29.505 [info] [Trace - 10:14:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:29.821 [info] [Trace - 10:14:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:30.182 [info] [Trace - 10:14:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:30.889 [info] [Trace - 10:14:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:31.132 [info] [Trace - 10:14:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:31.630 [info] [Trace - 10:14:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:31.741 [info] [Trace - 10:14:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:31.851 [info] [Trace - 10:14:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:31.919 [info] [Trace - 10:14:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:32.100 [info] [Trace - 10:14:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:32.288 [info] [Trace - 10:14:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:32.438 [info] [Trace - 10:14:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:32.465 [info] [Trace - 10:14:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:32.666 [info] [Trace - 10:14:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:32.723 [info] [Trace - 10:14:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:32.926 [info] [Trace - 10:14:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:33.018 [info] [Trace - 10:14:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:33.150 [info] [Trace - 10:14:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:34.246 [info] [Trace - 10:14:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:34.288 [info] [Trace - 10:14:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:35.069 [info] [Trace - 10:14:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:36.006 [info] [Trace - 10:14:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:14:36.731 [info] [Trace - 10:14:36 AM] Sending request 'textDocument/formatting - (43)'.
+2024-12-13 10:14:36.788 [info] [Trace - 10:14:36 AM] Received notification 'window/logMessage'.
+2024-12-13 10:14:36.788 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:14:36.788 [info] [Trace - 10:14:36 AM] Received notification 'window/logMessage'.
+2024-12-13 10:14:36.788 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:14:36.824 [info] [Trace - 10:14:36 AM] Received notification 'window/logMessage'.
+2024-12-13 10:14:36.824 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:14:36.825 [info] [Trace - 10:14:36 AM] Received response 'textDocument/formatting - (43)' in 95ms.
+2024-12-13 10:15:12.751 [info] [Trace - 10:15:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:15:19.451 [info] [Trace - 10:15:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:15:21.665 [info] [Trace - 10:15:21 AM] Sending request 'textDocument/formatting - (44)'.
+2024-12-13 10:15:21.668 [info] [Trace - 10:15:21 AM] Received notification 'window/logMessage'.
+2024-12-13 10:15:21.668 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:15:21.668 [info] [Trace - 10:15:21 AM] Received notification 'window/logMessage'.
+2024-12-13 10:15:21.668 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:15:21.706 [info] [Trace - 10:15:21 AM] Received notification 'window/logMessage'.
+2024-12-13 10:15:21.706 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:15:21.707 [info] [Trace - 10:15:21 AM] Received response 'textDocument/formatting - (44)' in 42ms.
+2024-12-13 10:15:24.649 [info] [Trace - 10:15:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:04.212 [info] [Trace - 10:17:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:04.883 [info] [Trace - 10:17:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:12.433 [info] [Trace - 10:17:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:15.573 [info] [Trace - 10:17:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:17.240 [info] [Trace - 10:17:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:17.445 [info] [Trace - 10:17:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:17.530 [info] [Trace - 10:17:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:17.778 [info] [Trace - 10:17:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:18.086 [info] [Trace - 10:17:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:18.361 [info] [Trace - 10:17:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:18.447 [info] [Trace - 10:17:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:17:30.335 [info] [Trace - 10:17:30 AM] Sending request 'textDocument/formatting - (45)'.
+2024-12-13 10:17:30.339 [info] [Trace - 10:17:30 AM] Received notification 'window/logMessage'.
+2024-12-13 10:17:30.339 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:17:30.339 [info] [Trace - 10:17:30 AM] Received notification 'window/logMessage'.
+2024-12-13 10:17:30.339 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:17:30.375 [info] [Trace - 10:17:30 AM] Received notification 'window/logMessage'.
+2024-12-13 10:17:30.375 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:17:30.375 [info] [Trace - 10:17:30 AM] Received response 'textDocument/formatting - (45)' in 40ms.
+2024-12-13 10:18:30.444 [info] [Trace - 10:18:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:30.685 [info] [Trace - 10:18:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:32.430 [info] [Trace - 10:18:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:32.773 [info] [Trace - 10:18:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:33.517 [info] [Trace - 10:18:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:33.996 [info] [Trace - 10:18:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:34.395 [info] [Trace - 10:18:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:37.613 [info] [Trace - 10:18:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:37.746 [info] [Trace - 10:18:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:37.877 [info] [Trace - 10:18:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:38.091 [info] [Trace - 10:18:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:18:40.041 [info] [Trace - 10:18:40 AM] Sending request 'textDocument/formatting - (46)'.
+2024-12-13 10:18:40.044 [info] [Trace - 10:18:40 AM] Received notification 'window/logMessage'.
+2024-12-13 10:18:40.044 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:18:40.044 [info] [Trace - 10:18:40 AM] Received notification 'window/logMessage'.
+2024-12-13 10:18:40.044 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:18:40.142 [info] [Trace - 10:18:40 AM] Received notification 'window/logMessage'.
+2024-12-13 10:18:40.142 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:18:40.149 [info] [Trace - 10:18:40 AM] Received response 'textDocument/formatting - (46)' in 108ms.
+2024-12-13 10:18:40.152 [info] [Trace - 10:18:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:04.201 [info] [Trace - 10:19:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:05.119 [info] [Trace - 10:19:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:05.533 [info] [Trace - 10:19:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:05.713 [info] [Trace - 10:19:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:05.915 [info] [Trace - 10:19:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:06.078 [info] [Trace - 10:19:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:06.605 [info] [Trace - 10:19:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:06.834 [info] [Trace - 10:19:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:07.164 [info] [Trace - 10:19:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:07.265 [info] [Trace - 10:19:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:07.421 [info] [Trace - 10:19:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:12.521 [info] [Trace - 10:19:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:14.080 [info] [Trace - 10:19:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:17.016 [info] [Trace - 10:19:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:17.203 [info] [Trace - 10:19:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:17.405 [info] [Trace - 10:19:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:17.562 [info] [Trace - 10:19:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:18.013 [info] [Trace - 10:19:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:18.188 [info] [Trace - 10:19:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:26.645 [info] [Trace - 10:19:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:34.529 [info] [Trace - 10:19:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:35.176 [info] [Trace - 10:19:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:35.335 [info] [Trace - 10:19:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:35.539 [info] [Trace - 10:19:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:36.218 [info] [Trace - 10:19:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:36.961 [info] [Trace - 10:19:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:37.531 [info] [Trace - 10:19:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:37.870 [info] [Trace - 10:19:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:38.244 [info] [Trace - 10:19:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:38.501 [info] [Trace - 10:19:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:39.266 [info] [Trace - 10:19:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:51.613 [info] [Trace - 10:19:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:51.807 [info] [Trace - 10:19:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:52.010 [info] [Trace - 10:19:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:52.202 [info] [Trace - 10:19:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:52.403 [info] [Trace - 10:19:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:52.627 [info] [Trace - 10:19:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:53.413 [info] [Trace - 10:19:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:53.595 [info] [Trace - 10:19:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:53.839 [info] [Trace - 10:19:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:54.207 [info] [Trace - 10:19:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:54.912 [info] [Trace - 10:19:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:19:55.112 [info] [Trace - 10:19:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:19.404 [info] [Trace - 10:20:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:19.626 [info] [Trace - 10:20:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:19.859 [info] [Trace - 10:20:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:20.077 [info] [Trace - 10:20:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:20.322 [info] [Trace - 10:20:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:20.691 [info] [Trace - 10:20:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:21.394 [info] [Trace - 10:20:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:21.552 [info] [Trace - 10:20:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:21.922 [info] [Trace - 10:20:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:23.438 [info] [Trace - 10:20:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:23.839 [info] [Trace - 10:20:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:24.311 [info] [Trace - 10:20:24 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:29.116 [info] [Trace - 10:20:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:29.659 [info] [Trace - 10:20:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:30.267 [info] [Trace - 10:20:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:40.329 [info] [Trace - 10:20:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:42.165 [info] [Trace - 10:20:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:20:44.177 [info] [Trace - 10:20:44 AM] Sending request 'textDocument/formatting - (47)'.
+2024-12-13 10:20:44.180 [info] [Trace - 10:20:44 AM] Received notification 'window/logMessage'.
+2024-12-13 10:20:44.180 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:20:44.181 [info] [Trace - 10:20:44 AM] Received notification 'window/logMessage'.
+2024-12-13 10:20:44.181 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:20:44.280 [info] [Trace - 10:20:44 AM] Received notification 'window/logMessage'.
+2024-12-13 10:20:44.280 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:20:44.286 [info] [Trace - 10:20:44 AM] Received response 'textDocument/formatting - (47)' in 109ms.
+2024-12-13 10:20:44.289 [info] [Trace - 10:20:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:05.194 [info] [Trace - 10:21:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:06.759 [info] [Trace - 10:21:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:06.822 [info] [Trace - 10:21:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:08.862 [info] [Trace - 10:21:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:10.729 [info] [Trace - 10:21:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:12.909 [info] [Trace - 10:21:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:13.026 [info] [Trace - 10:21:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:13.112 [info] [Trace - 10:21:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:13.370 [info] [Trace - 10:21:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:13.544 [info] [Trace - 10:21:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:13.747 [info] [Trace - 10:21:13 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:14.352 [info] [Trace - 10:21:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:14.889 [info] [Trace - 10:21:14 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:15.011 [info] [Trace - 10:21:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:15.103 [info] [Trace - 10:21:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:15.166 [info] [Trace - 10:21:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:15.352 [info] [Trace - 10:21:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:15.613 [info] [Trace - 10:21:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:16.095 [info] [Trace - 10:21:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:16.183 [info] [Trace - 10:21:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:16.419 [info] [Trace - 10:21:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:16.492 [info] [Trace - 10:21:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:18.342 [info] [Trace - 10:21:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:18.591 [info] [Trace - 10:21:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:18.747 [info] [Trace - 10:21:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:18.872 [info] [Trace - 10:21:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:19.223 [info] [Trace - 10:21:19 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:20.760 [info] [Trace - 10:21:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:20.999 [info] [Trace - 10:21:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:21.557 [info] [Trace - 10:21:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:21.626 [info] [Trace - 10:21:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:21.781 [info] [Trace - 10:21:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:21.940 [info] [Trace - 10:21:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:22.053 [info] [Trace - 10:21:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:22.207 [info] [Trace - 10:21:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:22.298 [info] [Trace - 10:21:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:22.593 [info] [Trace - 10:21:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:22.731 [info] [Trace - 10:21:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:22.818 [info] [Trace - 10:21:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:22.857 [info] [Trace - 10:21:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:23.056 [info] [Trace - 10:21:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:23.238 [info] [Trace - 10:21:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:23.376 [info] [Trace - 10:21:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:23.417 [info] [Trace - 10:21:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:23.623 [info] [Trace - 10:21:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:23.760 [info] [Trace - 10:21:23 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:28.702 [info] [Trace - 10:21:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:33.445 [info] [Trace - 10:21:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:33.954 [info] [Trace - 10:21:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:39.075 [info] [Trace - 10:21:39 AM] Sending request 'textDocument/formatting - (48)'.
+2024-12-13 10:21:39.080 [info] [Trace - 10:21:39 AM] Received notification 'window/logMessage'.
+2024-12-13 10:21:39.080 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:21:39.081 [info] [Trace - 10:21:39 AM] Received notification 'window/logMessage'.
+2024-12-13 10:21:39.081 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:21:39.139 [info] [Trace - 10:21:39 AM] Received notification 'window/logMessage'.
+2024-12-13 10:21:39.139 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:21:39.139 [info] [Trace - 10:21:39 AM] Received response 'textDocument/formatting - (48)' in 64ms.
+2024-12-13 10:21:40.801 [info] [Trace - 10:21:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:44.246 [info] [Trace - 10:21:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:44.444 [info] [Trace - 10:21:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:45.890 [info] [Trace - 10:21:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:46.342 [info] [Trace - 10:21:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:49.837 [info] [Trace - 10:21:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:50.530 [info] [Trace - 10:21:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:51.211 [info] [Trace - 10:21:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:51.343 [info] [Trace - 10:21:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:51.678 [info] [Trace - 10:21:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:51.991 [info] [Trace - 10:21:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:52.057 [info] [Trace - 10:21:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:52.221 [info] [Trace - 10:21:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:52.460 [info] [Trace - 10:21:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:52.686 [info] [Trace - 10:21:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:52.890 [info] [Trace - 10:21:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:52.981 [info] [Trace - 10:21:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:53.136 [info] [Trace - 10:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:53.291 [info] [Trace - 10:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:53.569 [info] [Trace - 10:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:53.696 [info] [Trace - 10:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:53.819 [info] [Trace - 10:21:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:54.479 [info] [Trace - 10:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:54.602 [info] [Trace - 10:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:54.723 [info] [Trace - 10:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:54.906 [info] [Trace - 10:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:54.977 [info] [Trace - 10:21:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:55.088 [info] [Trace - 10:21:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:55.309 [info] [Trace - 10:21:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:55.378 [info] [Trace - 10:21:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:55.555 [info] [Trace - 10:21:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:55.665 [info] [Trace - 10:21:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:55.937 [info] [Trace - 10:21:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:56.051 [info] [Trace - 10:21:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:56.147 [info] [Trace - 10:21:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:56.321 [info] [Trace - 10:21:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:56.429 [info] [Trace - 10:21:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:56.521 [info] [Trace - 10:21:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:56.675 [info] [Trace - 10:21:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:56.721 [info] [Trace - 10:21:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:56.834 [info] [Trace - 10:21:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:57.000 [info] [Trace - 10:21:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:57.122 [info] [Trace - 10:21:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:57.203 [info] [Trace - 10:21:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:57.282 [info] [Trace - 10:21:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:57.527 [info] [Trace - 10:21:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:57.684 [info] [Trace - 10:21:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:57.821 [info] [Trace - 10:21:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:57.965 [info] [Trace - 10:21:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:58.208 [info] [Trace - 10:21:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:58.289 [info] [Trace - 10:21:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:58.362 [info] [Trace - 10:21:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:58.490 [info] [Trace - 10:21:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:58.628 [info] [Trace - 10:21:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:58.692 [info] [Trace - 10:21:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:58.847 [info] [Trace - 10:21:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:59.005 [info] [Trace - 10:21:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:59.183 [info] [Trace - 10:21:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:59.266 [info] [Trace - 10:21:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:59.481 [info] [Trace - 10:21:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:21:59.628 [info] [Trace - 10:21:59 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:00.371 [info] [Trace - 10:22:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:00.548 [info] [Trace - 10:22:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:00.618 [info] [Trace - 10:22:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:00.864 [info] [Trace - 10:22:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:00.955 [info] [Trace - 10:22:00 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:01.449 [info] [Trace - 10:22:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:01.670 [info] [Trace - 10:22:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:01.891 [info] [Trace - 10:22:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:02.098 [info] [Trace - 10:22:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:02.674 [info] [Trace - 10:22:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:02.831 [info] [Trace - 10:22:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:03.170 [info] [Trace - 10:22:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:03.957 [info] [Trace - 10:22:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:04.158 [info] [Trace - 10:22:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:04.267 [info] [Trace - 10:22:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:04.360 [info] [Trace - 10:22:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:04.580 [info] [Trace - 10:22:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:04.670 [info] [Trace - 10:22:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:04.783 [info] [Trace - 10:22:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:04.862 [info] [Trace - 10:22:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:05.025 [info] [Trace - 10:22:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:05.224 [info] [Trace - 10:22:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:05.350 [info] [Trace - 10:22:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:05.385 [info] [Trace - 10:22:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:05.607 [info] [Trace - 10:22:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:05.674 [info] [Trace - 10:22:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:22:07.536 [info] [Trace - 10:22:07 AM] Sending request 'textDocument/formatting - (49)'.
+2024-12-13 10:22:07.540 [info] [Trace - 10:22:07 AM] Received notification 'window/logMessage'.
+2024-12-13 10:22:07.540 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:22:07.540 [info] [Trace - 10:22:07 AM] Received notification 'window/logMessage'.
+2024-12-13 10:22:07.540 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:22:07.586 [info] [Trace - 10:22:07 AM] Received notification 'window/logMessage'.
+2024-12-13 10:22:07.586 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:22:07.587 [info] [Trace - 10:22:07 AM] Received response 'textDocument/formatting - (49)' in 51ms.
+2024-12-13 10:37:31.285 [info] [Trace - 10:37:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:32.155 [info] [Trace - 10:37:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:32.940 [info] [Trace - 10:37:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:33.452 [info] [Trace - 10:37:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:33.792 [info] [Trace - 10:37:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:34.036 [info] [Trace - 10:37:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:34.643 [info] [Trace - 10:37:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:35.139 [info] [Trace - 10:37:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:35.738 [info] [Trace - 10:37:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:35.741 [info] [Trace - 10:37:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:35.743 [info] [Trace - 10:37:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:36.177 [info] [Trace - 10:37:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:36.658 [info] [Trace - 10:37:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:37.132 [info] [Trace - 10:37:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:37.557 [info] [Trace - 10:37:37 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:38.037 [info] [Trace - 10:37:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:38.449 [info] [Trace - 10:37:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:38.863 [info] [Trace - 10:37:38 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:39.381 [info] [Trace - 10:37:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:39.772 [info] [Trace - 10:37:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:40.181 [info] [Trace - 10:37:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:40.602 [info] [Trace - 10:37:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:41.054 [info] [Trace - 10:37:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:41.454 [info] [Trace - 10:37:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:42.040 [info] [Trace - 10:37:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:42.575 [info] [Trace - 10:37:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:43.024 [info] [Trace - 10:37:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:43.501 [info] [Trace - 10:37:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:43.969 [info] [Trace - 10:37:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:44.443 [info] [Trace - 10:37:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:44.968 [info] [Trace - 10:37:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:46.301 [info] [Trace - 10:37:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:46.827 [info] [Trace - 10:37:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:48.361 [info] [Trace - 10:37:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:49.115 [info] [Trace - 10:37:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:49.869 [info] [Trace - 10:37:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:50.578 [info] [Trace - 10:37:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:50.581 [info] [Trace - 10:37:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:50.584 [info] [Trace - 10:37:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:50.586 [info] [Trace - 10:37:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:50.589 [info] [Trace - 10:37:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:52.296 [info] [Trace - 10:37:52 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:53.427 [info] [Trace - 10:37:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:54.545 [info] [Trace - 10:37:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:55.882 [info] [Trace - 10:37:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:57.141 [info] [Trace - 10:37:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:57.741 [info] [Trace - 10:37:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:57.745 [info] [Trace - 10:37:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:37:58.859 [info] [Trace - 10:37:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:03.160 [info] [Trace - 10:38:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:03.705 [info] [Trace - 10:38:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:04.371 [info] [Trace - 10:38:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:04.974 [info] [Trace - 10:38:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:05.625 [info] [Trace - 10:38:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:07.480 [info] [Trace - 10:38:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:07.483 [info] [Trace - 10:38:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:07.484 [info] [Trace - 10:38:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:07.486 [info] [Trace - 10:38:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:07.488 [info] [Trace - 10:38:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:09.225 [info] [Trace - 10:38:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:15.427 [info] [Trace - 10:38:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:16.192 [info] [Trace - 10:38:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:16.801 [info] [Trace - 10:38:16 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:17.356 [info] [Trace - 10:38:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:21.612 [info] [Trace - 10:38:21 AM] Sending request 'textDocument/formatting - (50)'.
+2024-12-13 10:38:21.617 [info] [Trace - 10:38:21 AM] Received notification 'window/logMessage'.
+2024-12-13 10:38:21.617 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:38:21.617 [info] [Trace - 10:38:21 AM] Received notification 'window/logMessage'.
+2024-12-13 10:38:21.617 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:38:21.659 [info] [Trace - 10:38:21 AM] Received notification 'window/logMessage'.
+2024-12-13 10:38:21.659 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:38:21.659 [info] [Trace - 10:38:21 AM] Received response 'textDocument/formatting - (50)' in 48ms.
+2024-12-13 10:38:25.165 [info] [Trace - 10:38:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:25.526 [info] [Trace - 10:38:25 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:27.530 [info] [Trace - 10:38:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:27.735 [info] [Trace - 10:38:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:27.871 [info] [Trace - 10:38:27 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:28.039 [info] [Trace - 10:38:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:28.742 [info] [Trace - 10:38:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:28.922 [info] [Trace - 10:38:28 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:29.178 [info] [Trace - 10:38:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:29.292 [info] [Trace - 10:38:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:29.874 [info] [Trace - 10:38:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:30.177 [info] [Trace - 10:38:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:30.994 [info] [Trace - 10:38:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:31.218 [info] [Trace - 10:38:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:31.534 [info] [Trace - 10:38:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:31.759 [info] [Trace - 10:38:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:32.630 [info] [Trace - 10:38:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:32.877 [info] [Trace - 10:38:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:33.374 [info] [Trace - 10:38:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:33.827 [info] [Trace - 10:38:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:34.009 [info] [Trace - 10:38:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:34.188 [info] [Trace - 10:38:34 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:35.103 [info] [Trace - 10:38:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:35.260 [info] [Trace - 10:38:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:35.329 [info] [Trace - 10:38:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:36.421 [info] [Trace - 10:38:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:36.451 [info] [Trace - 10:38:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:44.513 [info] [Trace - 10:38:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:48.300 [info] [Trace - 10:38:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:53.465 [info] [Trace - 10:38:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:53.765 [info] [Trace - 10:38:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:53.941 [info] [Trace - 10:38:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:54.055 [info] [Trace - 10:38:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:55.210 [info] [Trace - 10:38:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:55.956 [info] [Trace - 10:38:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:56.326 [info] [Trace - 10:38:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:56.523 [info] [Trace - 10:38:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:56.663 [info] [Trace - 10:38:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:38:56.791 [info] [Trace - 10:38:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:01.006 [info] [Trace - 10:39:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:02.251 [info] [Trace - 10:39:02 AM] Sending request 'textDocument/formatting - (51)'.
+2024-12-13 10:39:02.254 [info] [Trace - 10:39:02 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:02.254 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:39:02.255 [info] [Trace - 10:39:02 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:02.255 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:39:02.412 [info] [Trace - 10:39:02 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:02.412 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:39:02.417 [info] [Trace - 10:39:02 AM] Received response 'textDocument/formatting - (51)' in 166ms.
+2024-12-13 10:39:02.421 [info] [Trace - 10:39:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:08.901 [info] [Trace - 10:39:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:09.523 [info] [Trace - 10:39:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:09.699 [info] [Trace - 10:39:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:09.741 [info] [Trace - 10:39:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:09.991 [info] [Trace - 10:39:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:10.164 [info] [Trace - 10:39:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:10.348 [info] [Trace - 10:39:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:10.459 [info] [Trace - 10:39:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:10.635 [info] [Trace - 10:39:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:10.756 [info] [Trace - 10:39:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:11.243 [info] [Trace - 10:39:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:11.537 [info] [Trace - 10:39:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:11.626 [info] [Trace - 10:39:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:11.961 [info] [Trace - 10:39:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:12.031 [info] [Trace - 10:39:12 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:17.496 [info] [Trace - 10:39:17 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:21.305 [info] [Trace - 10:39:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:26.708 [info] [Trace - 10:39:26 AM] Sending request 'textDocument/formatting - (52)'.
+2024-12-13 10:39:26.712 [info] [Trace - 10:39:26 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:26.712 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:39:26.712 [info] [Trace - 10:39:26 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:26.712 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:39:26.826 [info] [Trace - 10:39:26 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:26.826 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:39:26.832 [info] [Trace - 10:39:26 AM] Received response 'textDocument/formatting - (52)' in 124ms.
+2024-12-13 10:39:26.835 [info] [Trace - 10:39:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:29.367 [info] [Trace - 10:39:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:29.542 [info] [Trace - 10:39:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:29.691 [info] [Trace - 10:39:29 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:33.251 [info] [Trace - 10:39:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:36.689 [info] [Trace - 10:39:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:39.630 [info] [Trace - 10:39:39 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:41.147 [info] [Trace - 10:39:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:42.459 [info] [Trace - 10:39:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:42.725 [info] [Trace - 10:39:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:42.904 [info] [Trace - 10:39:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:42.969 [info] [Trace - 10:39:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:43.218 [info] [Trace - 10:39:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:43.619 [info] [Trace - 10:39:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:44.587 [info] [Trace - 10:39:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:44.691 [info] [Trace - 10:39:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:44.899 [info] [Trace - 10:39:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:44.989 [info] [Trace - 10:39:44 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:46.557 [info] [Trace - 10:39:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:48.174 [info] [Trace - 10:39:48 AM] Sending request 'textDocument/formatting - (53)'.
+2024-12-13 10:39:48.180 [info] [Trace - 10:39:48 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:48.180 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:39:48.180 [info] [Trace - 10:39:48 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:48.180 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:39:48.299 [info] [Trace - 10:39:48 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:48.300 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:39:48.305 [info] [Trace - 10:39:48 AM] Received response 'textDocument/formatting - (53)' in 131ms.
+2024-12-13 10:39:48.309 [info] [Trace - 10:39:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:53.438 [info] [Trace - 10:39:53 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:54.016 [info] [Trace - 10:39:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:54.604 [info] [Trace - 10:39:54 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:56.628 [info] [Trace - 10:39:56 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:39:58.710 [info] [Trace - 10:39:58 AM] Sending request 'textDocument/formatting - (54)'.
+2024-12-13 10:39:58.714 [info] [Trace - 10:39:58 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:58.714 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:39:58.714 [info] [Trace - 10:39:58 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:58.714 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:39:58.821 [info] [Trace - 10:39:58 AM] Received notification 'window/logMessage'.
+2024-12-13 10:39:58.821 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:39:58.826 [info] [Trace - 10:39:58 AM] Received response 'textDocument/formatting - (54)' in 116ms.
+2024-12-13 10:39:58.829 [info] [Trace - 10:39:58 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:01.656 [info] [Trace - 10:40:01 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:02.421 [info] [Trace - 10:40:02 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:03.480 [info] [Trace - 10:40:03 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:04.159 [info] [Trace - 10:40:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:04.568 [info] [Trace - 10:40:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:04.720 [info] [Trace - 10:40:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:04.768 [info] [Trace - 10:40:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:04.892 [info] [Trace - 10:40:04 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:05.440 [info] [Trace - 10:40:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:05.641 [info] [Trace - 10:40:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:05.824 [info] [Trace - 10:40:05 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:06.034 [info] [Trace - 10:40:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:06.638 [info] [Trace - 10:40:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:06.985 [info] [Trace - 10:40:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:07.175 [info] [Trace - 10:40:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:07.400 [info] [Trace - 10:40:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:07.669 [info] [Trace - 10:40:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:08.391 [info] [Trace - 10:40:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:08.486 [info] [Trace - 10:40:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:08.706 [info] [Trace - 10:40:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:08.808 [info] [Trace - 10:40:08 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:09.850 [info] [Trace - 10:40:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:10.683 [info] [Trace - 10:40:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:10.703 [info] [Trace - 10:40:10 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:18.312 [info] [Trace - 10:40:18 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:22.964 [info] [Trace - 10:40:22 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:26.501 [info] [Trace - 10:40:26 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:30.291 [info] [Trace - 10:40:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:31.994 [info] [Trace - 10:40:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:32.604 [info] [Trace - 10:40:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:32.968 [info] [Trace - 10:40:32 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:33.166 [info] [Trace - 10:40:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:33.304 [info] [Trace - 10:40:33 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:35.920 [info] [Trace - 10:40:35 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:36.481 [info] [Trace - 10:40:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:36.732 [info] [Trace - 10:40:36 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:40.468 [info] [Trace - 10:40:40 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:41.833 [info] [Trace - 10:40:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:40:43.634 [info] [Trace - 10:40:43 AM] Sending request 'textDocument/formatting - (55)'.
+2024-12-13 10:40:43.639 [info] [Trace - 10:40:43 AM] Received notification 'window/logMessage'.
+2024-12-13 10:40:43.639 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:40:43.639 [info] [Trace - 10:40:43 AM] Received notification 'window/logMessage'.
+2024-12-13 10:40:43.639 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:40:43.777 [info] [Trace - 10:40:43 AM] Received notification 'window/logMessage'.
+2024-12-13 10:40:43.777 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:40:43.784 [info] [Trace - 10:40:43 AM] Received response 'textDocument/formatting - (55)' in 150ms.
+2024-12-13 10:40:43.786 [info] [Trace - 10:40:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:41:06.394 [info] [Trace - 10:41:06 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:41:09.300 [info] [Trace - 10:41:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:41:11.114 [info] [Trace - 10:41:11 AM] Sending request 'textDocument/formatting - (56)'.
+2024-12-13 10:41:11.116 [info] [Trace - 10:41:11 AM] Received notification 'window/logMessage'.
+2024-12-13 10:41:11.116 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:41:11.116 [info] [Trace - 10:41:11 AM] Received notification 'window/logMessage'.
+2024-12-13 10:41:11.116 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:41:11.149 [info] [Trace - 10:41:11 AM] Received notification 'window/logMessage'.
+2024-12-13 10:41:11.149 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:41:11.149 [info] [Trace - 10:41:11 AM] Received response 'textDocument/formatting - (56)' in 36ms.
+2024-12-13 10:41:55.360 [info] [Trace - 10:41:55 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:41:57.473 [info] [Trace - 10:41:57 AM] Sending request 'textDocument/formatting - (57)'.
+2024-12-13 10:41:57.476 [info] [Trace - 10:41:57 AM] Received notification 'window/logMessage'.
+2024-12-13 10:41:57.476 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:41:57.476 [info] [Trace - 10:41:57 AM] Received notification 'window/logMessage'.
+2024-12-13 10:41:57.476 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:41:57.578 [info] [Trace - 10:41:57 AM] Received notification 'window/logMessage'.
+2024-12-13 10:41:57.578 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 10:41:57.585 [info] [Trace - 10:41:57 AM] Received response 'textDocument/formatting - (57)' in 112ms.
+2024-12-13 10:41:57.588 [info] [Trace - 10:41:57 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:42:15.969 [info] [Trace - 10:42:15 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 10:42:17.922 [info] [Trace - 10:42:17 AM] Sending request 'textDocument/formatting - (58)'.
+2024-12-13 10:42:17.928 [info] [Trace - 10:42:17 AM] Received notification 'window/logMessage'.
+2024-12-13 10:42:17.928 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 10:42:17.928 [info] [Trace - 10:42:17 AM] Received notification 'window/logMessage'.
+2024-12-13 10:42:17.928 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 10:42:17.961 [info] [Trace - 10:42:17 AM] Received notification 'window/logMessage'.
+2024-12-13 10:42:17.961 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 10:42:17.961 [info] [Trace - 10:42:17 AM] Received response 'textDocument/formatting - (58)' in 39ms.
+2024-12-13 11:04:24.755 [info] [Trace - 11:04:24 AM] Sending notification 'textDocument/didClose'.

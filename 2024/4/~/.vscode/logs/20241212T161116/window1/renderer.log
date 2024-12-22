@@ -1,0 +1,27 @@
+2024-12-12 16:11:17.123 [info] Started local extension host with pid 65568.
+2024-12-12 16:11:17.339 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-12 16:11:17.339 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-12 16:11:17.339 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-12 16:11:17.339 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-12 16:11:17.369 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.102.0]: Extension is not compatible with Code 1.95.3. Extension requires: ^1.96.0.
+2024-12-12 16:11:18.615 [info] Settings Sync: Updating due to initialize
+2024-12-12 16:11:18.615 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-12 16:11:18.615 [info] Settings Sync: Authentication providers updated []
+2024-12-12 16:11:18.725 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-12 16:11:18.726 [info] Settings Sync: Authentication providers updated ["github"]
+2024-12-12 16:11:18.726 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-12 16:11:18.726 [info] Settings Sync: Authentication providers updated ["github"]
+2024-12-12 16:11:18.727 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-12 16:11:18.727 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-12 16:11:18.727 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-12 16:11:18.727 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-12 16:11:18.763 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-12-12 16:11:18.764 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-12 16:11:18.764 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-12 16:11:18.764 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-12-12 16:11:18.764 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-12 16:11:18.764 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-12 16:11:20.215 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-12 16:11:20.215 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-12 16:11:20.928 [info] [perf] Render performance baseline is 35ms
+2024-12-12 16:11:21.255 [error] ENOENT: no such file or directory, open '/home/mpeters/projects/AOC/2024/_4/~/.vscode/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/mpeters/projects/AOC/2024/_4/~/.vscode/User/globalStorage/vscodevim.vim/.registers'

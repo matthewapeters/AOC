@@ -1,0 +1,291 @@
+2024-12-13 11:35:22.855 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-13 11:35:22.855 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-13 11:35:22.855 [info] Experiment 'pythonTestAdapter' is active
+2024-12-13 11:35:22.855 [info] Native locator: Refresh started
+2024-12-13 11:35:22.855 [debug] Testing: Setting up watcher for /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:35:22.855 [info] Native locator: Refresh started
+2024-12-13 11:35:22.855 [debug] VS Code was not launched from the command line
+2024-12-13 11:35:22.855 [info] VS Code was launched from an activated environment: 'home', selecting it as the interpreter for workspace.
+2024-12-13 11:35:22.855 [debug] Dump environment variables {
+    "CHROME_DESKTOP": "code.desktop",
+    "CLUTTER_IM_MODULE": "ibus",
+    "COLORTERM": "truecolor",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "DEBUGINFOD_URLS": "https://debuginfod.ubuntu.com ",
+    "DESKTOP_SESSION": "xfce",
+    "DISPLAY": ":10",
+    "DONT_PROMPT_WSL_INSTALL": "1",
+    "DOTNET_BUNDLE_EXTRACT_BASE_DIR": "/home/mpeters/.cache/dotnet_bundle_extract",
+    "ELECTRON_ENABLE_LOGGING": "1",
+    "ELECTRON_NO_ATTACH_CONSOLE": "1",
+    "GDK_BACKEND": "x11",
+    "GNOME_DISABLE_SOFTWARE_ACCELERATION_CHECK": "true",
+    "GTK_IM_MODULE": "ibus",
+    "GTK_MODULES": "gail:atk-bridge",
+    "HOME": "/home/mpeters",
+    "LANG": "C.UTF-8",
+    "LESSCLOSE": "/usr/bin/lesspipe %s %s",
+    "LESSOPEN": "| /usr/bin/lesspipe %s",
+    "LIBGL_ALWAYS_SOFTWARE": "1",
+    "LOGNAME": "mpeters",
+    "LS_COLORS": "rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:",
+    "ORIGINAL_XDG_CURRENT_DESKTOP": "XFCE",
+    "PANEL_GDK_CORE_DEVICE_EVENTS": "0",
+    "PS1": "(home) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ ",
+    "PULSE_SCRIPT": "/etc/xrdp/pulse/default.pa",
+    "PWD": "/home/mpeters/projects/AOC/2024/_4_2",
+    "QT_ACCESSIBILITY": "1",
+    "QT_IM_MODULE": "ibus",
+    "SESSION_MANAGER": "local/MattsLaptop:@/tmp/.ICE-unix/3043,unix/MattsLaptop:/tmp/.ICE-unix/3043,inet6/MattsLaptop:37369,inet/MattsLaptop:42507",
+    "SHELL": "/bin/bash",
+    "SHLVL": "1",
+    "SSH_AGENT_PID": "3025",
+    "SSH_AUTH_SOCK": "/tmp/ssh-BnQGT5IGpyFl/agent.2931",
+    "TERM": "xterm-256color",
+    "TERMINATOR_DBUS_NAME": "net.tenshu.Terminator2bcb3aa092f2b6032576f3fd56ad9afe9",
+    "TERMINATOR_DBUS_PATH": "/net/tenshu/Terminator2",
+    "TERMINATOR_UUID": "urn:uuid:d50920ee-a085-4787-b873-01b381e7ec8d",
+    "UID": "1000",
+    "USER": "mpeters",
+    "VIRTUAL_ENV": "/home/mpeters/home",
+    "VIRTUAL_ENV_PROMPT": "(home) ",
+    "VSCODE_CLI": "1",
+    "VSCODE_CODE_CACHE_PATH": "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/CachedData/138f619c86f1199955d53b4166bef66ef252935c",
+    "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+    "VSCODE_CWD": "/home/mpeters/projects/AOC/2024/_4_2",
+    "VSCODE_ESM_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+    "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+    "VSCODE_IPC_HOOK": "/run/user/1000/vscode-4c8cf5bd-1.96-main.sock",
+    "VSCODE_NLS_CONFIG": "{\"userLocale\":\"en-us\",\"osLocale\":\"c\",\"resolvedLanguage\":\"en\",\"defaultMessagesFile\":\"/usr/share/code/resources/app/out/nls.messages.json\",\"locale\":\"en-us\",\"availableLanguages\":{}}",
+    "VSCODE_PID": "313607",
+    "VTE_VERSION": "7800",
+    "XDG_CACHE_HOME": "/home/mpeters/.cache",
+    "XDG_CONFIG_DIRS": "/etc/xdg",
+    "XDG_CONFIG_HOME": "/home/mpeters/.config",
+    "XDG_CURRENT_DESKTOP": "XFCE",
+    "XDG_DATA_DIRS": "/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share",
+    "XDG_MENU_PREFIX": "xfce-",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "XDG_SESSION_CLASS": "user",
+    "XDG_SESSION_ID": "c1",
+    "XDG_SESSION_TYPE": "x11",
+    "XMODIFIERS": "@im=ibus",
+    "XRDP_PULSE_SINK_SOCKET": "xrdp_chansrv_audio_out_socket_10",
+    "XRDP_PULSE_SOURCE_SOCKET": "xrdp_chansrv_audio_in_socket_10",
+    "XRDP_SESSION": "2711",
+    "XRDP_SOCKET_PATH": "/run/xrdp/sockdir/1000",
+    "_": "/home/mpeters/bin/code",
+    "ELECTRON_RUN_AS_NODE": "1",
+    "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+    "PATH": "/home/mpeters/home/bin:/home/mpeters/.cargo/bin:/home/mpeters/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/mpeters/.dotnet/tools:/home/mpeters/bin:/usr/local/go/bin"
+}
+2024-12-13 11:35:22.855 [info] > pyenv which python
+2024-12-13 11:35:22.855 [info] cwd: .
+2024-12-13 11:35:22.859 [debug] [Error: Command failed: pyenv which python
+/bin/sh: 1: pyenv: not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'pyenv which python'
+}
+2024-12-13 11:35:22.882 [debug] Python API env change detected /home/mpeters/home/bin/python add
+2024-12-13 11:35:22.887 [debug] Python API env change detected /usr/bin/python3 add
+2024-12-13 11:35:22.888 [debug] Python API env change detected /bin/python3 add
+2024-12-13 11:35:22.893 [info] Native locator: Refresh finished in 823 ms
+2024-12-13 11:35:22.913 [debug] Python API env change detected /home/mpeters/home/bin/python update
+2024-12-13 11:35:22.915 [info] Python interpreter path: ~/home/bin/python
+2024-12-13 11:35:22.919 [debug] Extension ms-python.pylint accessed onDidChangeActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:22.943 [debug] Extension ms-python.pylint accessed getActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:22.944 [debug] Extension ms-python.pylint accessed resolveEnvironment with args: {"id":"/home/mpeters/home/bin/python","path":"/home/mpeters/home/bin/python"}
+2024-12-13 11:35:22.945 [debug] Dump environment variables {
+    "CHROME_DESKTOP": "code.desktop",
+    "CLUTTER_IM_MODULE": "ibus",
+    "COLORTERM": "truecolor",
+    "DBUS_SESSION_BUS_ADDRESS": "unix:path=/run/user/1000/bus",
+    "DEBUGINFOD_URLS": "https://debuginfod.ubuntu.com ",
+    "DESKTOP_SESSION": "xfce",
+    "DISPLAY": ":10",
+    "DONT_PROMPT_WSL_INSTALL": "1",
+    "DOTNET_BUNDLE_EXTRACT_BASE_DIR": "/home/mpeters/.cache/dotnet_bundle_extract",
+    "ELECTRON_ENABLE_LOGGING": "1",
+    "ELECTRON_NO_ATTACH_CONSOLE": "1",
+    "GDK_BACKEND": "x11",
+    "GNOME_DISABLE_SOFTWARE_ACCELERATION_CHECK": "true",
+    "GTK_IM_MODULE": "ibus",
+    "GTK_MODULES": "gail:atk-bridge",
+    "HOME": "/home/mpeters",
+    "LANG": "C.UTF-8",
+    "LESSCLOSE": "/usr/bin/lesspipe %s %s",
+    "LESSOPEN": "| /usr/bin/lesspipe %s",
+    "LIBGL_ALWAYS_SOFTWARE": "1",
+    "LOGNAME": "mpeters",
+    "LS_COLORS": "rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:",
+    "ORIGINAL_XDG_CURRENT_DESKTOP": "XFCE",
+    "PANEL_GDK_CORE_DEVICE_EVENTS": "0",
+    "PS1": "(home) \\[\\e]0;\\u@\\h: \\w\\a\\]${debian_chroot:+($debian_chroot)}\\[\\033[01;32m\\]\\u@\\h\\[\\033[00m\\]:\\[\\033[01;34m\\]\\w\\[\\033[00m\\]\\$ ",
+    "PULSE_SCRIPT": "/etc/xrdp/pulse/default.pa",
+    "PWD": "/home/mpeters/projects/AOC/2024/_4_2",
+    "QT_ACCESSIBILITY": "1",
+    "QT_IM_MODULE": "ibus",
+    "SESSION_MANAGER": "local/MattsLaptop:@/tmp/.ICE-unix/3043,unix/MattsLaptop:/tmp/.ICE-unix/3043,inet6/MattsLaptop:37369,inet/MattsLaptop:42507",
+    "SHELL": "/bin/bash",
+    "SHLVL": "1",
+    "SSH_AGENT_PID": "3025",
+    "SSH_AUTH_SOCK": "/tmp/ssh-BnQGT5IGpyFl/agent.2931",
+    "TERM": "xterm-256color",
+    "TERMINATOR_DBUS_NAME": "net.tenshu.Terminator2bcb3aa092f2b6032576f3fd56ad9afe9",
+    "TERMINATOR_DBUS_PATH": "/net/tenshu/Terminator2",
+    "TERMINATOR_UUID": "urn:uuid:d50920ee-a085-4787-b873-01b381e7ec8d",
+    "UID": "1000",
+    "USER": "mpeters",
+    "VIRTUAL_ENV": "/home/mpeters/home",
+    "VIRTUAL_ENV_PROMPT": "(home) ",
+    "VSCODE_CLI": "1",
+    "VSCODE_CODE_CACHE_PATH": "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/CachedData/138f619c86f1199955d53b4166bef66ef252935c",
+    "VSCODE_CRASH_REPORTER_PROCESS_TYPE": "extensionHost",
+    "VSCODE_CWD": "/home/mpeters/projects/AOC/2024/_4_2",
+    "VSCODE_ESM_ENTRYPOINT": "vs/workbench/api/node/extensionHostProcess",
+    "VSCODE_HANDLES_UNCAUGHT_ERRORS": "true",
+    "VSCODE_IPC_HOOK": "/run/user/1000/vscode-4c8cf5bd-1.96-main.sock",
+    "VSCODE_NLS_CONFIG": "{\"userLocale\":\"en-us\",\"osLocale\":\"c\",\"resolvedLanguage\":\"en\",\"defaultMessagesFile\":\"/usr/share/code/resources/app/out/nls.messages.json\",\"locale\":\"en-us\",\"availableLanguages\":{}}",
+    "VSCODE_PID": "313607",
+    "VTE_VERSION": "7800",
+    "XDG_CACHE_HOME": "/home/mpeters/.cache",
+    "XDG_CONFIG_DIRS": "/etc/xdg",
+    "XDG_CONFIG_HOME": "/home/mpeters/.config",
+    "XDG_CURRENT_DESKTOP": "XFCE",
+    "XDG_DATA_DIRS": "/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share",
+    "XDG_MENU_PREFIX": "xfce-",
+    "XDG_RUNTIME_DIR": "/run/user/1000",
+    "XDG_SESSION_CLASS": "user",
+    "XDG_SESSION_ID": "c1",
+    "XDG_SESSION_TYPE": "x11",
+    "XMODIFIERS": "@im=ibus",
+    "XRDP_PULSE_SINK_SOCKET": "xrdp_chansrv_audio_out_socket_10",
+    "XRDP_PULSE_SOURCE_SOCKET": "xrdp_chansrv_audio_in_socket_10",
+    "XRDP_SESSION": "2711",
+    "XRDP_SOCKET_PATH": "/run/xrdp/sockdir/1000",
+    "_": "/home/mpeters/bin/code",
+    "ELECTRON_RUN_AS_NODE": "1",
+    "APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL": "1",
+    "PATH": "/home/mpeters/home/bin:/home/mpeters/.cargo/bin:/home/mpeters/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/mpeters/.dotnet/tools:/home/mpeters/bin:/usr/local/go/bin"
+}
+2024-12-13 11:35:22.964 [debug] Extension ms-python.black-formatter accessed onDidChangeActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:22.964 [debug] Extension ms-python.black-formatter accessed getActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:22.964 [debug] Extension ms-python.black-formatter accessed resolveEnvironment with args: {"id":"/home/mpeters/home/bin/python","path":"/home/mpeters/home/bin/python"}
+2024-12-13 11:35:23.403 [debug] Received shell integration sequence for bash
+2024-12-13 11:35:23.481 [debug] Extension ms-python.pylint accessed getActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:23.481 [debug] Extension ms-python.pylint accessed resolveEnvironment with args: {"id":"/home/mpeters/home/bin/python","path":"/home/mpeters/home/bin/python"}
+2024-12-13 11:35:23.481 [debug] Extension ms-python.black-formatter accessed getActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:23.481 [debug] Extension ms-python.black-formatter accessed resolveEnvironment with args: {"id":"/home/mpeters/home/bin/python","path":"/home/mpeters/home/bin/python"}
+2024-12-13 11:35:23.481 [debug] Extension ms-python.pylint accessed resolveEnvironment with args: {"id":"/home/mpeters/home/bin/python","path":"/home/mpeters/home/bin/python"}
+2024-12-13 11:35:23.481 [debug] Extension ms-python.black-formatter accessed getActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:23.481 [debug] Extension ms-python.pylint accessed getActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:23.481 [debug] Extension ms-python.black-formatter accessed resolveEnvironment with args: {"id":"/home/mpeters/home/bin/python","path":"/home/mpeters/home/bin/python"}
+2024-12-13 11:35:23.535 [debug] could not find a pixi interpreter for the interpreter at /home/mpeters/home/bin/python
+2024-12-13 11:35:23.539 [debug] Extension ms-python.vscode-pylance accessed onDidEnvironmentVariablesChange with args: undefined
+2024-12-13 11:35:23.540 [debug] Extension ms-python.vscode-pylance accessed onDidChangeActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:23.546 [debug] Activation Commands received source /home/mpeters/home/bin/activate for shell /usr/bin/bash, resource /home/mpeters/projects/AOC/2024/_4_2 and interpreter /home/mpeters/home/bin/python
+2024-12-13 11:35:23.546 [debug] Activating Environment to capture Environment variables, . /home/mpeters/home/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 11:35:23.546 [info] > . ~/home/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 11:35:23.546 [info] shell: bash
+2024-12-13 11:35:23.571 [debug] Activated environment variables for /home/mpeters/projects/AOC/2024/_4_2 {
+  SHELL: '/bin/bash',
+  SESSION_MANAGER: 'local/MattsLaptop:@/tmp/.ICE-unix/3043,unix/MattsLaptop:/tmp/.ICE-unix/3043,inet6/MattsLaptop:37369,inet/MattsLaptop:42507',
+  QT_ACCESSIBILITY: '1',
+  COLORTERM: 'truecolor',
+  XDG_CONFIG_DIRS: '/etc/xdg',
+  PYTHONUNBUFFERED: '1',
+  XDG_MENU_PREFIX: 'xfce-',
+  GTK_IM_MODULE: 'ibus',
+  APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL: '1',
+  TERMINATOR_DBUS_PATH: '/net/tenshu/Terminator2',
+  SSH_AUTH_SOCK: '/tmp/ssh-BnQGT5IGpyFl/agent.2931',
+  XDG_CONFIG_HOME: '/home/mpeters/.config',
+  ELECTRON_RUN_AS_NODE: '1',
+  TERMINATOR_UUID: 'urn:uuid:d50920ee-a085-4787-b873-01b381e7ec8d',
+  XMODIFIERS: '@im=ibus',
+  DESKTOP_SESSION: 'xfce',
+  SSH_AGENT_PID: '3025',
+  GTK_MODULES: 'gail:atk-bridge',
+  PWD: '/home/mpeters/projects/AOC/2024/_4_2',
+  LOGNAME: 'mpeters',
+  XDG_SESSION_TYPE: 'x11',
+  PANEL_GDK_CORE_DEVICE_EVENTS: '0',
+  VSCODE_ESM_ENTRYPOINT: 'vs/workbench/api/node/extensionHostProcess',
+  VSCODE_CODE_CACHE_PATH: '/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/CachedData/138f619c86f1199955d53b4166bef66ef252935c',
+  PULSE_SCRIPT: '/etc/xrdp/pulse/default.pa',
+  HOME: '/home/mpeters',
+  GNOME_DISABLE_SOFTWARE_ACCELERATION_CHECK: 'true',
+  LANG: 'C.UTF-8',
+  LS_COLORS: 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:',
+  XDG_CURRENT_DESKTOP: 'XFCE',
+  VIRTUAL_ENV: '/home/mpeters/home',
+  VSCODE_IPC_HOOK: '/run/user/1000/vscode-4c8cf5bd-1.96-main.sock',
+  VTE_VERSION: '7800',
+  DONT_PROMPT_WSL_INSTALL: '1',
+  XRDP_SOCKET_PATH: '/run/xrdp/sockdir/1000',
+  XRDP_PULSE_SOURCE_SOCKET: 'xrdp_chansrv_audio_in_socket_10',
+  VSCODE_CLI: '1',
+  TERMINATOR_DBUS_NAME: 'net.tenshu.Terminator2bcb3aa092f2b6032576f3fd56ad9afe9',
+  DOTNET_BUNDLE_EXTRACT_BASE_DIR: '/home/mpeters/.cache/dotnet_bundle_extract',
+  CHROME_DESKTOP: 'code.desktop',
+  CLUTTER_IM_MODULE: 'ibus',
+  XDG_CACHE_HOME: '/home/mpeters/.cache',
+  LESSCLOSE: '/usr/bin/lesspipe %s %s',
+  XDG_SESSION_CLASS: 'user',
+  ELECTRON_ENABLE_LOGGING: '1',
+  TERM: 'xterm-256color',
+  LESSOPEN: '| /usr/bin/lesspipe %s',
+  USER: 'mpeters',
+  PYTHONIOENCODING: 'utf-8',
+  XRDP_SESSION: '2711',
+  DISPLAY: ':10',
+  XRDP_PULSE_SINK_SOCKET: 'xrdp_chansrv_audio_out_socket_10',
+  VSCODE_PID: '313607',
+  SHLVL: '1',
+  QT_IM_MODULE: 'ibus',
+  VSCODE_CWD: '/home/mpeters/projects/AOC/2024/_4_2',
+  XDG_SESSION_ID: 'c1',
+  LIBGL_ALWAYS_SOFTWARE: '1',
+  VIRTUAL_ENV_PROMPT: '(home) ',
+  VSCODE_CRASH_REPORTER_PROCESS_TYPE: 'extensionHost',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  PS1: '(home) ',
+  DEBUGINFOD_URLS: 'https://debuginfod.ubuntu.com ',
+  ELECTRON_NO_ATTACH_CONSOLE: '1',
+  XDG_DATA_DIRS: '/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share',
+  GDK_BACKEND: 'x11',
+  PATH: '/home/mpeters/home/bin:/home/mpeters/home/bin:/home/mpeters/.cargo/bin:/home/mpeters/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/mpeters/.dotnet/tools:/home/mpeters/bin:/usr/local/go/bin',
+  ORIGINAL_XDG_CURRENT_DESKTOP: 'XFCE',
+  DBUS_SESSION_BUS_ADDRESS: 'unix:path=/run/user/1000/bus',
+  VSCODE_NLS_CONFIG: '{"userLocale":"en-us","osLocale":"c","resolvedLanguage":"en","defaultMessagesFile":"/usr/share/code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}',
+  UID: '1000',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  _: '/home/mpeters/home/bin/python'
+}
+2024-12-13 11:35:23.576 [info] > /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 11:35:23.577 [info] shell: bash
+2024-12-13 11:35:23.609 [info] Prepending environment variable PS1 in collection with (home)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-13 11:35:23.609 [info] Prepending environment variable PATH in collection with /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash:/home/mpeters/home/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 11:35:23.611 [info] Send text to terminal: /usr/bin/python3 /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-12-13 11:35:23.621 [debug] Time taken to get env vars using terminal is 11ms
+2024-12-13 11:35:23.788 [debug] Received shell integration sequence for bash
+2024-12-13 11:35:23.816 [debug] Received shell integration sequence for bash
+2024-12-13 11:35:24.707 [info] Starting Pylance language server.
+2024-12-13 11:35:24.748 [debug] Extension ms-python.vscode-pylance accessed getActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:24.749 [debug] Extension ms-python.vscode-pylance accessed resolveEnvironment with args: {"id":"/home/mpeters/home/bin/python","path":"/home/mpeters/home/bin/python"}
+2024-12-13 11:35:24.749 [debug] Extension ms-python.vscode-pylance accessed getActiveEnvironmentPath with args: undefined
+2024-12-13 11:35:24.750 [debug] Extension ms-python.vscode-pylance accessed getEnvironmentVariables with args: undefined
+2024-12-13 11:35:24.751 [debug] Extension ms-python.vscode-pylance accessed resolveEnvironment with args: {"id":"/home/mpeters/home/bin/python","path":"/home/mpeters/home/bin/python"}
+2024-12-13 11:35:28.633 [debug] Terminal shell path '/usr/bin/bash' identified as shell 'bash'
+2024-12-13 11:35:28.633 [debug] Shell identified as bash 

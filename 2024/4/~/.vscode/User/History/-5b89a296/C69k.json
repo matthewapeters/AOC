@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.defaultFoldingRangeProvider": "ms-python.python",
+    "pylint.lintOnChange": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.shellIntegration.enabled": true,
+    "python.testing.pytestEnabled": true
+}

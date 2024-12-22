@@ -1,0 +1,8 @@
+Created Test Controller
+Log verbosity: minimal
+platform: linux arch: x64
+Using vstest from dotnet sdk in [/usr/lib/dotnet/sdk/9.0.100].
+Initialized Test Explorer Server [5654]
+Test Store Folder: /home/mpeters/projects/AOC/2024/_1/~/.vscode/User/workspaceStorage/40755016a3b385de9dadde59c6bc0410/ms-dotnettools.csdevkit
+Test data store opened in 0.022 sec.
+Initialized project system provider.

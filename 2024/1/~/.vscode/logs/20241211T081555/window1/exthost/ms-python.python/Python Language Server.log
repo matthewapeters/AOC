@@ -1,0 +1,33 @@
+2024-12-11 08:17:00.406 [info] (Client) Pylance async client (2024.11.3) started with python extension (2024.20.0)
+2024-12-11 08:17:01.881 [info] [Info  - 8:17:01 AM] (4963) Server root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.11.3/dist
+2024-12-11 08:17:01.887 [info] [Info  - 8:17:01 AM] (4963) Pylance language server 2024.11.3 (pyright version 1.1.386, commit 4180fa21) starting
+2024-12-11 08:17:01.901 [info] [Info  - 8:17:01 AM] (4963) Starting service instance "_1"
+2024-12-11 08:17:02.024 [info] [Info  - 8:17:02 AM] (4963) Setting environmentName for service "_1": "3.12.7 (global)"
+2024-12-11 08:17:02.025 [info] [Info  - 8:17:02 AM] (4963) Setting pythonPath for service "_1": "/bin/python3"
+2024-12-11 08:17:02.028 [info] [Info  - 8:17:02 AM] (4963) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_1
+2024-12-11 08:17:02.028 [info] [Info  - 8:17:02 AM] (4963) Auto-excluding **/node_modules
+2024-12-11 08:17:02.029 [info] [Info  - 8:17:02 AM] (4963) Auto-excluding **/__pycache__
+2024-12-11 08:17:02.029 [info] [Info  - 8:17:02 AM] (4963) Auto-excluding **/.*
+2024-12-11 08:17:02.085 [info] [Info  - 8:17:02 AM] (4963) Assuming Python version 3.12.7.final.0
+2024-12-11 08:17:02.345 [info] [Info  - 8:17:02 AM] (4963) Found 1 source file
+2024-12-11 08:17:03.973 [info] [Info  - 8:17:03 AM] (4963) Background analysis(1) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.11.3/dist
+2024-12-11 08:17:04.646 [info] [Info  - 8:17:04 AM] (4963) Background analysis(1) started
+2024-12-11 08:17:04.883 [info] [Info  - 8:17:04 AM] (4963) Indexer background runner(2) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.11.3/dist (index)
+2024-12-11 08:17:04.884 [info] [Info  - 8:17:04 AM] (4963) Indexing(2) started
+2024-12-11 08:17:06.343 [info] [Info  - 8:17:06 AM] (4963) scanned(2) 118 files over 1 exec env
+2024-12-11 08:17:10.390 [info] [Info  - 8:17:10 AM] (4963) [IDX(2)] Long operation: index execution environment file:///home/mpeters/projects/AOC/2024/_1 (3718ms)
+2024-12-11 08:17:10.429 [info] [Info  - 8:17:10 AM] (4963) [IDX(2)] Long operation: index packages file:///home/mpeters/projects/AOC/2024/_1 (3773ms)
+2024-12-11 08:17:10.429 [info] [Info  - 8:17:10 AM] (4963) indexed(2) 118 files over 1 exec env
+2024-12-11 08:17:10.501 [info] [Info  - 8:17:10 AM] (4963) Indexing finished(2).
+2024-12-11 08:29:32.971 [info] [Info  - 8:29:32 AM] (4963) Starting service instance "<default>"
+2024-12-11 08:29:33.005 [info] [Info  - 8:29:33 AM] (4963) Setting environmentName for service "<default>": "3.12.7 (global)"
+2024-12-11 08:29:33.005 [info] [Info  - 8:29:33 AM] (4963) Setting pythonPath for service "<default>": "/bin/python3"
+2024-12-11 08:29:33.006 [info] [Info  - 8:29:33 AM] (4963) No include entries specified; assuming /<default workspace root>
+2024-12-11 08:29:33.006 [info] [Info  - 8:29:33 AM] (4963) Auto-excluding **/node_modules
+2024-12-11 08:29:33.006 [info] [Info  - 8:29:33 AM] (4963) Auto-excluding **/__pycache__
+2024-12-11 08:29:33.006 [info] [Info  - 8:29:33 AM] (4963) Auto-excluding **/.*
+2024-12-11 08:29:33.052 [info] [Info  - 8:29:33 AM] (4963) Assuming Python version 3.12.7.final.0
+2024-12-11 08:29:33.140 [info] [Error - 8:29:33 AM] (4963) File or directory "/<default workspace root>" does not exist.
+2024-12-11 08:29:33.142 [info] [Info  - 8:29:33 AM] (4963) No source files found.
+2024-12-11 08:29:33.818 [info] [Info  - 8:29:33 AM] (4963) Background analysis(3) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.11.3/dist
+2024-12-11 08:29:33.822 [info] [Info  - 8:29:33 AM] (4963) Background analysis(3) started

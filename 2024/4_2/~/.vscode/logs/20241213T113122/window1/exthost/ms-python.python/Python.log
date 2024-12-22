@@ -1,0 +1,18 @@
+2024-12-13 11:31:26.734 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-13 11:31:26.734 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-13 11:31:26.734 [info] Experiment 'pythonTestAdapter' is active
+2024-12-13 11:31:26.734 [info] Native locator: Refresh started
+2024-12-13 11:31:26.734 [info] Native locator: Refresh started
+2024-12-13 11:31:26.734 [info] VS Code was launched from an activated environment: 'home', selecting it as the interpreter for workspace.
+2024-12-13 11:31:26.764 [info] > pyenv which python
+2024-12-13 11:31:26.764 [info] cwd: .
+2024-12-13 11:31:26.807 [info] Native locator: Refresh finished in 750 ms
+2024-12-13 11:31:26.811 [info] Python interpreter path: ~/home/bin/python
+2024-12-13 11:31:27.367 [info] > . ~/home/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 11:31:27.367 [info] shell: bash
+2024-12-13 11:31:27.394 [info] > /bin/python3 ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 11:31:27.394 [info] shell: bash
+2024-12-13 11:31:27.423 [info] Prepending environment variable PS1 in collection with (home)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-13 11:31:27.423 [info] Prepending environment variable PATH in collection with /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash:/home/mpeters/home/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 11:31:27.425 [info] Send text to terminal: /bin/python3 /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-12-13 11:31:28.464 [info] Starting Pylance language server.

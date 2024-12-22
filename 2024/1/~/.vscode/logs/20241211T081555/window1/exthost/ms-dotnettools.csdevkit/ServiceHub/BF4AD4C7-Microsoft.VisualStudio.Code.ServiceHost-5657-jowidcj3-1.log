@@ -1,0 +1,180 @@
+﻿12/11/2024 08:17:11 Pacific Standard Time : Information : Local timezone is (UTC-08:00) Pacific Time (Los Angeles)
+12/11/2024 08:17:12 Pacific Standard Time : Information : Service Hub .NET service module host started. Host id: dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE. Controller pipe: net.pipe://5552A25AFE. PID: 5657
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr read: Content-Length: 116
+
+{"jsonrpc":"2.0","id":2,"method":"InitializeHostAsync","params":[{"HostsRootDirectory":".","AppConfigFallback":""}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr write: Content-Length: 93
+
+{"jsonrpc":"2.0","id":2,"result":"dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"}
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr read: Content-Length: 978
+
+{"jsonrpc":"2.0","id":3,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.LaunchConfigurationService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/af849407c5"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.LaunchConfigurationService'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Starting service module 'Microsoft.VisualStudio.LaunchConfigurationService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : Started service 'Microsoft.VisualStudio.LaunchConfigurationService'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/9d53f24200, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":3,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/9d53f24200"}
+12/11/2024 08:17:12 Pacific Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.LaunchConfigurationService'
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr write: Content-Length: 124
+
+{"jsonrpc":"2.0","method":"HostServicesStartedAsync","params":["dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.LaunchConfigurationService.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' from factory
+12/11/2024 08:17:13 Pacific Standard Time : Information : hubHostClr read: Content-Length: 1043
+
+{"jsonrpc":"2.0","id":4,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/1dc05af432","__servicehub__RequestedServiceVersion":"0.3"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'
+12/11/2024 08:17:13 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64'
+12/11/2024 08:17:13 Pacific Standard Time : Information : Starting service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory, Supported Version: 
+12/11/2024 08:17:13 Pacific Standard Time : Information : Started service 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/f07587d78b, Supported Version: 
+12/11/2024 08:17:13 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":4,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/f07587d78b"}
+12/11/2024 08:17:13 Pacific Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'
+12/11/2024 08:17:13 Pacific Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.3.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' from factory
+12/11/2024 08:17:13 Pacific Standard Time : Information : hubHostClr read: Content-Length: 1022
+
+{"jsonrpc":"2.0","id":5,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/539a9ace68","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.ProjectSystem.CompositionService'
+12/11/2024 08:17:13 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64'
+12/11/2024 08:17:13 Pacific Standard Time : Information : Starting service module 'Microsoft.VisualStudio.ProjectSystem.CompositionService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory, Supported Version: 
+12/11/2024 08:17:13 Pacific Standard Time : Information : Started service 'Microsoft.VisualStudio.ProjectSystem.CompositionService'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/f50a7f7032, Supported Version: 
+12/11/2024 08:17:13 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":5,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/f50a7f7032"}
+12/11/2024 08:17:13 Pacific Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.ProjectSystem.CompositionService'
+12/11/2024 08:17:13 Pacific Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.ProjectSystem.CompositionService.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' from factory
+12/11/2024 08:17:13 Pacific Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' from factory
+12/11/2024 08:17:13 Pacific Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' from factory
+12/11/2024 08:17:13 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements System.IAsyncDisposable.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements System.IDisposable.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' from factory
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr read: Content-Length: 978
+
+{"jsonrpc":"2.0","id":6,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.LaunchConfigurationService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/2597a03293"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:43:45 Pacific Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.LaunchConfigurationService'
+12/11/2024 08:43:45 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64'
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr read: Content-Length: 1043
+
+{"jsonrpc":"2.0","id":7,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/8d97c85367","__servicehub__RequestedServiceVersion":"0.3"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:43:45 Pacific Standard Time : Information : Starting service module 'Microsoft.VisualStudio.LaunchConfigurationService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory, Supported Version: 
+12/11/2024 08:43:45 Pacific Standard Time : Information : Started service 'Microsoft.VisualStudio.LaunchConfigurationService'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/e5a6c6b97d, Supported Version: 
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":6,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/e5a6c6b97d"}
+12/11/2024 08:43:45 Pacific Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'
+12/11/2024 08:43:45 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64'
+12/11/2024 08:43:45 Pacific Standard Time : Information : Starting service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory, Supported Version: 
+12/11/2024 08:43:45 Pacific Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.LaunchConfigurationService'
+12/11/2024 08:43:45 Pacific Standard Time : Information : Started service 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/16666c71ed, Supported Version: 
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":7,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/16666c71ed"}
+12/11/2024 08:43:45 Pacific Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.LaunchConfigurationService.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements System.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements System.IDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'
+12/11/2024 08:43:45 Pacific Standard Time : Information : Found IServiceHubServiceFactory in cache. Creating instance from the factory.
+12/11/2024 08:43:45 Pacific Standard Time : Error : Error creating Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory instance of CLR service module 'Microsoft.VisualStudio.LaunchConfigurationService': StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.ServiceHub.Framework.RemoteServiceBroker.ConnectToServerAsync(IRemoteServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.Framework.RemoteServiceBroker.ConnectToServerAsync(String pipeName, TraceSource traceSource, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.GetServiceBrokerAsync(ServiceActivationOptions options, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.GetServiceBrokerFromServiceActivationOptionsAsync(AssemblyName serviceHubFramework, Object serviceActivationOptions, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+===InnerException===
+System.OperationCanceledException: The operation was canceled. HResult='-2146233029' 
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at StreamJsonRpc.MessageHandlerBase.WriteAsync(JsonRpcMessage content, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.SendAsync(JsonRpcMessage message, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+12/11/2024 08:43:45 Pacific Standard Time : Error : Error creating Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory instance of CLR service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService': StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.ServiceHub.Framework.RemoteServiceBroker.ConnectToServerAsync(IRemoteServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.Framework.RemoteServiceBroker.ConnectToServerAsync(String pipeName, TraceSource traceSource, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.GetServiceBrokerAsync(ServiceActivationOptions options, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.GetServiceBrokerFromServiceActivationOptionsAsync(AssemblyName serviceHubFramework, Object serviceActivationOptions, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+===InnerException===
+System.OperationCanceledException: The operation was canceled. HResult='-2146233029' 
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at StreamJsonRpc.MessageHandlerBase.WriteAsync(JsonRpcMessage content, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.SendAsync(JsonRpcMessage message, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements System.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements System.IDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr read: Content-Length: 57
+
+{"jsonrpc":"2.0","id":8,"method":"ExitAsync","params":[]}
+12/11/2024 08:43:45 Pacific Standard Time : Information : Exit command received. Exiting CLR host
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":8,"result":null}
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr JSON RPC has been disposed
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr read: end of stream
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements System.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements System.IDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Error : StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.ServiceHub.Framework.RemoteServiceBroker.ConnectToServerAsync(IRemoteServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.Framework.RemoteServiceBroker.ConnectToServerAsync(String pipeName, TraceSource traceSource, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.GetServiceBrokerAsync(ServiceActivationOptions options, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.GetServiceBrokerFromServiceActivationOptionsAsync(AssemblyName serviceHubFramework, Object serviceActivationOptions, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Utility.Server.ClientConnected(WrappedStream stream)
+===InnerException===
+System.OperationCanceledException: The operation was canceled. HResult='-2146233029' 
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at StreamJsonRpc.MessageHandlerBase.WriteAsync(JsonRpcMessage content, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.SendAsync(JsonRpcMessage message, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+12/11/2024 08:43:45 Pacific Standard Time : Error : StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.ServiceHub.Framework.RemoteServiceBroker.ConnectToServerAsync(IRemoteServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.Framework.RemoteServiceBroker.ConnectToServerAsync(String pipeName, TraceSource traceSource, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.GetServiceBrokerAsync(ServiceActivationOptions options, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.GetServiceBrokerFromServiceActivationOptionsAsync(AssemblyName serviceHubFramework, Object serviceActivationOptions, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Utility.Server.ClientConnected(WrappedStream stream)
+===InnerException===
+System.OperationCanceledException: The operation was canceled. HResult='-2146233029' 
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at StreamJsonRpc.MessageHandlerBase.WriteAsync(JsonRpcMessage content, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.SendAsync(JsonRpcMessage message, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements System.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements System.IDisposable.

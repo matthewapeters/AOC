@@ -1,0 +1,6 @@
+{
+"python.defaultInterpreterPath": "python",
+"[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+  }
+}

@@ -1,0 +1,95 @@
+2024-12-12 16:13:25.069 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.0)
+2024-12-12 16:13:25.590 [info] [Info  - 4:13:25 PM] (67787) Server root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-12 16:13:25.590 [info] [Info  - 4:13:25 PM] (67787) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-12 16:13:25.596 [info] [Info  - 4:13:25 PM] (67787) Starting service instance "_4"
+2024-12-12 16:13:25.661 [info] [Info  - 4:13:25 PM] (67787) Setting environmentName for service "_4": "3.12.7 (global)"
+2024-12-12 16:13:25.661 [info] [Info  - 4:13:25 PM] (67787) Setting pythonPath for service "_4": "/usr/bin/python3"
+2024-12-12 16:13:25.662 [info] [Info  - 4:13:25 PM] (67787) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:13:25.662 [info] [Info  - 4:13:25 PM] (67787) Auto-excluding **/node_modules
+2024-12-12 16:13:25.663 [info] [Info  - 4:13:25 PM] (67787) Auto-excluding **/__pycache__
+2024-12-12 16:13:25.663 [info] [Info  - 4:13:25 PM] (67787) Auto-excluding **/.*
+2024-12-12 16:13:25.691 [info] [Info  - 4:13:25 PM] (67787) Assuming Python version 3.12.7.final.0
+2024-12-12 16:13:25.766 [info] [Info  - 4:13:25 PM] (67787) Found 1 source file
+2024-12-12 16:13:26.228 [info] [Info  - 4:13:26 PM] (67787) Background analysis(1) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-12 16:13:26.232 [info] [Info  - 4:13:26 PM] (67787) Background analysis(1) started
+2024-12-12 16:13:29.864 [info] [Info  - 4:13:29 PM] (67787) Indexer background runner(2) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-12 16:13:29.864 [info] [Info  - 4:13:29 PM] (67787) Indexing(2) started
+2024-12-12 16:13:30.287 [info] [Info  - 4:13:30 PM] (67787) scanned(2) 118 files over 1 exec env
+2024-12-12 16:13:30.467 [info] [Info  - 4:13:30 PM] (67787) indexed(2) 118 files over 1 exec env
+2024-12-12 16:13:30.497 [info] [Info  - 4:13:30 PM] (67787) Indexing finished(2).
+2024-12-12 16:13:59.500 [info] [Info  - 4:13:59 PM] (67787) Setting environmentName for service "_4": "3.12.7 (global)"
+2024-12-12 16:13:59.501 [info] [Info  - 4:13:59 PM] (67787) Setting pythonPath for service "_4": "/usr/bin/python3"
+2024-12-12 16:13:59.501 [info] [Info  - 4:13:59 PM] (67787) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:13:59.501 [info] [Info  - 4:13:59 PM] (67787) Auto-excluding **/node_modules
+2024-12-12 16:13:59.501 [info] [Info  - 4:13:59 PM] (67787) Auto-excluding **/__pycache__
+2024-12-12 16:13:59.502 [info] [Info  - 4:13:59 PM] (67787) Auto-excluding **/.*
+2024-12-12 16:13:59.526 [info] [Info  - 4:13:59 PM] (67787) Assuming Python version 3.12.7.final.0
+2024-12-12 16:13:59.577 [info] [Info  - 4:13:59 PM] (67787) Found 1 source file
+2024-12-12 16:13:59.584 [info] [Info  - 4:13:59 PM] (67787) Setting environmentName for service "_4": "3.12.7 (global)"
+2024-12-12 16:13:59.584 [info] [Info  - 4:13:59 PM] (67787) Setting pythonPath for service "_4": "/usr/bin/python3"
+2024-12-12 16:13:59.584 [info] [Info  - 4:13:59 PM] (67787) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:13:59.585 [info] [Info  - 4:13:59 PM] (67787) Auto-excluding **/node_modules
+2024-12-12 16:13:59.585 [info] [Info  - 4:13:59 PM] (67787) Auto-excluding **/__pycache__
+2024-12-12 16:13:59.585 [info] [Info  - 4:13:59 PM] (67787) Auto-excluding **/.*
+2024-12-12 16:13:59.610 [info] [Info  - 4:13:59 PM] (67787) Assuming Python version 3.12.7.final.0
+2024-12-12 16:13:59.657 [info] [Info  - 4:13:59 PM] (67787) Found 1 source file
+2024-12-12 16:14:21.233 [info] [Info  - 4:14:21 PM] (67787) Setting environmentName for service "_4": "3.12.7 (global)"
+2024-12-12 16:14:21.234 [info] [Info  - 4:14:21 PM] (67787) Setting pythonPath for service "_4": "/usr/bin/python3"
+2024-12-12 16:14:21.234 [info] [Info  - 4:14:21 PM] (67787) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:14:21.234 [info] [Info  - 4:14:21 PM] (67787) Auto-excluding **/node_modules
+2024-12-12 16:14:21.234 [info] [Info  - 4:14:21 PM] (67787) Auto-excluding **/__pycache__
+2024-12-12 16:14:21.234 [info] [Info  - 4:14:21 PM] (67787) Auto-excluding **/.*
+2024-12-12 16:14:21.252 [info] [Info  - 4:14:21 PM] (67787) Assuming Python version 3.12.7.final.0
+2024-12-12 16:14:21.294 [info] [Info  - 4:14:21 PM] (67787) Found 1 source file
+2024-12-12 16:14:21.304 [info] [Info  - 4:14:21 PM] (67787) Setting environmentName for service "_4": "3.12.7 (global)"
+2024-12-12 16:14:21.305 [info] [Info  - 4:14:21 PM] (67787) Setting pythonPath for service "_4": "/usr/bin/python3"
+2024-12-12 16:14:21.305 [info] [Info  - 4:14:21 PM] (67787) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:14:21.305 [info] [Info  - 4:14:21 PM] (67787) Auto-excluding **/node_modules
+2024-12-12 16:14:21.305 [info] [Info  - 4:14:21 PM] (67787) Auto-excluding **/__pycache__
+2024-12-12 16:14:21.306 [info] [Info  - 4:14:21 PM] (67787) Auto-excluding **/.*
+2024-12-12 16:14:21.327 [info] [Info  - 4:14:21 PM] (67787) Assuming Python version 3.12.7.final.0
+2024-12-12 16:14:21.371 [info] [Info  - 4:14:21 PM] (67787) Found 1 source file
+2024-12-12 16:14:37.804 [info] [Info  - 4:14:37 PM] (67787) Indexer background runner(3) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-12 16:14:37.804 [info] [Info  - 4:14:37 PM] (67787) Indexing(3) started
+2024-12-12 16:14:38.064 [info] [Info  - 4:14:38 PM] (67787) scanned(3) 118 files over 1 exec env
+2024-12-12 16:14:38.230 [info] [Info  - 4:14:38 PM] (67787) indexed(3) 118 files over 1 exec env
+2024-12-12 16:14:38.262 [info] [Info  - 4:14:38 PM] (67787) Indexing finished(3).
+2024-12-12 16:14:55.424 [info] [Info  - 4:14:55 PM] (67787) Setting environmentName for service "_4": "3.12.7 (global)"
+2024-12-12 16:14:55.424 [info] [Info  - 4:14:55 PM] (67787) Setting pythonPath for service "_4": "/usr/bin/python3"
+2024-12-12 16:14:55.425 [info] [Info  - 4:14:55 PM] (67787) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:14:55.425 [info] [Info  - 4:14:55 PM] (67787) Auto-excluding **/node_modules
+2024-12-12 16:14:55.425 [info] [Info  - 4:14:55 PM] (67787) Auto-excluding **/__pycache__
+2024-12-12 16:14:55.425 [info] [Info  - 4:14:55 PM] (67787) Auto-excluding **/.*
+2024-12-12 16:14:55.457 [info] [Info  - 4:14:55 PM] (67787) Assuming Python version 3.12.7.final.0
+2024-12-12 16:14:55.497 [info] [Info  - 4:14:55 PM] (67787) Found 3 source files
+2024-12-12 16:14:56.027 [info] [Info  - 4:14:56 PM] (67787) Indexer background runner(4) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-12 16:14:56.027 [info] [Info  - 4:14:56 PM] (67787) Indexing(4) started
+2024-12-12 16:14:56.244 [info] [Info  - 4:14:56 PM] (67787) scanned(4) 118 files over 1 exec env
+2024-12-12 16:14:56.379 [info] [Info  - 4:14:56 PM] (67787) indexed(4) 118 files over 1 exec env
+2024-12-12 16:14:56.407 [info] [Info  - 4:14:56 PM] (67787) Indexing finished(4).
+2024-12-12 16:14:59.881 [info] [Info  - 4:14:59 PM] (67787) Setting environmentName for service "_4": "3.12.7 (global)"
+2024-12-12 16:14:59.881 [info] [Info  - 4:14:59 PM] (67787) Setting pythonPath for service "_4": "/usr/bin/python3"
+2024-12-12 16:14:59.882 [info] [Info  - 4:14:59 PM] (67787) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:14:59.882 [info] [Info  - 4:14:59 PM] (67787) Auto-excluding **/node_modules
+2024-12-12 16:14:59.882 [info] [Info  - 4:14:59 PM] (67787) Auto-excluding **/__pycache__
+2024-12-12 16:14:59.882 [info] [Info  - 4:14:59 PM] (67787) Auto-excluding **/.*
+2024-12-12 16:14:59.903 [info] [Info  - 4:14:59 PM] (67787) Assuming Python version 3.12.7.final.0
+2024-12-12 16:14:59.934 [info] [Info  - 4:14:59 PM] (67787) Found 3 source files
+2024-12-12 16:15:00.416 [info] [Info  - 4:15:00 PM] (67787) Indexer background runner(5) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-12 16:15:00.417 [info] [Info  - 4:15:00 PM] (67787) Indexing(5) started
+2024-12-12 16:15:00.661 [info] [Info  - 4:15:00 PM] (67787) scanned(5) 118 files over 1 exec env
+2024-12-12 16:15:00.814 [info] [Info  - 4:15:00 PM] (67787) indexed(5) 118 files over 1 exec env
+2024-12-12 16:15:00.845 [info] [Info  - 4:15:00 PM] (67787) Indexing finished(5).
+2024-12-12 16:15:04.114 [info] [Info  - 4:15:04 PM] (67787) Setting environmentName for service "_4": "3.12.7 (global)"
+2024-12-12 16:15:04.114 [info] [Info  - 4:15:04 PM] (67787) Setting pythonPath for service "_4": "/usr/bin/python3"
+2024-12-12 16:15:04.115 [info] [Info  - 4:15:04 PM] (67787) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:15:04.115 [info] [Info  - 4:15:04 PM] (67787) Auto-excluding **/node_modules
+2024-12-12 16:15:04.115 [info] [Info  - 4:15:04 PM] (67787) Auto-excluding **/__pycache__
+2024-12-12 16:15:04.115 [info] [Info  - 4:15:04 PM] (67787) Auto-excluding **/.*
+2024-12-12 16:15:04.142 [info] [Info  - 4:15:04 PM] (67787) Assuming Python version 3.12.7.final.0
+2024-12-12 16:15:04.185 [info] [Info  - 4:15:04 PM] (67787) Found 3 source files
+2024-12-12 16:15:04.673 [info] [Info  - 4:15:04 PM] (67787) Indexer background runner(6) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-12 16:15:04.673 [info] [Info  - 4:15:04 PM] (67787) Indexing(6) started
+2024-12-12 16:15:04.897 [info] [Info  - 4:15:04 PM] (67787) scanned(6) 118 files over 1 exec env
+2024-12-12 16:15:05.024 [info] [Info  - 4:15:05 PM] (67787) indexed(6) 118 files over 1 exec env
+2024-12-12 16:15:05.051 [info] [Info  - 4:15:05 PM] (67787) Indexing finished(6).

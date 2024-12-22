@@ -1,0 +1,9 @@
+No C# project is found in the workspace.
+Starting Spawn .NET server...
+Using local .NET runtime at "/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore/dotnet"
+Found installed dotnet location "/usr/lib/dotnet/dotnet" to load projects.
+Project system hosting process will use runtime installed in SDK.
+.NET server started and IPC established in 4611ms
+Completed Spawn .NET server (11049ms)
+C# Dev Kit deactivate() is now executing...
+registerIdentityService: Failed to initialization. Error: 'Canceled: Canceled'

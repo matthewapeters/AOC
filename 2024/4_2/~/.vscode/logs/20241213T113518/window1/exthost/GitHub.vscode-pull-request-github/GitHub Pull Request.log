@@ -1,0 +1,15 @@
+2024-12-13 11:35:28.283 [warning] /home/mpeters/.ssh/config: ENOENT: no such file or directory, open '/home/mpeters/.ssh/config'
+2024-12-13 11:35:28.283 [info] Activation> Extension version: 0.102.0
+2024-12-13 11:35:28.283 [debug] Activation> Creating API implementation.
+2024-12-13 11:35:28.283 [debug] Activation> Initializing state.
+2024-12-13 11:35:28.283 [debug] Activation> Creating credential store.
+2024-12-13 11:35:28.283 [debug] Authentication> Initializing GitHub authentication provider.
+2024-12-13 11:35:28.515 [debug] Authentication> No GitHub token found.
+2024-12-13 11:35:28.531 [debug] Activation> Registering built in git provider.
+2024-12-13 11:35:28.531 [debug] Activation> Registering live share git provider.
+2024-12-13 11:35:28.531 [debug] Activation> Creating tree view.
+2024-12-13 11:35:28.531 [info] Looking for git repository
+2024-12-13 11:35:28.531 [info] Found 0 repositories during activation
+2024-12-13 11:35:28.531 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-13 11:35:28.532 [info] Registering git provider
+2024-12-13 11:35:28.643 [debug] GitPostCommitCommands> Trying to register post commit commands.

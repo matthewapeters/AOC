@@ -1,0 +1,7 @@
+2024-12-12 16:09:02.224 [info] update#setState idle
+2024-12-12 16:09:32.915 [info] update#setState checking for updates
+2024-12-12 16:09:32.919 [info] update#setState available for download
+2024-12-12 16:09:53.851 [info] update#setState idle
+2024-12-12 16:10:28.292 [info] Extension host with pid 62764 exited with code: 0, signal: unknown.
+2024-12-12 16:10:55.618 [info] Extension host with pid 64027 exited with code: 0, signal: unknown.
+2024-12-12 16:11:10.055 [info] Extension host with pid 64755 exited with code: 0, signal: unknown.

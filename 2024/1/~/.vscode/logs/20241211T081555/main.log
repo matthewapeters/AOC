@@ -1,0 +1,5 @@
+2024-12-11 08:15:56.488 [info] update#setState idle
+2024-12-11 08:16:28.066 [info] update#setState checking for updates
+2024-12-11 08:16:28.077 [info] update#setState available for download
+2024-12-11 08:43:45.440 [info] Extension host with pid 4316 exited with code: 0, signal: unknown.
+2024-12-11 08:43:45.720 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1008420720, signal: unknown

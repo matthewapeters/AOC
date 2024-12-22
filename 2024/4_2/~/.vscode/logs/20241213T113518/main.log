@@ -1,0 +1,137 @@
+2024-12-13 11:35:18.461 [trace] [File Watcher (node.js)] Request to start watching: /home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-12-13 11:35:18.461 [debug] Starting VS Code
+2024-12-13 11:35:18.461 [debug] from: /usr/share/code/resources/app
+2024-12-13 11:35:18.461 [debug] args: {"_":["/home/mpeters/projects/AOC/2024/_4_2"],"diff":false,"merge":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"user-data-dir":"~/.vscode","help":false,"list-extensions":false,"show-versions":false,"pre-release":false,"update-extensions":false,"version":false,"verbose":true,"status":false,"prof-startup":false,"no-cached-data":false,"prof-v8-extensions":false,"disable-extensions":false,"disable-lcd-text":false,"disable-gpu":false,"disable-chromium-sandbox":false,"sandbox":false,"telemetry":false,"debugRenderer":false,"enable-smoke-test-driver":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"skip-welcome":false,"disable-telemetry":false,"disable-updates":false,"use-inmemory-secretstorage":false,"disable-workspace-trust":false,"disable-crash-reporter":false,"crash-reporter-id":"4f65dc9a-8748-4a3c-be40-47b773154170","skip-add-to-recently-opened":false,"open-url":false,"file-write":false,"file-chmod":false,"force":false,"do-not-sync":false,"trace":false,"preserve-env":false,"force-user-env":false,"force-disable-user-env":false,"open-devtools":false,"disable-gpu-sandbox":false,"__enable-file-policy":false,"enable-coi":false,"no-proxy-server":false,"no-sandbox":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false,"disable-dev-shm-usage":false,"profile-temp":false,"logsPath":"/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/logs/20241213T113518"}
+2024-12-13 11:35:18.461 [trace] Resolving machine identifier...
+2024-12-13 11:35:18.461 [trace] Resolved machine identifier: ffa81ed5c4f5c0b60b72b4a059b82a2adb6b158f47bf650c3064f4ddd9344d53
+2024-12-13 11:35:18.461 [trace] Main->SharedProcess#connect
+2024-12-13 11:35:18.461 [trace] StorageMainService: creating application storage
+2024-12-13 11:35:18.461 [trace] ElectronURLListener: waiting for window to be ready to handle URLs...
+2024-12-13 11:35:18.461 [trace] lifecycle (main): phase changed (value: 2)
+2024-12-13 11:35:18.462 [trace] windowsManager#open
+2024-12-13 11:35:18.462 [trace] windowsManager#open pathsToOpen [{"workspace":{"id":"703bbc04faa376cf44f6023b29206615","uri":{"$mid":1,"fsPath":"/home/mpeters/projects/AOC/2024/_4_2","path":"/home/mpeters/projects/AOC/2024/_4_2","scheme":"file"}},"type":2,"exists":true}]
+2024-12-13 11:35:18.462 [trace] windowsManager#doOpenFolderOrWorkspace {"folderOrWorkspace":{"workspace":{"id":"703bbc04faa376cf44f6023b29206615","uri":{"$mid":1,"fsPath":"/home/mpeters/projects/AOC/2024/_4_2","external":"file:///home/mpeters/projects/AOC/2024/_4_2","path":"/home/mpeters/projects/AOC/2024/_4_2","scheme":"file"}},"type":2,"exists":true}}
+2024-12-13 11:35:18.462 [trace] IPC Object URL: Registered new channel vscode:6f9e0fc6-4cde-461e-a537-e286da69230a.
+2024-12-13 11:35:18.462 [trace] window#validateWindowState: validating window state on 1 display(s) {"mode":0,"x":0,"y":46,"width":2603,"height":1433}
+2024-12-13 11:35:18.462 [trace] window#validateWindowState: single monitor working area {"x":0,"y":27,"width":2601,"height":1436}
+2024-12-13 11:35:18.462 [trace] window#ctor: using window state {"mode":0,"x":0,"y":46,"width":2601,"height":1433}
+2024-12-13 11:35:18.462 [trace] window#load: attempt to load window (id: 1)
+2024-12-13 11:35:18.462 [trace] StorageMainService: creating workspace storage (703bbc04faa376cf44f6023b29206615)
+2024-12-13 11:35:18.462 [trace] windowsManager#open used window count 1 (workspacesToOpen: 0, foldersToOpen: 1, emptyToRestore: 0, openOneEmptyWindow: false)
+2024-12-13 11:35:18.462 [trace] lifecycle (main): phase changed (value: 3)
+2024-12-13 11:35:18.462 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2024-12-13 11:35:18.462 [info] update#setState idle
+2024-12-13 11:35:18.478 [trace] [File Watcher (node.js)] Started watching: '/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User'
+2024-12-13 11:35:18.480 [trace] [File Watcher (node.js)] Started watching: '/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/settings.json'
+2024-12-13 11:35:18.506 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2024-12-13 11:35:19.136 [trace] window#load: window reported ready (id: 1)
+2024-12-13 11:35:19.137 [trace] ElectronURLListener#flush(): flushing URLs
+2024-12-13 11:35:19.171 [trace] [SharedProcess] onWindowConnection for: vscode:createSharedProcessChannelConnectionResult
+2024-12-13 11:35:19.172 [trace] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2024-12-13 11:35:19.208 [trace] [UtilityProcess type: shared-process, pid: <none>]: payload sent via postMessage()
+2024-12-13 11:35:19.209 [trace] [UtilityProcessWorker]: createWorker(window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2024-12-13 11:35:19.210 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2024-12-13 11:35:19.215 [trace] [UtilityProcess type: shared-process, pid: 313743]: successfully created
+2024-12-13 11:35:19.216 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 313745]: successfully created
+2024-12-13 11:35:19.266 [trace] menubarService#updateMenubar 1
+2024-12-13 11:35:19.369 [trace] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2024-12-13 11:35:19.375 [trace] [UtilityProcess id: 1, type: extensionHost, pid: 313771]: successfully created
+2024-12-13 11:35:19.602 [trace] [SharedProcess] IPC ready
+2024-12-13 11:35:19.602 [trace] Main->SharedProcess#connect: connection established
+2024-12-13 11:35:19.605 [trace] menubarService#updateMenubar 1
+2024-12-13 11:35:19.639 [trace] [File Watcher (node.js)] Request to start watching: /home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-12-13 11:35:19.645 [trace] [File Watcher (node.js)] Started watching: '/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User'
+2024-12-13 11:35:19.645 [trace] [File Watcher (node.js)] Started watching: '/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/settings.json'
+2024-12-13 11:35:19.665 [trace] [SharedProcess] Overall ready
+2024-12-13 11:35:19.727 [trace] [File Watcher (node.js)] Request to start watching: /home/mpeters/.vscode/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/mpeters/.vscode/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-12-13 11:35:19.729 [trace] [File Watcher (node.js)] Started watching: '/home/mpeters/.vscode/extensions'
+2024-12-13 11:35:19.729 [trace] [File Watcher (node.js)] Started watching: '/home/mpeters/.vscode/extensions/extensions.json'
+2024-12-13 11:35:20.208 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2024-12-13 11:35:20.254 [trace] [UtilityProcess type: ptyHost, pid: <none>]: creating new...
+2024-12-13 11:35:20.259 [trace] PtyHostService#_startPtyHost 
+    at wu.U (file:///usr/share/code/resources/app/out/main.js:80:3007)
+    at wu.h (file:///usr/share/code/resources/app/out/main.js:80:1510)
+    at get f (file:///usr/share/code/resources/app/out/main.js:80:1460)
+    at wu.reviveTerminalProcesses (file:///usr/share/code/resources/app/out/main.js:80:6391)
+    at Object.call (file:///usr/share/code/resources/app/out/main.js:36:4563)
+    at uf.s (file:///usr/share/code/resources/app/out/main.js:34:19716)
+    at uf.q (file:///usr/share/code/resources/app/out/main.js:34:19239)
+    at zo.value (file:///usr/share/code/resources/app/out/main.js:34:18641)
+    at A.B (file:///usr/share/code/resources/app/out/main.js:33:746)
+    at A.C (file:///usr/share/code/resources/app/out/main.js:33:816)
+    at A.fire (file:///usr/share/code/resources/app/out/main.js:33:1033)
+    at zo.value (file:///usr/share/code/resources/app/out/main.js:28:4913)
+    at A.B (file:///usr/share/code/resources/app/out/main.js:33:746)
+    at A.fire (file:///usr/share/code/resources/app/out/main.js:33:964)
+    at zo.value (file:///usr/share/code/resources/app/out/main.js:28:5101)
+    at A.B (file:///usr/share/code/resources/app/out/main.js:33:746)
+    at A.fire (file:///usr/share/code/resources/app/out/main.js:33:964)
+    at U (file:///usr/share/code/resources/app/out/main.js:28:7388)
+    at IpcMainImpl.i (file:///usr/share/code/resources/app/out/main.js:36:21224)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:85782)
+    at WebContents.emit (node:events:518:28)
+2024-12-13 11:35:20.262 [trace] [UtilityProcess type: ptyHost, pid: 313794]: successfully created
+2024-12-13 11:35:20.321 [debug] Terminal profile not validated zsh ["zsh"]
+2024-12-13 11:35:20.321 [debug] Terminal profile not validated fish ["fish"]
+2024-12-13 11:35:20.321 [debug] Terminal profile not validated pwsh ["pwsh"]
+2024-12-13 11:35:20.376 [trace] [EncryptionMainService] Checking if encryption is available...
+2024-12-13 11:35:20.418 [trace] [EncryptionMainService] Encryption is available:  true
+2024-12-13 11:35:20.944 [trace] lifecycle (main): phase changed (value: 4)
+2024-12-13 11:35:21.017 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2024-12-13 11:35:21.023 [trace] [network] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/138f619c86f1199955d53b4166bef66ef252935c - begin undefined {}
+2024-12-13 11:35:21.186 [trace] [network] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/138f619c86f1199955d53b4166bef66ef252935c - end undefined 204 {"access-control-allow-origin":"*","date":"Fri, 13 Dec 2024 19:35:21 GMT","request-context":"appId=cid-v1:8109e553-6232-492a-afca-b78cea9b431c","strict-transport-security":"max-age=31536000; includeSubDomains","x-azure-ref":"20241213T193521Z-r158d6ff7cbngc8thC1CO1gums00000003m000000000gyp1","x-cache":"CONFIG_NOCACHE","x-content-type-options":"nosniff","x-powered-by":"Express","x-source-commit":"ec889288e272a7cf2166c86c73aa9424bf003814"}
+2024-12-13 11:35:22.306 [debug] ProxyResolver#loadSystemCertificates count 146
+2024-12-13 11:35:22.319 [debug] ProxyResolver#loadSystemCertificates count filtered 145
+2024-12-13 11:35:22.668 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2024-12-13 11:35:22.789 [debug] Terminal profile not validated zsh ["zsh"]
+2024-12-13 11:35:22.790 [debug] Terminal profile not validated fish ["fish"]
+2024-12-13 11:35:22.790 [debug] Terminal profile not validated pwsh ["pwsh"]
+2024-12-13 11:35:24.661 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2024-12-13 11:35:24.673 [debug] Terminal profile not validated zsh ["zsh"]
+2024-12-13 11:35:24.673 [debug] Terminal profile not validated fish ["fish"]
+2024-12-13 11:35:24.674 [debug] Terminal profile not validated pwsh ["pwsh"]
+2024-12-13 11:35:48.443 [trace] update#checkForUpdates, state =  idle
+2024-12-13 11:35:48.444 [info] update#setState checking for updates
+2024-12-13 11:35:48.444 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2024-12-13 11:35:48.445 [trace] [network] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/138f619c86f1199955d53b4166bef66ef252935c - begin undefined {}
+2024-12-13 11:35:48.469 [trace] [network] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/138f619c86f1199955d53b4166bef66ef252935c - end undefined 204 {"access-control-allow-origin":"*","date":"Fri, 13 Dec 2024 19:35:48 GMT","request-context":"appId=cid-v1:8109e553-6232-492a-afca-b78cea9b431c","strict-transport-security":"max-age=31536000; includeSubDomains","x-azure-ref":"20241213T193548Z-r158d6ff7cbngc8thC1CO1gums00000003m000000000h1wd","x-cache":"CONFIG_NOCACHE","x-content-type-options":"nosniff","x-powered-by":"Express","x-source-commit":"ec889288e272a7cf2166c86c73aa9424bf003814"}
+2024-12-13 11:35:48.470 [info] update#setState idle
+2024-12-13 11:40:47.854 [trace] menubarService#updateMenubar 1
+2024-12-13 11:41:19.864 [trace] menubarService#updateMenubar 1
+2024-12-13 11:41:21.945 [trace] Lifecycle#window.on('close') - window ID 1
+2024-12-13 11:41:21.945 [trace] Lifecycle#unload() - window ID 1
+2024-12-13 11:41:22.002 [trace] Lifecycle#onBeforeCloseWindow.fire() - window ID 1
+2024-12-13 11:41:22.005 [trace] IPC Object URL: Removed channel vscode:6f9e0fc6-4cde-461e-a537-e286da69230a.
+2024-12-13 11:41:22.009 [trace] Lifecycle#window.on('closed') - window ID 1
+2024-12-13 11:41:22.009 [trace] Lifecycle#onWillShutdown.fire()
+2024-12-13 11:41:22.010 [trace] Lifecycle#onWillShutdown - begin 'instanceLockfile'
+2024-12-13 11:41:22.011 [trace] storageMainService#onWillShutdown()
+2024-12-13 11:41:22.011 [trace] Lifecycle#onWillShutdown - begin 'applicationStorage'
+2024-12-13 11:41:22.011 [trace] Lifecycle#onWillShutdown - begin 'workspaceStorage'
+2024-12-13 11:41:22.012 [trace] [UtilityProcess id: 1, type: extensionHost, pid: 313771]: waiting to exit...
+2024-12-13 11:41:22.012 [trace] Lifecycle#onWillShutdown - begin 'extHostStarter'
+2024-12-13 11:41:22.012 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 313745]: attempting to kill the process...
+2024-12-13 11:41:22.012 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 313745]: successfully killed the process
+2024-12-13 11:41:22.013 [trace] Lifecycle#app.on(window-all-closed)
+2024-12-13 11:41:22.013 [trace] Lifecycle#app.on(before-quit)
+2024-12-13 11:41:22.013 [trace] Lifecycle#onBeforeShutdown.fire()
+2024-12-13 11:41:22.013 [trace] [WindowsStateHandler] onBeforeShutdown {"lastActiveWindow":{"folder":"file:///home/mpeters/projects/AOC/2024/_4_2","backupPath":"/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/Backups/1d25e33ad1c016705dcd1c6d96b2266b","uiState":{"mode":0,"x":0,"y":45,"width":2603,"height":1437}},"openedWindows":[]}
+2024-12-13 11:41:22.014 [trace] Lifecycle#app.on(will-quit) - begin
+2024-12-13 11:41:22.016 [trace] Lifecycle#onWillShutdown - end 'instanceLockfile'
+2024-12-13 11:41:22.019 [trace] [File Watcher (node.js)] Request to stop watching: /home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2024-12-13 11:41:22.019 [trace] [File Watcher (node.js)] stopping file watcher (/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2024-12-13 11:41:22.019 [trace] [File Watcher (node.js)] stopping file watcher (/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2024-12-13 11:41:22.035 [trace] StorageMainService: closed workspace storage (703bbc04faa376cf44f6023b29206615)
+2024-12-13 11:41:22.035 [trace] Lifecycle#onWillShutdown - end 'workspaceStorage'
+2024-12-13 11:41:22.036 [trace] StorageMainService: closed application storage
+2024-12-13 11:41:22.036 [trace] Lifecycle#onWillShutdown - end 'applicationStorage'
+2024-12-13 11:41:22.124 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 313745]: received exit event with code 0
+2024-12-13 11:41:22.124 [trace] [UtilityProcessWorker]: terminated normally with code 0, signal: unknown
+2024-12-13 11:41:22.125 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 313745]: crashed with code 15 and reason 'killed'
+2024-12-13 11:41:24.035 [trace] [UtilityProcess id: 1, type: extensionHost, pid: 313771]: received exit event with code 0
+2024-12-13 11:41:24.035 [info] Extension host with pid 313771 exited with code: 0, signal: unknown.
+2024-12-13 11:41:24.035 [trace] Lifecycle#onWillShutdown - end 'extHostStarter'
+2024-12-13 11:41:24.037 [trace] Lifecycle#app.on(will-quit) - after fireOnWillShutdown
+2024-12-13 11:41:24.038 [trace] Lifecycle#app.on(will-quit) - calling app.quit()
+2024-12-13 11:41:24.039 [trace] [UtilityProcess type: ptyHost, pid: 313794]: received exit event with code 0

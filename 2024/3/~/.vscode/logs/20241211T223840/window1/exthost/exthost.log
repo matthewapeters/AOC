@@ -1,0 +1,186 @@
+2024-12-11 22:38:45.396 [info] Extension host with pid 119425 started
+2024-12-11 22:38:45.396 [info] Skipping acquiring lock for /home/mpeters/projects/AOC/2024/_3/~/.vscode/User/workspaceStorage/51220ba58b942440acc4e4f0ad52b20e.
+2024-12-11 22:38:45.933 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-12-11 22:38:46.034 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-11 22:38:46.188 [info] Eager extensions activated
+2024-12-11 22:38:46.197 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 22:38:46.205 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 22:38:46.282 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 22:38:46.659 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2024-12-11 22:38:46.753 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 22:38:47.014 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 22:38:48.022 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 22:38:48.998 [error] Error: ENOENT: no such file or directory, open '/home/mpeters/projects/AOC/2024/_3/~/.vscode/User/globalStorage/vscodevim.vim/.registers'
+2024-12-11 22:38:56.513 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-12-11 22:38:56.899 [info] ExtensionService#_doActivateExtension Azurite.azurite, startup: false, activationEvent: 'onStartupFinished'
+2024-12-11 22:38:58.177 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+2024-12-11 22:39:11.118 [info] ExtensionService#_doActivateExtension r3stl355.databricks-notebook-runner, startup: false, activationEvent: 'onNotebookSerializer:db-notebook'
+2024-12-11 22:39:12.044 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.black-formatter
+2024-12-11 22:39:12.655 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2024-12-11 22:39:12.658 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-11 22:39:13.419 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-12-11 22:39:13.989 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2024-12-11 22:39:14.244 [info] ExtensionService#_doActivateExtension ms-python.black-formatter, startup: false, activationEvent: 'onLanguage:python'
+2024-12-11 22:39:14.375 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-12-11 22:39:14.537 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-12-11 22:41:06.132 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-11 22:41:06.259 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at f (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:14096)
+	at c (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:18656)
+	at ActionRunners._updateContextKeys (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:65661)
+	at s (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64105)
+	at RegisteredActionRunner.unregister (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64248)
+	at RegisteredActionRunner.dispose (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:62902)
+	at ActionRunners.dispose (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:63688)
+	at /home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1428:14975
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1428:14957)
+	at ci (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-11 22:41:06.260 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at f (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:14096)
+	at c (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:18656)
+	at ActionRunners._updateContextKeys (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:65661)
+	at s (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64105)
+	at RegisteredActionRunner.unregister (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64248)
+	at RegisteredActionRunner.dispose (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:62902)
+	at ActionRunners.dispose (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:63688)
+	at /home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1428:14975
+	at Array.forEach (<anonymous>)
+	at Object.dispose (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1428:14957)
+	at ci (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-11 22:41:06.260 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at f (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:14096)
+	at c (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1482:18656)
+	at ActionRunners._updateContextKeys (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:65661)
+	at s (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64105)
+	at RegisteredActionRunner.unregister (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64248)
+	at RegisteredActionRunner.dispose (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:62902)
+	at Object.dispose (/home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5/dist/gitlens.js:1107:64342)
+	at ci (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-11 22:41:06.260 [error] Canceled: Canceled
+	at new tT (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:108738)
+	at py.U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:113348)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:110842)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at $t.set (/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64/dist/extension.node.js:304:165833)
+	at Ab.dispose (/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64/dist/extension.node.js:342:8850)
+	at ci (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at z_.eb (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at z_.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at EC.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:174:11632)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) setContext undefined
+2024-12-11 22:41:06.261 [error] Error: ENOENT: no such file or directory, open '/home/mpeters/projects/AOC/2024/_3/~/.vscode/User/globalStorage/vscodevim.vim/.registers'
+2024-12-11 22:41:06.271 [error] Error: Channel has been closed
+	at s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:2431)
+	at Object.appendLine (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:2570)
+	at w.logTrace (/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:137022)
+	at Object.log (/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:130515)
+	at /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:87217
+	at /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:87412
+	at ie (/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:87777)
+	at /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:82561
+	at Immediate.<anonymous> (/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:82581)
+	at process.processImmediate (node:internal/timers:483:21)
+2024-12-11 22:41:06.289 [error] Error: Channel has been closed
+	at s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:2431)
+	at Object.appendLine (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:2570)
+	at _0x3abb0e.<computed>.<computed> [as appendLine] (/home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:236608)
+	at T.logOutputMessage (/home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/out/client/extension.js:2:2092948)
+	at T.info (/home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/out/client/extension.js:2:2092681)
+	at ChildProcess.<anonymous> (/home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/out/client/extension.js:2:2311024)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-12-11 22:41:08.220 [error] Error: Channel has been closed
+	at s (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:2431)
+	at Object.appendLine (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:2570)
+	at w.logOutputMessage (/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:136449)
+	at w.error (/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:136340)
+	at /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:144715
+	at async t.deactivate (/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/dist/extension.js:1:68581)
+	at async Promise.all (index 13)
+	at async z_.$ (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9888)
+2024-12-11 22:41:08.220 [info] Extension host with pid 119425 exiting with code 0

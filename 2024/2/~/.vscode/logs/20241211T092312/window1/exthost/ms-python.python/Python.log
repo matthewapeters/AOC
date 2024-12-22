@@ -1,0 +1,18 @@
+2024-12-11 09:23:19.569 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-11 09:23:19.570 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-11 09:23:19.570 [info] Experiment 'pythonTestAdapter' is active
+2024-12-11 09:23:19.570 [warning] Dir "/home/mpeters/projects/AOC/2024/_2/.pixi/envs" is not watchable (directory does not exist)
+2024-12-11 09:23:19.570 [info] Python interpreter path: /bin/python3
+2024-12-11 09:23:19.634 [info] > pyenv which python
+2024-12-11 09:23:19.634 [info] cwd: .
+2024-12-11 09:23:24.965 [info] > conda info --json
+2024-12-11 09:23:26.983 [info] Starting Pylance language server.
+2024-12-11 09:25:07.512 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-11 09:25:07.512 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-11 09:25:07.512 [info] Experiment 'pythonTestAdapter' is active
+2024-12-11 09:25:07.512 [warning] Dir "/home/mpeters/projects/AOC/2024/_2/.pixi/envs" is not watchable (directory does not exist)
+2024-12-11 09:25:07.528 [info] Python interpreter path: /bin/python3
+2024-12-11 09:25:11.129 [info] > pyenv which python
+2024-12-11 09:25:11.129 [info] cwd: .
+2024-12-11 09:25:11.588 [info] > conda info --json
+2024-12-11 09:25:13.800 [info] Starting Pylance language server.

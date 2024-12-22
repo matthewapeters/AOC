@@ -1,0 +1,20 @@
+2024-12-13 11:07:27.008 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-13 11:07:27.008 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-13 11:07:27.008 [info] Experiment 'pythonTestAdapter' is active
+2024-12-13 11:07:27.008 [info] Native locator: Refresh started
+2024-12-13 11:07:27.008 [info] Native locator: Refresh finished in 132 ms
+2024-12-13 11:07:27.008 [info] Native locator: Refresh started
+2024-12-13 11:07:27.008 [info] VS Code was launched from an activated environment: 'home', selecting it as the interpreter for workspace.
+2024-12-13 11:07:27.023 [info] Python interpreter path: ~/home/bin/python
+2024-12-13 11:07:28.362 [info] > pyenv which python
+2024-12-13 11:07:28.362 [info] cwd: .
+2024-12-13 11:07:28.518 [info] Native locator: Refresh finished in 1516 ms
+2024-12-13 11:07:29.006 [info] > . ~/home/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 11:07:29.006 [info] shell: bash
+2024-12-13 11:07:29.038 [info] > /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariables.py
+2024-12-13 11:07:29.038 [info] shell: bash
+2024-12-13 11:07:29.066 [info] Prepending environment variable PS1 in collection with (home)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-12-13 11:07:29.066 [info] Prepending environment variable PATH in collection with /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash:/home/mpeters/home/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-12-13 11:07:29.068 [info] Send text to terminal: /usr/bin/python3 /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-12-13 11:07:29.984 [info] Starting Pylance language server.
+2024-12-13 11:08:45.013 [info] Discover tests for workspace name: undefined - uri: /home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/settings.json

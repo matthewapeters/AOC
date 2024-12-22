@@ -1,0 +1,396 @@
+2024-12-11 08:15:59.659 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:15:59.794 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:15:59.831 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:15:59.831 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:15:59.832 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:15:59.832 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:15:59.842 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:15:59.845 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:15:59.852 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:15:59.941 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:15:59.947 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:15:59.951 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:15:59.952 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:15:59.952 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:15:59.953 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:15:59.976 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.069 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.083 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.097 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:00.097 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:00.098 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:00.098 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:00.106 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.108 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.114 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.175 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.177 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.188 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:00.188 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:00.189 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:00.189 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:00.192 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.714 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.743 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:00.744 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:00.744 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:00.744 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:00.749 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.752 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.755 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:00.782 [info] Deleted uninstalled extension from disk rust-lang.rust-analyzer /home/mpeters/.vscode/extensions/rust-lang.rust-analyzer-0.3.2188-linux-x64
+2024-12-11 08:16:00.824 [info] Deleted uninstalled extension from disk eamodio.gitlens /home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.3
+2024-12-11 08:16:01.100 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.112 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:01.113 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:01.113 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:01.113 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:01.118 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.119 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.129 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.386 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.403 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:01.403 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:01.404 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:01.404 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:01.410 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.412 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.419 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.761 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.799 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:01.799 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:01.799 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:01.800 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:01.803 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.806 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:01.815 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:02.186 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:02.210 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:02.211 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:02.211 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:02.211 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:02.226 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:02.229 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:02.239 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:02.697 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:02.719 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:02.720 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:02.720 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:02.721 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:02.729 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:02.734 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:02.741 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:03.477 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:03.490 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:03.493 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:03.493 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:03.494 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:03.562 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:03.576 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:03.576 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:03.703 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:03.712 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:03.713 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:03.713 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:03.714 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:03.721 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:03.723 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:03.727 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:06.523 [info] Getting Manifest... eamodio.gitlens
+2024-12-11 08:16:06.525 [info] Getting Manifest... ms-azure-devops.azure-pipelines
+2024-12-11 08:16:06.526 [info] Getting Manifest... ms-azuretools.vscode-cosmosdb
+2024-12-11 08:16:06.527 [info] Getting Manifest... ms-dotnettools.csdevkit
+2024-12-11 08:16:06.528 [info] Getting Manifest... ms-python.vscode-pylance
+2024-12-11 08:16:06.530 [info] Getting Manifest... rust-lang.rust-analyzer
+2024-12-11 08:16:06.531 [info] Getting Manifest... vscodevim.vim
+2024-12-11 08:16:06.660 [info] Installing extension: ms-azure-devops.azure-pipelines {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json","path":"/home/mpeters/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-11 08:16:06.665 [info] Installing extension: ms-azuretools.vscode-cosmosdb {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json","path":"/home/mpeters/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-11 08:16:06.668 [info] Installing extension: rust-lang.rust-analyzer {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json","path":"/home/mpeters/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-11 08:16:06.690 [info] Installing extension: eamodio.gitlens {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json","path":"/home/mpeters/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-11 08:16:06.702 [info] Installing extension: vscodevim.vim {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json","path":"/home/mpeters/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-11 08:16:06.730 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:06.740 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:06.740 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:06.740 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:06.740 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:06.745 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:06.747 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:06.750 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:06.889 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json","path":"/home/mpeters/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-11 08:16:06.890 [info] Installing extension: ms-dotnettools.csdevkit {"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json","path":"/home/mpeters/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-11 08:16:06.941 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:06.952 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:06.953 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:06.953 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:06.953 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:06.958 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:06.960 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:06.964 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.078 [info] Getting Manifest... ms-azuretools.vscode-azureresourcegroups
+2024-12-11 08:16:07.187 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.223 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.226 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:07.227 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:07.227 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:07.227 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:07.232 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.233 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.237 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.258 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:07.258 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:07.259 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:07.259 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:07.262 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.263 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.266 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.425 [info] Getting Manifest... ms-dotnettools.csharp
+2024-12-11 08:16:07.520 [info] Getting Manifest... ms-dotnettools.vscode-dotnet-runtime
+2024-12-11 08:16:07.568 [info] Getting Manifest... ms-python.python
+2024-12-11 08:16:07.646 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.663 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:07.663 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:07.664 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:07.664 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:07.673 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.675 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.679 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.916 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.930 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:07.931 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:07.931 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:07.931 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:07.944 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.945 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:07.950 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:10.281 [info] Extension signature verification result for ms-azure-devops.azure-pipelines: Success. Executed: true. Duration: 2247ms.
+2024-12-11 08:16:10.300 [info] Extension signature verification result for vscodevim.vim: Success. Executed: true. Duration: 2251ms.
+2024-12-11 08:16:10.349 [info] Extension signature verification result for ms-azuretools.vscode-cosmosdb: Success. Executed: true. Duration: 2280ms.
+2024-12-11 08:16:10.389 [info] Extension signature verification result for eamodio.gitlens: Success. Executed: true. Duration: 2324ms.
+2024-12-11 08:16:10.391 [info] Extension signature verification result for rust-lang.rust-analyzer: Success. Executed: true. Duration: 2332ms.
+2024-12-11 08:16:10.856 [info] Extracted extension to file:///home/mpeters/.vscode/extensions/ms-azure-devops.azure-pipelines-1.249.0: ms-azure-devops.azure-pipelines
+2024-12-11 08:16:10.871 [info] Renamed to /home/mpeters/.vscode/extensions/ms-azure-devops.azure-pipelines-1.249.0
+2024-12-11 08:16:10.945 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:10.950 [info] Marked extension as uninstalled ms-azure-devops.azure-pipelines-1.247.2
+2024-12-11 08:16:10.956 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:10.956 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:10.956 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:10.956 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:10.963 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:10.967 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:10.972 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:10.987 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-12-11 08:16:10.993 [info] Extension installed successfully: ms-azure-devops.azure-pipelines vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json
+2024-12-11 08:16:11.064 [info] Extracted extension to file:///home/mpeters/.vscode/extensions/vscodevim.vim-1.29.0: vscodevim.vim
+2024-12-11 08:16:11.085 [info] Renamed to /home/mpeters/.vscode/extensions/vscodevim.vim-1.29.0
+2024-12-11 08:16:11.215 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:11.219 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-12-11 08:16:11.232 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:11.233 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:11.233 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:11.233 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:11.240 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:11.242 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:11.247 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:11.252 [info] Marked extension as uninstalled vscodevim.vim-1.28.1
+2024-12-11 08:16:11.269 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json
+2024-12-11 08:16:12.109 [info] Extracted extension to file:///home/mpeters/.vscode/extensions/ms-azuretools.vscode-cosmosdb-0.24.1: ms-azuretools.vscode-cosmosdb
+2024-12-11 08:16:12.121 [info] Renamed to /home/mpeters/.vscode/extensions/ms-azuretools.vscode-cosmosdb-0.24.1
+2024-12-11 08:16:12.208 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:12.219 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:12.219 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:12.220 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:12.220 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:12.225 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:12.226 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:12.232 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:12.236 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-12-11 08:16:12.239 [info] Marked extension as uninstalled ms-azuretools.vscode-cosmosdb-0.24.0
+2024-12-11 08:16:12.249 [info] Extension installed successfully: ms-azuretools.vscode-cosmosdb vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json
+2024-12-11 08:16:13.609 [info] Extracted extension to file:///home/mpeters/.vscode/extensions/rust-lang.rust-analyzer-0.3.2212-linux-x64: rust-lang.rust-analyzer
+2024-12-11 08:16:13.621 [info] Renamed to /home/mpeters/.vscode/extensions/rust-lang.rust-analyzer-0.3.2212-linux-x64
+2024-12-11 08:16:13.699 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:13.703 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.2196-linux-x64
+2024-12-11 08:16:13.708 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:13.708 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:13.708 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:13.709 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:13.718 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:13.720 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:13.725 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:13.732 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-12-11 08:16:13.739 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json
+2024-12-11 08:16:13.946 [info] Extracted extension to file:///home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5: eamodio.gitlens
+2024-12-11 08:16:13.972 [info] Renamed to /home/mpeters/.vscode/extensions/eamodio.gitlens-16.0.5
+2024-12-11 08:16:14.059 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:14.061 [info] Marked extension as uninstalled eamodio.gitlens-16.0.4
+2024-12-11 08:16:14.067 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:14.067 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:14.067 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:14.067 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:14.072 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:14.073 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:14.077 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:14.081 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-12-11 08:16:14.099 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json
+2024-12-11 08:16:15.427 [info] Extension signature verification result for ms-dotnettools.csdevkit: Success. Executed: true. Duration: 1560ms.
+2024-12-11 08:16:17.091 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 1381ms.
+2024-12-11 08:16:23.720 [info] Extracted extension to file:///home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64: ms-dotnettools.csdevkit
+2024-12-11 08:16:23.731 [info] Renamed to /home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64
+2024-12-11 08:16:23.812 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:23.821 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:23.822 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:23.822 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:23.822 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:23.830 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:23.832 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:23.837 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:23.849 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-12-11 08:16:23.852 [info] Marked extension as uninstalled ms-dotnettools.csdevkit-1.13.9-linux-x64
+2024-12-11 08:16:23.856 [info] Extension installed successfully: ms-dotnettools.csdevkit vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json
+2024-12-11 08:16:37.203 [info] Extracted extension to file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2024-12-11 08:16:37.220 [info] Renamed to /home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1
+2024-12-11 08:16:37.294 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:37.304 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:37.305 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:37.305 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:37.305 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:37.313 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:37.314 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:37.317 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:37.323 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.11.3
+2024-12-11 08:16:37.327 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-12-11 08:16:37.333 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json
+2024-12-11 08:16:37.340 [info] Getting Manifest... github.vscode-pull-request-github
+2024-12-11 08:16:37.342 [info] Getting Manifest... ms-toolsai.jupyter
+2024-12-11 08:16:37.343 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2024-12-11 08:16:37.379 [info] Installing extension: ms-toolsai.jupyter-renderers {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:51:32.275Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json","path":"/home/mpeters/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-11 08:16:37.384 [info] Installing extension: ms-toolsai.jupyter {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:51:32.275Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json","path":"/home/mpeters/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-11 08:16:37.404 [info] Installing extension: github.vscode-pull-request-github {"productVersion":{"version":"1.95.3","date":"2024-11-13T14:51:32.275Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json","path":"/home/mpeters/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-11 08:16:37.451 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:37.452 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:37.452 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:37.452 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:37.632 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:37.633 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:37.633 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:37.633 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:37.794 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:37.795 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:37.795 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:37.795 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:37.967 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:37.989 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mpeters/.vscode/extensions/extensions.json.vsctmp'
+    at lm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39253)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39360)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22661)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:15994)
+    at async eh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84484)
+    at async Kl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66600)
+2024-12-11 08:16:38.008 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.030 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:38.030 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:38.031 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:38.031 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:38.039 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.041 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.045 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.063 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.067 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:38.068 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:38.068 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:38.068 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:38.073 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.075 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.080 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.098 [error] Error while installing the extension ms-toolsai.jupyter-renderers Cannot read the extension from /home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21 vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json
+2024-12-11 08:16:38.100 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:16:38.101 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:16:38.101 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:16:38.101 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:16:38.105 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.106 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.108 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:16:38.116 [error] Error while installing the extension ms-toolsai.jupyter Cannot read the extension from /home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64 vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json
+2024-12-11 08:16:38.118 [error] Error while installing the extension github.vscode-pull-request-github Cannot read the extension from /home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3 vscode-userdata:/home/mpeters/.vscode/extensions/extensions.json
+2024-12-11 08:21:19.246 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:21:19.258 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:21:19.258 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:21:19.258 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:21:19.259 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:21:19.267 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:21:19.269 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:21:19.274 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:26:36.131 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:26:36.143 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:26:36.143 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:26:36.144 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:26:36.144 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:26:36.153 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:26:36.155 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:26:36.160 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:31:51.488 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:31:51.501 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:31:51.502 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:31:51.502 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:31:51.502 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:31:51.513 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:31:51.515 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:31:51.518 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:37:07.454 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:37:07.462 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:37:07.462 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:37:07.462 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:37:07.462 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:37:07.470 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:37:07.472 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:37:07.475 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:42:24.415 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:42:24.425 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 08:42:24.426 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 08:42:24.426 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 08:42:24.426 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 08:42:24.431 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:42:24.433 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 08:42:24.435 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.

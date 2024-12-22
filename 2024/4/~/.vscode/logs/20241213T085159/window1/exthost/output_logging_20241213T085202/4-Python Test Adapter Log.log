@@ -1,0 +1,16 @@
+2024-12-13T16:52:04.885Z INFO unittest at '_4': Reading configuration for workspace _4
+2024-12-13T16:52:04.892Z  DBG unittest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:52:04.894Z INFO pytest at '_4': Reading configuration for workspace _4
+2024-12-13T16:52:04.895Z  DBG pytest at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:52:04.897Z INFO testplan at '_4': Reading configuration for workspace _4
+2024-12-13T16:52:04.898Z  DBG testplan at '_4': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T16:52:09.835Z INFO unittest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:52:09.835Z INFO pytest at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:52:09.835Z INFO testplan at '_4': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T16:52:09.838Z INFO unittest at '_4': Unittest test discovery is disabled
+2024-12-13T16:52:09.839Z INFO testplan at '_4': TestPlan test discovery is disabled
+2024-12-13T16:52:09.841Z INFO pytest at '_4': Environment variables file /home/mpeters/projects/AOC/2024/_4/.env does not exist
+2024-12-13T16:52:09.842Z INFO pytest at '_4': Discovering tests using python path '/home/mpeters/home/bin/python' in /home/mpeters/projects/AOC/2024/_4
+2024-12-13T16:52:09.844Z INFO pytest at '_4': Running pytest with arguments: --collect-only
+2024-12-13T16:52:09.844Z INFO pytest at '_4': Running pytest as a Python module
+2024-12-13T16:52:10.029Z WARN pytest at '_4': No tests discovered

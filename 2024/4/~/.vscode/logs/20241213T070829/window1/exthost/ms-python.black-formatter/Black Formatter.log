@@ -1,0 +1,666 @@
+2024-12-13 07:08:34.083 [info] Name: Black Formatter
+2024-12-13 07:08:34.083 [info] Module: black
+2024-12-13 07:08:34.083 [info] Default formatter is set to ms-python.black-formatter for workspace /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:08:34.083 [info] Python extension loading
+2024-12-13 07:08:34.083 [info] Waiting for interpreter from python extension.
+2024-12-13 07:08:34.436 [info] No interpreter found from setting black-formatter.interpreter
+2024-12-13 07:08:34.436 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:08:34.437 [info] Python extension loaded
+2024-12-13 07:08:34.445 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_4: /home/mpeters/home/bin/python
+2024-12-13 07:08:34.445 [info] Workspace settings for /home/mpeters/projects/AOC/2024/_4 (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "file:///home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/mpeters/home/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-13 07:08:34.447 [info] No interpreter found from setting black-formatter.interpreter
+2024-12-13 07:08:34.447 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:08:34.495 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_4: /home/mpeters/home/bin/python
+2024-12-13 07:08:34.495 [info] Workspace settings for /home/mpeters/projects/AOC/2024/_4 (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "file:///home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/mpeters/home/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-13 07:08:34.503 [info] Global settings (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "/home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-13 07:08:34.530 [info] Server run command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py
+2024-12-13 07:08:34.532 [info] Server: Start requested.
+2024-12-13 07:08:35.309 [info] CWD Server: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:08:35.309 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/mpeters/projects/AOC/2024/_4",
+        "workspace": "file:///home/mpeters/projects/AOC/2024/_4",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/mpeters/home/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2024-12-13 07:08:35.310 [info] Global settings received on server:
+{
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "/home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2024-12-13 07:08:35.310 [info] sys.path used to run Server:
+   /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/libs
+   /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool
+   /usr/lib/python312.zip
+   /usr/lib/python3.12
+   /usr/lib/python3.12/lib-dynload
+   /home/mpeters/home/lib/python3.12/site-packages
+2024-12-13 07:08:35.310 [info] /home/mpeters/home/bin/python -m black --version
+2024-12-13 07:08:35.311 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:08:35.482 [info] Version info for formatter running for /home/mpeters/projects/AOC/2024/_4:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.12.7
+
+2024-12-13 07:08:35.482 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2024-12-13 07:08:41.086 [info] [Trace - 7:08:41 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:42.513 [info] [Trace - 7:08:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:42.740 [info] [Trace - 7:08:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:42.944 [info] [Trace - 7:08:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:42.950 [info] [Trace - 7:08:42 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:43.402 [info] [Trace - 7:08:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:43.858 [info] [Trace - 7:08:43 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:45.380 [info] [Trace - 7:08:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:45.775 [info] [Trace - 7:08:45 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:46.101 [info] [Trace - 7:08:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:46.995 [info] [Trace - 7:08:46 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:47.278 [info] [Trace - 7:08:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:47.412 [info] [Trace - 7:08:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:47.537 [info] [Trace - 7:08:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:47.910 [info] [Trace - 7:08:47 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:48.447 [info] [Trace - 7:08:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:48.968 [info] [Trace - 7:08:48 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:49.083 [info] [Trace - 7:08:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:49.263 [info] [Trace - 7:08:49 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:50.173 [info] [Trace - 7:08:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:50.341 [info] [Trace - 7:08:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:50.533 [info] [Trace - 7:08:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:50.816 [info] [Trace - 7:08:50 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:51.021 [info] [Trace - 7:08:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:51.156 [info] [Trace - 7:08:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:51.313 [info] [Trace - 7:08:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:08:51.515 [info] [Trace - 7:08:51 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:09:07.361 [info] [Trace - 7:09:07 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:09:09.947 [info] [Trace - 7:09:09 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:09:11.213 [info] [Trace - 7:09:11 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:09:20.321 [info] [Trace - 7:09:20 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:09:21.634 [info] [Trace - 7:09:21 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:09:30.986 [info] [Trace - 7:09:30 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:09:31.753 [info] [Trace - 7:09:31 AM] Sending notification 'textDocument/didChange'.
+2024-12-13 07:14:51.414 [info] No interpreter found from setting black-formatter.interpreter
+2024-12-13 07:14:51.414 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:14:51.418 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_4: /home/mpeters/home/bin/python
+2024-12-13 07:14:51.418 [info] Workspace settings for /home/mpeters/projects/AOC/2024/_4 (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "file:///home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/mpeters/home/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-13 07:14:51.421 [info] Server: Stop requested
+2024-12-13 07:14:51.444 [info] No interpreter found from setting black-formatter.interpreter
+2024-12-13 07:14:51.444 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:14:51.446 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_4: /home/mpeters/home/bin/python
+2024-12-13 07:14:51.446 [info] Workspace settings for /home/mpeters/projects/AOC/2024/_4 (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "file:///home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/home/mpeters/home/bin/python"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-13 07:14:51.447 [info] Global settings (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "/home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-13 07:14:51.456 [info] Server run command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py
+2024-12-13 07:14:51.457 [info] Server: Start requested.
+2024-12-13 07:14:51.582 [info] [Error - 7:14:51 AM] Server process exited with code 0.
+2024-12-13 07:14:52.301 [info] CWD Server: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:14:52.301 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/mpeters/projects/AOC/2024/_4",
+        "workspace": "file:///home/mpeters/projects/AOC/2024/_4",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/home/mpeters/home/bin/python"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2024-12-13 07:14:52.301 [info] Global settings received on server:
+{
+    "cwd": "/home/mpeters/projects/AOC/2024/_4",
+    "workspace": "/home/mpeters/projects/AOC/2024/_4",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2024-12-13 07:14:52.301 [info] sys.path used to run Server:
+   /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/libs
+   /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool
+   /usr/lib/python312.zip
+   /usr/lib/python3.12
+   /usr/lib/python3.12/lib-dynload
+   /home/mpeters/home/lib/python3.12/site-packages
+2024-12-13 07:14:52.303 [info] /home/mpeters/home/bin/python -m black --version
+2024-12-13 07:14:52.303 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:14:52.432 [info] Version info for formatter running for /home/mpeters/projects/AOC/2024/_4:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.12.7
+
+2024-12-13 07:14:52.432 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2024-12-13 07:17:56.944 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:17:56.944 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:17:56.968 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:18:54.683 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:18:54.683 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:18:54.707 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:19:01.155 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:19:01.155 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:19:01.165 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:19:49.459 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:19:49.459 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:19:49.469 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:20:05.699 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:20:05.700 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:20:05.710 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:21:11.885 [info] [Error - 7:21:11 AM] Syntax error in code: Traceback (most recent call last):
+  File "/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py", line 163, in is_python
+    ast.parse(code, file_path)
+  File "/usr/lib/python3.12/ast.py", line 52, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mpeters/projects/AOC/2024/_4/main.py", line 34
+    len_y = len(data)
+IndentationError: expected an indented block after function definition on line 31
+
+2024-12-13 07:21:11.885 [info] [Warn  - 7:21:11 AM] Skipping non python code or code with syntax errors: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 07:21:50.416 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:21:50.416 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:21:50.449 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:22:22.243 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:22:22.243 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:22:22.246 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:22:31.877 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:22:31.877 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:22:31.909 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:24:21.467 [info] [Error - 7:24:21 AM] Syntax error in code: Traceback (most recent call last):
+  File "/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py", line 163, in is_python
+    ast.parse(code, file_path)
+  File "/usr/lib/python3.12/ast.py", line 52, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mpeters/projects/AOC/2024/_4/main.py", line 47
+    limits = {"min": (0,0), "max": (len_x,len_y}}
+                                               ^
+SyntaxError: closing parenthesis '}' does not match opening parenthesis '('
+
+2024-12-13 07:24:21.467 [info] [Warn  - 7:24:21 AM] Skipping non python code or code with syntax errors: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 07:24:29.903 [info] [Error - 7:24:29 AM] Syntax error in code: Traceback (most recent call last):
+  File "/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py", line 163, in is_python
+    ast.parse(code, file_path)
+  File "/usr/lib/python3.12/ast.py", line 52, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mpeters/projects/AOC/2024/_4/main.py", line 32
+    def exceeds(proposed)
+                         ^
+SyntaxError: expected ':'
+
+2024-12-13 07:24:29.903 [info] [Warn  - 7:24:29 AM] Skipping non python code or code with syntax errors: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 07:27:44.320 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:27:44.320 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:27:44.361 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:27:55.287 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:27:55.288 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:27:55.306 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:29:49.887 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:29:49.887 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:29:49.930 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:30:21.794 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:30:21.794 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:30:21.835 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:31:30.265 [info] [Error - 7:31:30 AM] Syntax error in code: Traceback (most recent call last):
+  File "/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py", line 163, in is_python
+    ast.parse(code, file_path)
+  File "/usr/lib/python3.12/ast.py", line 52, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mpeters/projects/AOC/2024/_4/main.py", line 57
+    
+    ^
+IndentationError: expected an indented block after 'for' statement on line 56
+
+2024-12-13 07:31:30.266 [info] [Warn  - 7:31:30 AM] Skipping non python code or code with syntax errors: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 07:37:44.122 [info] [Error - 7:37:44 AM] Syntax error in code: Traceback (most recent call last):
+  File "/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py", line 163, in is_python
+    ast.parse(code, file_path)
+  File "/usr/lib/python3.12/ast.py", line 52, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mpeters/projects/AOC/2024/_4/main.py", line 60
+    
+    ^
+IndentationError: expected an indented block after 'for' statement on line 59
+
+2024-12-13 07:37:44.123 [info] [Warn  - 7:37:44 AM] Skipping non python code or code with syntax errors: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 07:39:16.732 [info] [Error - 7:39:16 AM] Syntax error in code: Traceback (most recent call last):
+  File "/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py", line 163, in is_python
+    ast.parse(code, file_path)
+  File "/usr/lib/python3.12/ast.py", line 52, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mpeters/projects/AOC/2024/_4/main.py", line 60
+    
+    ^
+IndentationError: expected an indented block after 'for' statement on line 59
+
+2024-12-13 07:39:16.732 [info] [Warn  - 7:39:16 AM] Skipping non python code or code with syntax errors: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 07:39:45.212 [info] [Error - 7:39:45 AM] Syntax error in code: Traceback (most recent call last):
+  File "/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py", line 163, in is_python
+    ast.parse(code, file_path)
+  File "/usr/lib/python3.12/ast.py", line 52, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mpeters/projects/AOC/2024/_4/main.py", line 59
+    for x in range(len_x):
+IndentationError: expected an indented block after 'for' statement on line 58
+
+2024-12-13 07:39:45.212 [info] [Warn  - 7:39:45 AM] Skipping non python code or code with syntax errors: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 07:40:22.486 [info] [Error - 7:40:22 AM] Syntax error in code: Traceback (most recent call last):
+  File "/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py", line 163, in is_python
+    ast.parse(code, file_path)
+  File "/usr/lib/python3.12/ast.py", line 52, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mpeters/projects/AOC/2024/_4/main.py", line 63
+    
+    ^
+IndentationError: expected an indented block after 'for' statement on line 62
+
+2024-12-13 07:40:22.486 [info] [Warn  - 7:40:22 AM] Skipping non python code or code with syntax errors: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 07:40:34.872 [info] [Error - 7:40:34 AM] Syntax error in code: Traceback (most recent call last):
+  File "/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py", line 163, in is_python
+    ast.parse(code, file_path)
+  File "/usr/lib/python3.12/ast.py", line 52, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mpeters/projects/AOC/2024/_4/main.py", line 63
+    
+    ^
+IndentationError: expected an indented block after 'for' statement on line 62
+
+2024-12-13 07:40:34.873 [info] [Warn  - 7:40:34 AM] Skipping non python code or code with syntax errors: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 07:41:35.701 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:41:35.701 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:41:35.761 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:42:14.444 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:42:14.444 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:42:14.500 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:43:02.622 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:43:02.622 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:43:02.647 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:44:41.531 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:44:41.532 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:44:41.596 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:45:05.366 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:45:05.366 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:45:05.386 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:45:17.275 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:45:17.275 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:45:17.396 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:46:19.197 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:46:19.198 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:46:19.263 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:46:36.003 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:46:36.003 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:46:36.024 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:46:59.142 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:46:59.142 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:46:59.164 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:47:55.661 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:47:55.662 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:47:55.732 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:48:40.909 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:48:40.910 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:48:40.931 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:54:05.735 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:54:05.735 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:54:05.800 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:54:53.433 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:54:53.433 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:54:53.514 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:55:15.903 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:55:15.903 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:55:15.978 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:56:04.532 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:56:04.532 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:56:04.556 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:56:16.945 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:56:16.946 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:56:16.971 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:57:18.383 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:57:18.383 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:57:18.493 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 07:58:35.370 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:58:35.370 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:58:35.393 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 07:58:55.174 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 07:58:55.175 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 07:58:55.199 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:04:38.665 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:04:38.665 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:04:38.691 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:06:03.258 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:06:03.259 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:06:03.284 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:06:38.898 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:06:38.898 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:06:38.993 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:09:05.077 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:09:05.078 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:09:05.153 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:10:50.224 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:10:50.224 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:10:50.289 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:11:05.075 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:11:05.075 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:11:05.101 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:14:30.708 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:14:30.708 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:14:30.799 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:15:04.428 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:15:04.428 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:15:04.572 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:16:40.776 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:16:40.776 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:16:40.849 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:17:03.893 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:17:03.893 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:17:03.985 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:18:51.630 [info] [Error - 8:18:51 AM] Syntax error in code: Traceback (most recent call last):
+  File "/home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py", line 163, in is_python
+    ast.parse(code, file_path)
+  File "/usr/lib/python3.12/ast.py", line 52, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/mpeters/projects/AOC/2024/_4/main.py", line 81
+    found = {
+             ^
+SyntaxError: invalid syntax
+
+2024-12-13 08:18:51.630 [info] [Warn  - 8:18:51 AM] Skipping non python code or code with syntax errors: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 08:20:50.922 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:20:50.922 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:20:51.016 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:21:48.558 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:21:48.558 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:21:48.611 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:22:49.384 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:22:49.384 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:22:49.523 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:22:59.545 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:22:59.546 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:22:59.578 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:24:22.821 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:24:22.821 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:24:22.987 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:24:25.929 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:24:25.930 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:24:25.977 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:26:42.959 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:26:42.959 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:26:43.080 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:27:55.652 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:27:55.652 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:27:55.697 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:30:46.086 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:30:46.086 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:30:46.120 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:31:35.038 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:31:35.038 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:31:35.145 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:32:37.772 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:32:37.772 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:32:37.951 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:35:26.461 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:35:26.461 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:35:26.494 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:39:33.768 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:39:33.768 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:39:33.803 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+
+2024-12-13 08:45:21.905 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:45:21.905 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:45:22.032 [info] reformatted /home/mpeters/projects/AOC/2024/_4/main.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted.
+
+2024-12-13 08:51:29.958 [info] /home/mpeters/home/bin/python -m black --stdin-filename /home/mpeters/projects/AOC/2024/_4/main.py -
+2024-12-13 08:51:29.958 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:51:29.995 [info] All done! ✨ 🍰 ✨
+1 file left unchanged.
+

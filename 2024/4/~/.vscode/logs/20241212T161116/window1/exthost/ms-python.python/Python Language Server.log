@@ -1,0 +1,19 @@
+2024-12-12 16:11:21.087 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.0)
+2024-12-12 16:11:21.594 [info] [Info  - 4:11:21 PM] (66031) Server root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-12 16:11:21.594 [info] [Info  - 4:11:21 PM] (66031) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-12 16:11:21.600 [info] [Info  - 4:11:21 PM] (66031) Starting service instance "_4"
+2024-12-12 16:11:21.672 [info] [Info  - 4:11:21 PM] (66031) Setting environmentName for service "_4": "3.12.7 (global)"
+2024-12-12 16:11:21.672 [info] [Info  - 4:11:21 PM] (66031) Setting pythonPath for service "_4": "/usr/bin/python3"
+2024-12-12 16:11:21.672 [info] [Info  - 4:11:21 PM] (66031) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:11:21.673 [info] [Info  - 4:11:21 PM] (66031) Auto-excluding **/node_modules
+2024-12-12 16:11:21.673 [info] [Info  - 4:11:21 PM] (66031) Auto-excluding **/__pycache__
+2024-12-12 16:11:21.673 [info] [Info  - 4:11:21 PM] (66031) Auto-excluding **/.*
+2024-12-12 16:11:21.697 [info] [Info  - 4:11:21 PM] (66031) Assuming Python version 3.12.7.final.0
+2024-12-12 16:11:21.755 [info] [Info  - 4:11:21 PM] (66031) Found 1 source file
+2024-12-12 16:11:22.384 [info] [Info  - 4:11:22 PM] (66031) Background analysis(1) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-12 16:11:22.387 [info] [Info  - 4:11:22 PM] (66031) Background analysis(1) started
+2024-12-12 16:11:22.477 [info] [Info  - 4:11:22 PM] (66031) Indexer background runner(2) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-12 16:11:22.478 [info] [Info  - 4:11:22 PM] (66031) Indexing(2) started
+2024-12-12 16:11:23.013 [info] [Info  - 4:11:23 PM] (66031) scanned(2) 118 files over 1 exec env
+2024-12-12 16:11:23.236 [info] [Info  - 4:11:23 PM] (66031) indexed(2) 118 files over 1 exec env
+2024-12-12 16:11:23.267 [info] [Info  - 4:11:23 PM] (66031) Indexing finished(2).

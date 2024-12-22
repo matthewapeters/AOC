@@ -1,0 +1,18 @@
+2024-12-11 09:31:47.047 [info] Started local extension host with pid 17477.
+2024-12-11 09:31:47.927 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 09:31:47.928 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 09:31:47.928 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 09:31:47.929 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 09:31:49.006 [info] Settings Sync: Updating due to initialize
+2024-12-11 09:31:49.006 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 09:31:49.006 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 09:31:49.451 [warning] No search provider registered for scheme: file, waiting
+2024-12-11 09:31:54.246 [info] [perf] Render performance baseline is 99ms
+2024-12-11 09:31:55.218 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-11 09:31:55.218 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-11 11:39:12.198 [error] Cannot read the extension from /home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.102.0: ScanningExtension: Cannot read the extension from /home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.102.0
+    at Kl.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73160)
+    at async Xl.h (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:78102)
+2024-12-11 11:39:13.490 [error] Cannot read the extension from /home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64: ScanningExtension: Cannot read the extension from /home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.11.0-linux-x64
+    at Kl.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73160)
+    at async Xl.h (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:78102)

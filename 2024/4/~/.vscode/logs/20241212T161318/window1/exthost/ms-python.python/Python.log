@@ -1,0 +1,65 @@
+2024-12-12 16:13:23.541 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-12 16:13:23.541 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-12 16:13:23.541 [info] Experiment 'pythonTestAdapter' is active
+2024-12-12 16:13:23.541 [info] Native locator: Refresh started
+2024-12-12 16:13:23.541 [info] Native locator: Refresh started
+2024-12-12 16:13:23.541 [info] > pyenv which python
+2024-12-12 16:13:23.541 [info] cwd: .
+2024-12-12 16:13:23.911 [info] Native locator: Refresh finished in 1640 ms
+2024-12-12 16:13:23.914 [info] Python interpreter path: /usr/bin/python3
+2024-12-12 16:13:25.618 [info] Starting Pylance language server.
+2024-12-12 16:13:31.254 [info] Send text to terminal: python
+2024-12-12 16:13:33.255 [info] Send text to terminal: 
+from importlib import reload
+import os, sys
+import subprocess
+from databricks.sdk import WorkspaceClient
+from databricks.sdk.service.compute import Language
+
+sys.path.append("/tmp/db-notebook")
+
+os.makedirs("/tmp/db-notebook", exist_ok=True)
+
+class my_logger:
+  def __init__(self, log_file):
+    self.log_file = log_file
+    if os.path.exists(log_file):
+      os.remove(log_file)
+  def write(self, msg):
+    with open(self.log_file, "a") as f:
+      f.write(msg)
+  def clear_done(self, done_file):
+    if os.path.exists(done_file):
+      os.remove(done_file)
+  def flag_done(self, done_file):
+    with open(done_file, "w") as f:
+      f.write("DONE")
+  def flush(self):
+    pass
+
+logger = my_logger("/tmp/db-notebook/cell-command8fc2283c5f872267605c61acb21ea0b9.out")
+
+spark = None
+
+try:
+  from databricks.connect import DatabricksSession
+  spark = DatabricksSession.builder.getOrCreate()
+except e:
+  print(f"Unable to create a remote Spark Session: {e}")
+
+sys.stdout = logger
+sys.stderr = logger
+
+w = WorkspaceClient()
+lang = Language.PYTHON
+
+2024-12-12 16:13:59.404 [info] > python3 -c "import sys;print(sys.executable)"
+2024-12-12 16:13:59.436 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:13:59.663 [info] Discover tests for workspace name: undefined - uri: /home/mpeters/projects/AOC/2024/_4/~/.vscode/User/settings.json
+2024-12-12 16:14:21.187 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4
+2024-12-12 16:14:21.404 [info] Discover tests for workspace name: undefined - uri: /home/mpeters/projects/AOC/2024/_4/~/.vscode/User/settings.json
+2024-12-12 16:14:21.783 [info] Discover tests for workspace name: undefined - uri: /home/mpeters/projects/AOC/2024/_4/~/.vscode/User/settings.json
+2024-12-12 16:14:55.631 [info] Discover tests for workspace name: undefined - uri: /home/mpeters/projects/AOC/2024/_4/~/.vscode/User/settings.json
+2024-12-12 16:14:55.970 [info] Discover tests for workspace name: undefined - uri: /home/mpeters/projects/AOC/2024/_4/~/.vscode/User/settings.json
+2024-12-12 16:15:00.311 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/.vscode/settings.json
+2024-12-12 16:15:04.563 [info] Discover tests for workspace name: undefined - uri: /home/mpeters/projects/AOC/2024/_4/~/.vscode/User/settings.json

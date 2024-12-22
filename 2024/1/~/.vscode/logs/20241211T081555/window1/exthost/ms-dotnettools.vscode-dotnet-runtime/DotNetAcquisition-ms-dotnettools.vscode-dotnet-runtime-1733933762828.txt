@@ -1,0 +1,1762 @@
+12/11/2024, 8:16:02 AM DotnetWSLCheckEvent
+true
+Checking if system is WSL. OS: linux
+
+12/11/2024, 8:16:02 AM DotnetWSLOperationOutputEvent
+The output of the WSL check:
+stdout: Linux version 5.15.167.4-microsoft-standard-WSL2 (root@f9c826d3017f) (gcc (GCC) 11.2.0, GNU ld (GNU Binutils) 2.37) #1 SMP Tue Nov 5 00:21:55 UTC 2024
+
+stderr: 
+status: 0
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.bat for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.clojure for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.coffeescript for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.configuration-editing for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.cpp for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css-language-features for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dart for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-auto-launch for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-server-ready for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.diff for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.docker for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.emmet for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.extension-editing for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.fsharp for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git-base for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github-authentication for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.go for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.groovy for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.grunt for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.gulp for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.handlebars for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.hlsl for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html-language-features for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ini for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ipynb for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.jake for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.java for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.javascript for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json-language-features for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.julia for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.latex for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.less for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.log for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.lua for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.make for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-language-features for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-math for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.media-preview for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.merge-conflict for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.microsoft-authentication for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-companion for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-js-profile-table for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.builtin-notebook-renderers for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.npm for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.objective-c for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.perl for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php-language-features for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.powershell for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.pug for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.python for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.r for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.razor for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.references-view for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.restructuredtext for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ruby for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.rust for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.scss for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.search-result for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.shaderlab for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.shellscript for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.simple-browser for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.sql for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.swift for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-abyss for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-defaults for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-kimbie-dark for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-monokai for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-monokai-dimmed for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-quietlight for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-red for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vscode-theme-seti for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-solarized-dark for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-solarized-light for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-tomorrow-night-blue for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.tunnel-forwarding for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript-language-features for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vb for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.xml for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.yaml for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension eamodio.gitlens for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension GitHub.vscode-pull-request-github for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension golang.go for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azure-devops.azure-pipelines for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-docker for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.python for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-pylance for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.jupyter for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.jupyter-keymap for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-node-azure-pack for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension redhat.vscode-yaml for .NET installation requests
+
+12/11/2024, 8:16:02 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscodevim.vim for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.bat for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.clojure for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.coffeescript for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.configuration-editing for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.cpp for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css-language-features for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dart for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-auto-launch for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-server-ready for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.diff for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.docker for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.emmet for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.extension-editing for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.fsharp for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git-base for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github-authentication for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.go for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.groovy for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.grunt for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.gulp for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.handlebars for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.hlsl for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html-language-features for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ini for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ipynb for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.jake for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.java for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.javascript for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json-language-features for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.julia for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.latex for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.less for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.log for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.lua for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.make for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-language-features for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-math for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.media-preview for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.merge-conflict for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.microsoft-authentication for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-companion for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-js-profile-table for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.builtin-notebook-renderers for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.npm for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.objective-c for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.perl for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php-language-features for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.powershell for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.pug for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.python for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.r for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.razor for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.references-view for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.restructuredtext for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ruby for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.rust for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.scss for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.search-result for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.shaderlab for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.shellscript for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.simple-browser for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.sql for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.swift for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-abyss for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-defaults for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-kimbie-dark for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-monokai for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-monokai-dimmed for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-quietlight for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-red for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vscode-theme-seti for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-solarized-dark for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-solarized-light for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-tomorrow-night-blue for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.tunnel-forwarding for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript-language-features for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vb for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.xml for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.yaml for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension eamodio.gitlens for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension GitHub.vscode-pull-request-github for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension golang.go for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-docker for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.python for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-pylance for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.jupyter for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.jupyter-keymap for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-node-azure-pack for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension redhat.vscode-yaml for .NET installation requests
+
+12/11/2024, 8:16:11 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscodevim.vim for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.bat for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.clojure for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.coffeescript for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.configuration-editing for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.cpp for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css-language-features for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dart for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-auto-launch for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-server-ready for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.diff for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.docker for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.emmet for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.extension-editing for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.fsharp for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git-base for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github-authentication for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.go for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.groovy for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.grunt for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.gulp for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.handlebars for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.hlsl for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html-language-features for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ini for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ipynb for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.jake for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.java for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.javascript for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json-language-features for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.julia for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.latex for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.less for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.log for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.lua for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.make for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-language-features for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-math for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.media-preview for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.merge-conflict for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.microsoft-authentication for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-companion for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-js-profile-table for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.builtin-notebook-renderers for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.npm for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.objective-c for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.perl for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php-language-features for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.powershell for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.pug for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.python for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.r for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.razor for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.references-view for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.restructuredtext for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ruby for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.rust for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.scss for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.search-result for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.shaderlab for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.shellscript for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.simple-browser for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.sql for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.swift for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-abyss for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-defaults for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-kimbie-dark for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-monokai for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-monokai-dimmed for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-quietlight for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-red for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vscode-theme-seti for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-solarized-dark for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-solarized-light for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-tomorrow-night-blue for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.tunnel-forwarding for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript-language-features for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vb for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.xml for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscode.yaml for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension Azurite.azurite for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension bierner.markdown-preview-github-styles for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension databricks.databricks for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension eamodio.gitlens for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension formulahendry.azure-storage-explorer for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension GitHub.vscode-pull-request-github for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension golang.go for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension mhutchie.git-graph for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azure-devops.azure-pipelines for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.azure-dev for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-azureappservice for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-azurecontainerapps for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-azurefunctions for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-azureresourcegroups for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-azurestaticwebapps for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-azurestorage for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-azurevirtualmachines for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-cosmosdb for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-azuretools.vscode-docker for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscodeintellicode-csharp for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-kubernetes-tools.vscode-kubernetes-tools for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.black-formatter for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.debugpy for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.python for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-pylance for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.jupyter for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.jupyter-keymap for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.jupyter-renderers for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.vscode-jupyter-cell-tags for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-toolsai.vscode-jupyter-slideshow for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.azure-account for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.azurecli for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.powershell for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-node-azure-pack for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension r3stl355.databricks-notebook-runner for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension redhat.vscode-yaml for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension rust-lang.rust-analyzer for .NET installation requests
+
+12/11/2024, 8:16:52 AM DotnetVSCodeExtensionFound
+true
+Checking extension vscodevim.vim for .NET installation requests
+
+12/11/2024, 8:17:00 AM DotnetAcquisitionStatusRequested
+8.0
+15eb59019e4eb18477aa8e5406bbf28c22b09cc1ff36d936a31726743566167b
+
+12/11/2024, 8:17:00 AM WebRequestSent
+https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/releases-index.json
+
+12/11/2024, 8:17:00 AM DotnetVersionResolutionCompleted
+8.0
+8.0.11
+
+12/11/2024, 8:17:00 AM DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-12-11T16:17:00.462Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+12/11/2024, 8:17:00 AM FoundTrackingVersions
+true
+installed :
+
+
+12/11/2024, 8:17:00 AM DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-12-11T16:17:00.468Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+12/11/2024, 8:17:00 AM DotnetAcquisitionStatusUndefined
+8.0.11~x64~aspnetcore
+8.0.11~x64~aspnetcore
+8.0.11
+x64
+false
+aspnetcore
+
+12/11/2024, 8:17:00 AM DotnetCommandSucceeded
+acquireStatus
+
+12/11/2024, 8:17:00 AM DotnetAcquisitionRequested
+8.0.11
+15eb59019e4eb18477aa8e5406bbf28c22b09cc1ff36d936a31726743566167b
+
+12/11/2024, 8:17:00 AM DotnetASPNetRuntimeAcquisitionRequested
+8.0.11
+15eb59019e4eb18477aa8e5406bbf28c22b09cc1ff36d936a31726743566167b
+aspnetcore
+
+12/11/2024, 8:17:00 AM WebRequestSent
+https://dotnetcli.blob.core.windows.net/dotnet/release-metadata/releases-index.json
+
+12/11/2024, 8:17:00 AM DotnetVersionResolutionCompleted
+8.0.11
+8.0.11
+
+12/11/2024, 8:17:00 AM DotnetInstallIdCreatedEvent
+true
+The requested version 8.0.11 is now marked under the install: {"installId":"8.0.11~x64~aspnetcore","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"}.
+
+12/11/2024, 8:17:00 AM DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-12-11T16:17:00.545Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+12/11/2024, 8:17:00 AM DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-12-11T16:17:00.545Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+12/11/2024, 8:17:00 AM FoundTrackingVersions
+true
+installing :
+
+
+12/11/2024, 8:17:00 AM DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-12-11T16:17:00.551Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+12/11/2024, 8:17:00 AM FoundTrackingVersions
+true
+installed :
+
+
+12/11/2024, 8:17:00 AM DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-12-11T16:17:00.552Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+12/11/2024, 8:17:00 AM DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-12-11T16:17:00.554Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+12/11/2024, 8:17:00 AM RemovingVersionFromExtensionState
+true
+Adding {"installId":"8.0.11~x64~aspnetcore","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} with id installing from the state.
+
+12/11/2024, 8:17:00 AM FoundTrackingVersions
+true
+installing :
+
+
+12/11/2024, 8:17:00 AM AddTrackingVersions
+true
+Updated installing :
+{"installId":"8.0.11~x64~aspnetcore","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit
+
+
+12/11/2024, 8:17:00 AM DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-12-11T16:17:00.679Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+12/11/2024, 8:17:00 AM DotnetAcquisitionStarted
+8.0.11~x64~aspnetcore
+8.0.11
+x64
+false
+aspnetcore
+8.0.11
+8.0.11~x64~aspnetcore
+ms-dotnettools.csdevkit
+
+12/11/2024, 8:17:00 AM DotnetASPNetRuntimeAcquisitionStarted
+15eb59019e4eb18477aa8e5406bbf28c22b09cc1ff36d936a31726743566167b
+
+12/11/2024, 8:17:00 AM WebRequestSent
+https://dot.net/v1/dotnet-install.sh
+
+12/11/2024, 8:17:02 AM DotnetFileWriteRequestEvent
+true
+Request to write
+2024-12-11T16:17:02.164Z
+cd09313083dc3bd6eec7504ab1ca84c69d4ae9a76189c84f20962d266a074c9f
+
+12/11/2024, 8:17:02 AM DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-12-11T16:17:02.165Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dir.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dotnet-install.sh
+
+12/11/2024, 8:17:02 AM DotnetLockAcquiredEvent
+true
+Lock Acquired.
+2024-12-11T16:17:02.169Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dir.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dotnet-install.sh
+
+12/11/2024, 8:17:02 AM DotnetFileWriteRequestEvent
+true
+File content is an exact match, not writing file.
+2024-12-11T16:17:02.174Z
+cd09313083dc3bd6eec7504ab1ca84c69d4ae9a76189c84f20962d266a074c9f
+
+12/11/2024, 8:17:02 AM DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-12-11T16:17:02.175Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dir.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/install scripts/dotnet-install.sh
+
+12/11/2024, 8:17:02 AM DotnetInstallScriptAcquisitionCompleted
+
+12/11/2024, 8:17:06 AM DotnetAcquisitionScriptOutput
+8.0.11~x64~aspnetcore
+8.0.11~x64~aspnetcore
+8.0.11
+x64
+false
+aspnetcore
+ dotnet-install: Note that the intended use of this script is for Continuous Integration (CI) scenarios, where:
+dotnet-install: - The SDK needs to be installed without user interaction and without admin rights.
+dotnet-install: - The SDK installation doesn't need to persist across multiple CI runs.
+dotnet-install: To set up a development environment or to run apps, use installers rather than this script. Visit https://dotnet.microsoft.com/download to get the installer.
+
+dotnet-install: Calling: machine_has curl
+dotnet-install: Calling: calculate_vars 
+dotnet-install: Calling: get_normalized_architecture_from_architecture x64
+dotnet-install: Normalized architecture: 'x64'.
+dotnet-install: Calling: get_normalized_os 
+dotnet-install: Calling: get_current_os_name 
+dotnet-install: Calling: get_linux_platform_name 
+dotnet-install: Normalized OS: 'linux'.
+dotnet-install: Calling: get_normalized_quality 
+dotnet-install: Normalized quality: ''.
+dotnet-install: Calling: get_normalized_channel LTS
+dotnet-install: Normalized channel: 'LTS'.
+dotnet-install: Calling: get_normalized_product aspnetcore
+dotnet-install: Normalized product: 'aspnetcore-runtime'.
+dotnet-install: Calling: resolve_installation_path /home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore
+dotnet-install: InstallRoot: '/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore'.
+dotnet-install: Calling: get_normalized_architecture_for_specific_sdk_version 8.0.11 LTS x64
+dotnet-install: Calling: get_current_os_name 
+dotnet-install: Calling: get_linux_platform_name 
+dotnet-install: Calling: get_specific_version_from_version https://dotnetcli.azureedge.net/dotnet LTS x64 8.0.11 
+dotnet-install: Calling: get_specific_product_version https://dotnetcli.azureedge.net/dotnet 8.0.11
+dotnet-install: Calling: get_specific_product_version_url https://dotnetcli.azureedge.net/dotnet 8.0.11 true 
+dotnet-install: Constructed productVersion link: https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-productVersion.txt
+dotnet-install: Calling: get_specific_product_version_url https://dotnetcli.azureedge.net/dotnet 8.0.11 false 
+dotnet-install: Constructed productVersion link: https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/productVersion.txt
+dotnet-install: Checking for the existence of https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: specific_version=8.0.11
+dotnet-install: Calling: construct_download_link https://dotnetcli.azureedge.net/dotnet LTS x64 8.0.11 linux
+dotnet-install: Calling: get_specific_product_version https://dotnetcli.azureedge.net/dotnet 8.0.11
+dotnet-install: Calling: get_specific_product_version_url https://dotnetcli.azureedge.net/dotnet 8.0.11 true 
+dotnet-install: Constructed productVersion link: https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-productVersion.txt
+dotnet-install: Calling: get_specific_product_version_url https://dotnetcli.azureedge.net/dotnet 8.0.11 false 
+dotnet-install: Constructed productVersion link: https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/productVersion.txt
+dotnet-install: Checking for the existence of https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: Constructed primary named payload URL: https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Calling: construct_legacy_download_link https://dotnetcli.azureedge.net/dotnet LTS x64 8.0.11
+dotnet-install: Calling: get_legacy_os_name 
+dotnet-install: Calling: get_legacy_os_name_from_platform ubuntu.24.10
+dotnet-install: Distribution specific OS name and version could not be detected: UName = Linux
+dotnet-install: Cound not construct a legacy_download_link; omitting...
+dotnet-install: Calling: is_dotnet_package_installed 8dc1832ffe5c1be9e1bdc4b8337bf615458814da241bd6e875a1c35a78b2dcbd shared/Microsoft.AspNetCore.App 8.0.11
+dotnet-install: Calling: combine_paths 8dc1832ffe5c1be9e1bdc4b8337bf615458814da241bd6e875a1c35a78b2dcbd shared/Microsoft.AspNetCore.App
+dotnet-install: combine_paths: root_path=/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore
+dotnet-install: combine_paths: child_path=shared/Microsoft.AspNetCore.App
+dotnet-install: Calling: combine_paths 79042a192c934e5435f5529575015384678215b4a7a940f4dac8c589b98261e1 8.0.11
+dotnet-install: combine_paths: root_path=/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App
+dotnet-install: combine_paths: child_path=8.0.11
+dotnet-install: is_dotnet_package_installed: dotnet_package_path=/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App/8.0.11
+dotnet-install: Calling: get_specific_version_from_version https://dotnetbuilds.azureedge.net/public LTS x64 8.0.11 
+dotnet-install: Calling: get_specific_product_version https://dotnetbuilds.azureedge.net/public 8.0.11
+dotnet-install: Calling: get_specific_product_version_url https://dotnetbuilds.azureedge.net/public 8.0.11 true 
+dotnet-install: Constructed productVersion link: https://dotnetbuilds.azureedge.net/public/aspnetcore/Runtime/8.0.11/aspnetcore-productVersion.txt
+dotnet-install: Calling: get_specific_product_version_url https://dotnetbuilds.azureedge.net/public 8.0.11 false 
+dotnet-install: Constructed productVersion link: https://dotnetbuilds.azureedge.net/public/aspnetcore/Runtime/8.0.11/productVersion.txt
+dotnet-install: Checking for the existence of https://dotnetbuilds.azureedge.net/public/aspnetcore/Runtime/8.0.11/aspnetcore-productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: Checking for the existence of https://dotnetbuilds.azureedge.net/public/aspnetcore/Runtime/8.0.11/productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: Failed to get the version using productVersion.txt file. Download link will be parsed instead.
+dotnet-install: Calling: get_product_specific_version_from_download_link  8.0.11
+dotnet-install: specific_version=8.0.11
+dotnet-install: Calling: construct_download_link https://dotnetbuilds.azureedge.net/public LTS x64 8.0.11 linux
+dotnet-install: Calling: get_specific_product_version https://dotnetbuilds.azureedge.net/public 8.0.11
+dotnet-install: Calling: get_specific_product_version_url https://dotnetbuilds.azureedge.net/public 8.0.11 true 
+dotnet-install: Constructed productVersion link: https://dotnetbuilds.azureedge.net/public/aspnetcore/Runtime/8.0.11/aspnetcore-productVersion.txt
+dotnet-install: Calling: get_specific_product_version_url https://dotnetbuilds.azureedge.net/public 8.0.11 false 
+dotnet-install: Constructed productVersion link: https://dotnetbuilds.azureedge.net/public/aspnetcore/Runtime/8.0.11/productVersion.txt
+dotnet-install: Checking for the existence of https://dotnetbuilds.azureedge.net/public/aspnetcore/Runtime/8.0.11/aspnetcore-productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: Checking for the existence of https://dotnetbuilds.azureedge.net/public/aspnetcore/Runtime/8.0.11/productVersion.txt
+dotnet-install: Calling: machine_has curl
+dotnet-install: Failed to get the version using productVersion.txt file. Download link will be parsed instead.
+dotnet-install: Calling: get_product_specific_version_from_download_link  8.0.11
+dotnet-install: Constructed primary named payload URL: https://dotnetbuilds.azureedge.net/public/aspnetcore/Runtime/8.0.11/aspnetcore-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Calling: construct_legacy_download_link https://dotnetbuilds.azureedge.net/public LTS x64 8.0.11
+dotnet-install: Calling: get_legacy_os_name 
+dotnet-install: Calling: get_legacy_os_name_from_platform ubuntu.24.10
+dotnet-install: Distribution specific OS name and version could not be detected: UName = Linux
+dotnet-install: Cound not construct a legacy_download_link; omitting...
+dotnet-install: Calling: is_dotnet_package_installed 8dc1832ffe5c1be9e1bdc4b8337bf615458814da241bd6e875a1c35a78b2dcbd shared/Microsoft.AspNetCore.App 8.0.11
+dotnet-install: Calling: combine_paths 8dc1832ffe5c1be9e1bdc4b8337bf615458814da241bd6e875a1c35a78b2dcbd shared/Microsoft.AspNetCore.App
+dotnet-install: combine_paths: root_path=/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore
+dotnet-install: combine_paths: child_path=shared/Microsoft.AspNetCore.App
+dotnet-install: Calling: combine_paths 79042a192c934e5435f5529575015384678215b4a7a940f4dac8c589b98261e1 8.0.11
+dotnet-install: combine_paths: root_path=/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App
+dotnet-install: combine_paths: child_path=8.0.11
+dotnet-install: is_dotnet_package_installed: dotnet_package_path=/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App/8.0.11
+dotnet-install: Generated 2 links.
+dotnet-install: Link 0: primary, 8.0.11, https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Link 1: primary, 8.0.11, https://dotnetbuilds.azureedge.net/public/aspnetcore/Runtime/8.0.11/aspnetcore-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Calling: install_dotnet 
+dotnet-install: Archive path: /tmp/dotnet.PTIvvrRKK
+dotnet-install: Attempting to download using primary link https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Calling: download https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-runtime-8.0.11-linux-x64.tar.gz /tmp/dotnet.PTIvvrRKK
+dotnet-install: Calling: machine_has curl
+dotnet-install: Calling: downloadcurl https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-runtime-8.0.11-linux-x64.tar.gz /tmp/dotnet.PTIvvrRKK
+dotnet-install: Calling: machine_has curl
+dotnet-install: Remote file https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-runtime-8.0.11-linux-x64.tar.gz size is 41979134 bytes.
+dotnet-install: Extracting archive from https://dotnetcli.azureedge.net/dotnet/aspnetcore/Runtime/8.0.11/aspnetcore-runtime-8.0.11-linux-x64.tar.gz
+dotnet-install: Calling: extract_dotnet_package /tmp/dotnet.PTIvvrRKK 8dc1832ffe5c1be9e1bdc4b8337bf615458814da241bd6e875a1c35a78b2dcbd 41979134
+dotnet-install: Calling: copy_files_or_dirs_from_list /tmp/dotnet.SdMd3ZesO 8dc1832ffe5c1be9e1bdc4b8337bf615458814da241bd6e875a1c35a78b2dcbd false
+dotnet-install: Calling: get_cp_options false
+dotnet-install: Calling: copy_files_or_dirs_from_list /tmp/dotnet.SdMd3ZesO 8dc1832ffe5c1be9e1bdc4b8337bf615458814da241bd6e875a1c35a78b2dcbd true
+dotnet-install: Calling: get_cp_options true
+dotnet-install: Calling: validate_remote_local_file_sizes /tmp/dotnet.PTIvvrRKK 41979134
+dotnet-install: Downloaded file size is 41979134 bytes.
+dotnet-install: The remote and local file sizes are equal.
+dotnet-install: Temporary archive file /tmp/dotnet.PTIvvrRKK was removed
+dotnet-install: Checking installation: version = 8.0.11
+dotnet-install: Calling: is_dotnet_package_installed 8dc1832ffe5c1be9e1bdc4b8337bf615458814da241bd6e875a1c35a78b2dcbd shared/Microsoft.AspNetCore.App 8.0.11
+dotnet-install: Calling: combine_paths 8dc1832ffe5c1be9e1bdc4b8337bf615458814da241bd6e875a1c35a78b2dcbd shared/Microsoft.AspNetCore.App
+dotnet-install: combine_paths: root_path=/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore
+dotnet-install: combine_paths: child_path=shared/Microsoft.AspNetCore.App
+dotnet-install: Calling: combine_paths 79042a192c934e5435f5529575015384678215b4a7a940f4dac8c589b98261e1 8.0.11
+dotnet-install: combine_paths: root_path=/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App
+dotnet-install: combine_paths: child_path=8.0.11
+dotnet-install: is_dotnet_package_installed: dotnet_package_path=/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore/shared/Microsoft.AspNetCore.App/8.0.11
+dotnet-install: Installed version is 8.0.11
+dotnet-install: Calling: combine_paths 8dc1832ffe5c1be9e1bdc4b8337bf615458814da241bd6e875a1c35a78b2dcbd 
+dotnet-install: combine_paths: root_path=/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore
+dotnet-install: combine_paths: child_path=
+dotnet-install: Calling: get_absolute_path /home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore/
+dotnet-install: Adding to current process PATH: `/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore`. Note: This change will be visible only when sourcing script.
+dotnet-install: Note that the script does not resolve dependencies during installation.
+dotnet-install: To check the list of dependencies, go to https://learn.microsoft.com/dotnet/core/install, select your operating system and check the "Dependencies" section.
+dotnet-install: Installation finished successfully.
+
+
+12/11/2024, 8:17:06 AM DotnetAcquisitionCompleted
+8.0.11~x64~aspnetcore
+8.0.11
+x64
+false
+aspnetcore
+8.0.11
+8.0.11~x64~aspnetcore
+/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore/dotnet
+
+12/11/2024, 8:17:06 AM DotnetInstallationValidated
+8.0.11~x64~aspnetcore
+8.0.11~x64~aspnetcore
+8.0.11
+x64
+false
+aspnetcore
+
+12/11/2024, 8:17:06 AM DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-12-11T16:17:06.134Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+12/11/2024, 8:17:06 AM RemovingVersionFromExtensionState
+true
+Removing {"installId":"8.0.11~x64~aspnetcore","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} with id installing from the state.
+
+12/11/2024, 8:17:06 AM FoundTrackingVersions
+true
+installing :
+{"installId":"8.0.11~x64~aspnetcore","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit
+
+
+12/11/2024, 8:17:06 AM RemovingExtensionFromList
+true
+The last owner ms-dotnettools.csdevkit removed {"installId":"8.0.11~x64~aspnetcore","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} entirely from the state.
+
+12/11/2024, 8:17:06 AM DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-12-11T16:17:06.141Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installing.lock
+
+12/11/2024, 8:17:06 AM DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2024-12-11T16:17:06.142Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+12/11/2024, 8:17:06 AM RemovingVersionFromExtensionState
+true
+Adding {"installId":"8.0.11~x64~aspnetcore","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} with id installed from the state.
+
+12/11/2024, 8:17:06 AM FoundTrackingVersions
+true
+installed :
+
+
+12/11/2024, 8:17:06 AM AddTrackingVersions
+true
+Updated installed :
+{"installId":"8.0.11~x64~aspnetcore","version":"8.0.11","architecture":"x64","isGlobal":false,"installMode":"aspnetcore"} owned by ms-dotnettools.csdevkit
+
+
+12/11/2024, 8:17:06 AM DotnetLockReleasedEvent
+true
+Lock about to be released.
+2024-12-11T16:17:06.148Z
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+/home/mpeters/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.3/dist/installed.lock
+
+12/11/2024, 8:17:06 AM DotnetCommandSucceeded
+acquire
+
+12/11/2024, 8:17:06 AM DotnetAcquisitionTotalSuccessEvent
+8.0.11
+8.0.11~x64~aspnetcore
+8.0.11~x64~aspnetcore
+8.0.11
+x64
+false
+aspnetcore
+15eb59019e4eb18477aa8e5406bbf28c22b09cc1ff36d936a31726743566167b
+/home/mpeters/projects/AOC/2024/_1/~/.vscode/User/globalStorage/ms-dotnettools.vscode-dotnet-runtime/.dotnet/8.0.11~x64~aspnetcore/dotnet
+
+12/11/2024, 8:17:06 AM DotnetASPNetRuntimeAcquisitionTotalSuccessEvent
+8.0.11~x64~aspnetcore
+8.0.11
+x64
+false
+aspnetcore
+
+12/11/2024, 8:17:06 AM DotnetCommandSucceeded
+ensureDependencies

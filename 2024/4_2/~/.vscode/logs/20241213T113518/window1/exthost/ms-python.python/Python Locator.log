@@ -1,0 +1,104 @@
+2024-12-13 11:35:22.855 [info] Starting Python Locator /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python-env-tools/bin/pet server
+2024-12-13 11:35:22.855 [debug] Env PATH: ["/home/mpeters/home/bin", "/home/mpeters/.cargo/bin", "/home/mpeters/bin", "/usr/local/sbin", "/usr/local/bin", "/usr/sbin", "/usr/bin", "/sbin", "/bin", "/usr/games", "/usr/local/games", "/snap/bin", "/home/mpeters/.dotnet/tools", "/home/mpeters/bin", "/usr/local/go/bin"]
+2024-12-13 11:35:22.855 [debug] Setting cache directory to "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator"
+2024-12-13 11:35:22.855 [debug] Configuring locators: Configuration { workspace_directories: Some(["/home/mpeters/projects/AOC/2024/_4_2"]), executables: None, conda_executable: None, poetry_executable: Some("poetry"), environment_directories: Some([]), cache_directory: Some("/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator") }
+2024-12-13 11:35:22.855 [debug] Start refreshing environments, config: Configuration { workspace_directories: Some(["/home/mpeters/projects/AOC/2024/_4_2"]), executables: None, conda_executable: None, poetry_executable: Some("poetry"), environment_directories: Some([]), cache_directory: Some("/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator") }
+2024-12-13 11:35:22.855 [debug] Searching using locator: PyEnv
+2024-12-13 11:35:22.855 [debug] Searching for environments in global folders: ["/home/mpeters/home/bin", "/home/mpeters/.cargo/bin", "/home/mpeters/bin", "/usr/local/sbin", "/usr/local/bin", "/usr/sbin", "/usr/bin", "/sbin", "/bin", "/usr/games", "/usr/local/games", "/snap/bin", "/home/mpeters/bin", "/usr/local/go/bin", "/etc", "/lib", "/lib/x86_64-linux-gnu", "/lib64", "/usr/include", "/usr/lib", "/usr/lib/x86_64-linux-gnu", "/usr/lib64", "/usr/libexec", "/usr/local", "/usr/local/etc", "/usr/local/lib", "/usr/share", "/opt"]
+2024-12-13 11:35:22.855 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.856 [debug] PyEnv versions directory not found
+2024-12-13 11:35:22.861 [debug] Completed searching using locator: PyEnv in 71.522µs
+2024-12-13 11:35:22.862 [debug] Searching for environments in global venv folders: []
+2024-12-13 11:35:22.862 [debug] Searching using locator: Conda
+2024-12-13 11:35:22.862 [debug] Searching for environments in workspace folders: ["/home/mpeters/projects/AOC/2024/_4_2"]
+2024-12-13 11:35:22.862 [debug] Searching using locator: Poetry
+2024-12-13 11:35:22.862 [debug] Poetry exe not found
+2024-12-13 11:35:22.862 [debug] Poetry Manager None
+2024-12-13 11:35:22.863 [debug] Poetry cache (default): Some("/home/mpeters/.cache/pypoetry")
+2024-12-13 11:35:22.863 [debug] Poetry config file => None, virtualenv.path => "/home/mpeters/.cache/pypoetry/virtualenvs", cache_dir => Some("/home/mpeters/.cache/pypoetry"), virtualenvs_in_project => None
+2024-12-13 11:35:22.863 [debug] pyproject.toml not found in any workspace directory
+2024-12-13 11:35:22.863 [debug] Completed searching using locator: Poetry in 308.526µs
+2024-12-13 11:35:22.863 [debug] Searching using locator: PipEnv
+2024-12-13 11:35:22.863 [debug] Completed searching using locator: PipEnv in 8.214µs
+2024-12-13 11:35:22.863 [debug] Searching using locator: VirtualEnvWrapper
+2024-12-13 11:35:22.863 [debug] Completed searching using locator: VirtualEnvWrapper in 8.815µs
+2024-12-13 11:35:22.864 [debug] Searching using locator: Venv
+2024-12-13 11:35:22.864 [debug] Completed searching using locator: Venv in 68.217µs
+2024-12-13 11:35:22.864 [debug] No Conda environments in .condarc
+2024-12-13 11:35:22.864 [debug] Searching using locator: Homebrew
+2024-12-13 11:35:22.864 [debug] Searching using locator: VirtualEnv
+2024-12-13 11:35:22.864 [debug] Completed searching using locator: VirtualEnv in 68.216µs
+2024-12-13 11:35:22.865 [debug] Conda environments in known paths ["/bin", "/etc", "/home/mpeters/.cargo/bin", "/home/mpeters/bin", "/home/mpeters/home/bin", "/lib", "/lib/x86_64-linux-gnu", "/lib64", "/opt", "/sbin", "/snap/bin", "/usr/bin", "/usr/games", "/usr/include", "/usr/lib", "/usr/lib/x86_64-linux-gnu", "/usr/lib64", "/usr/libexec", "/usr/local", "/usr/local/bin", "/usr/local/etc", "/usr/local/games", "/usr/local/go/bin", "/usr/local/lib", "/usr/local/sbin", "/usr/sbin", "/usr/share"]
+2024-12-13 11:35:22.865 [debug] Completed searching using locator: Homebrew in 102.775µs
+2024-12-13 11:35:22.865 [debug] Searching using locator: LinuxGlobal
+2024-12-13 11:35:22.865 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.868 [debug] Reporting Environment PythonEnvironment { display_name: None, name: None, executable: Some("/home/mpeters/home/bin/python"), kind: Some(Venv), version: Some("3.12.7"), prefix: Some("/home/mpeters/home"), manager: None, project: None, arch: None, symlinks: Some(["/home/mpeters/home/bin/python", "/home/mpeters/home/bin/python3", "/home/mpeters/home/bin/python3.12"]) }
+2024-12-13 11:35:22.880 [info] Discovered env: /home/mpeters/home/bin/python
+2024-12-13 11:35:22.884 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.884 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.885 [debug] Using cache from "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/31f2aee4e71d21fb.3.json" for "/usr/bin/python3"
+2024-12-13 11:35:22.885 [debug] Using cache from "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/916dbcbb3f70747c.3.json" for "/bin/python3"
+2024-12-13 11:35:22.885 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.885 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.885 [debug] Using cache from "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/31f2aee4e71d21fb.3.json" for "/usr/bin/python3"
+2024-12-13 11:35:22.886 [debug] Updating cache for "/usr/bin/python3" with new symlinks
+2024-12-13 11:35:22.886 [debug] Caching interpreter info for "/usr/bin/python3"
+2024-12-13 11:35:22.886 [debug] Caching "/usr/bin/python3" in "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/31f2aee4e71d21fb.3.json"
+2024-12-13 11:35:22.886 [debug] Reporting Environment PythonEnvironment { display_name: None, name: None, executable: Some("/usr/bin/python3"), kind: Some(LinuxGlobal), version: Some("3.12.7.final.0"), prefix: Some("/usr"), manager: None, project: None, arch: Some(X64), symlinks: Some(["/usr/bin/python3", "/usr/bin/python3.12"]) }
+2024-12-13 11:35:22.886 [info] Discovered env: /usr/bin/python3
+2024-12-13 11:35:22.887 [debug] Using cache from "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/916dbcbb3f70747c.3.json" for "/bin/python3"
+2024-12-13 11:35:22.887 [debug] Updating cache for "/bin/python3" with new symlinks
+2024-12-13 11:35:22.887 [debug] Caching interpreter info for "/bin/python3"
+2024-12-13 11:35:22.887 [debug] Caching "/bin/python3" in "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/916dbcbb3f70747c.3.json"
+2024-12-13 11:35:22.888 [debug] Reporting Environment PythonEnvironment { display_name: None, name: None, executable: Some("/bin/python3"), kind: Some(LinuxGlobal), version: Some("3.12.7.final.0"), prefix: Some("/usr"), manager: None, project: None, arch: Some(X64), symlinks: Some(["/bin/python3", "/bin/python3.12"]) }
+2024-12-13 11:35:22.888 [info] Discovered env: /bin/python3
+2024-12-13 11:35:22.888 [debug] Completed searching using locator: LinuxGlobal in 44.347327ms
+2024-12-13 11:35:22.888 [debug] Time taken to get conda environment paths: 50.309595ms
+2024-12-13 11:35:22.889 [debug] Completed searching using locator: Conda in 50.427696ms
+2024-12-13 11:35:22.889 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.889 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.889 [debug] Env ("/bin/python3") in Path resolved as Some(LinuxGlobal)
+2024-12-13 11:35:22.889 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.889 [debug] Env ("/usr/bin/python3") in Path resolved as Some(LinuxGlobal)
+2024-12-13 11:35:22.889 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.890 [debug] Using cache from "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/36371cb60c26e37b.3.json" for "/bin/python3.12"
+2024-12-13 11:35:22.890 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.890 [debug] Using cache from "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/f0d7a494a3f77623.3.json" for "/usr/bin/python3.12"
+2024-12-13 11:35:22.890 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.890 [debug] Env ("/bin/python3.12") in Path resolved as Some(LinuxGlobal)
+2024-12-13 11:35:22.890 [debug] Env ("/usr/bin/python3.12") in Path resolved as Some(LinuxGlobal)
+2024-12-13 11:35:22.890 [info] Locator Conda took 50.437413ms
+2024-12-13 11:35:22.891 [info] Locator Homebrew took 112.091µs
+2024-12-13 11:35:22.891 [info] Locator LinuxGlobal took 44.500589ms
+2024-12-13 11:35:22.891 [info] Locator PipEnv took 13.724µs
+2024-12-13 11:35:22.891 [info] Locator Poetry took 315.838µs
+2024-12-13 11:35:22.891 [info] Locator PyEnv took 76.831µs
+2024-12-13 11:35:22.891 [info] Locator Venv took 157.87µs
+2024-12-13 11:35:22.891 [info] Locator VirtualEnv took 79.536µs
+2024-12-13 11:35:22.892 [info] Locator VirtualEnvWrapper took 236.804µs
+2024-12-13 11:35:22.892 [info] Locator GlobalVirtualEnvs took 35.26µs
+2024-12-13 11:35:22.892 [info] Locator Locators took 50.779396ms
+2024-12-13 11:35:22.892 [info] Locator Path took 101.365262ms
+2024-12-13 11:35:22.892 [info] Locator Workspaces took 1.758198ms
+2024-12-13 11:35:22.892 [debug] Finished refreshing environments in 101.539459ms
+2024-12-13 11:35:22.893 [info] Refresh completed in 101ms
+2024-12-13 11:35:22.893 [debug] Telemetry event "RefreshPerformance"
+2024-12-13 11:35:22.894 [debug] Resolving env "/home/mpeters/home"
+2024-12-13 11:35:22.895 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.895 [debug] Using cache from "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/8ed25023e7ab5385.3.json" for "/home/mpeters/home/bin/python"
+2024-12-13 11:35:22.904 [debug] In resolve_environment, Resolved Python Exe "/home/mpeters/home/bin/python" as ResolvedPythonEnv { executable: "/home/mpeters/home/bin/python", prefix: "/home/mpeters/home", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/home/mpeters/home/bin/python", "/home/mpeters/home/bin/python3", "/home/mpeters/home/bin/python3.12"]) }
+2024-12-13 11:35:22.908 [debug] Using cache from "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/8ed25023e7ab5385.3.json" for "/home/mpeters/home/bin/python"
+2024-12-13 11:35:22.912 [debug] Updating cache for "/home/mpeters/home/bin/python" with new symlinks
+2024-12-13 11:35:22.912 [debug] Caching interpreter info for "/home/mpeters/home/bin/python"
+2024-12-13 11:35:22.913 [debug] Caching "/home/mpeters/home/bin/python" in "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/8ed25023e7ab5385.3.json"
+2024-12-13 11:35:22.913 [debug] Resolved env (Ok(1.721336ms)) "/home/mpeters/home" as PythonEnvironment { display_name: None, name: None, executable: Some("/home/mpeters/home/bin/python"), kind: Some(Venv), version: Some("3.12.7.final.0"), prefix: Some("/home/mpeters/home"), manager: None, project: None, arch: Some(X64), symlinks: Some(["/home/mpeters/home/bin/python", "/home/mpeters/home/bin/python3", "/home/mpeters/home/bin/python3.12"]) }
+2024-12-13 11:35:22.913 [info] Resolved Python Environment /home/mpeters/home/bin/python
+2024-12-13 11:35:22.916 [debug] Resolving env "/home/mpeters/home/bin/python"
+2024-12-13 11:35:22.916 [debug] PyEnv Info PyEnvInfo { exe: None, versions: None, version: None }
+2024-12-13 11:35:22.916 [debug] In resolve_environment, Resolved Python Exe "/home/mpeters/home/bin/python" as ResolvedPythonEnv { executable: "/home/mpeters/home/bin/python", prefix: "/home/mpeters/home", version: "3.12.7.final.0", is64_bit: true, symlinks: Some(["/home/mpeters/home/bin/python", "/home/mpeters/home/bin/python3", "/home/mpeters/home/bin/python3.12"]) }
+2024-12-13 11:35:22.916 [debug] Using cache from "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/8ed25023e7ab5385.3.json" for "/home/mpeters/home/bin/python"
+2024-12-13 11:35:22.917 [debug] Updating cache for "/home/mpeters/home/bin/python" with new symlinks
+2024-12-13 11:35:22.918 [debug] Caching interpreter info for "/home/mpeters/home/bin/python"
+2024-12-13 11:35:22.918 [debug] Caching "/home/mpeters/home/bin/python" in "/home/mpeters/projects/AOC/2024/_4_2/~/.vscode/User/globalStorage/ms-python.python/pythonLocator/8ed25023e7ab5385.3.json"
+2024-12-13 11:35:22.919 [debug] Resolved env (Ok(1.183719ms)) "/home/mpeters/home/bin/python" as PythonEnvironment { display_name: None, name: None, executable: Some("/home/mpeters/home/bin/python"), kind: Some(Venv), version: Some("3.12.7.final.0"), prefix: Some("/home/mpeters/home"), manager: None, project: None, arch: Some(X64), symlinks: Some(["/home/mpeters/home/bin/python", "/home/mpeters/home/bin/python3", "/home/mpeters/home/bin/python3.12"]) }
+2024-12-13 11:35:22.919 [info] Resolved Python Environment /home/mpeters/home/bin/python

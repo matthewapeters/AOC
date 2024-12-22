@@ -1,0 +1,16 @@
+2024-12-11 09:28:21.047 [info] Started local extension host with pid 15474.
+2024-12-11 09:28:21.489 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 09:28:21.682 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.addWorkspaceProject.
+2024-12-11 09:28:21.682 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.azureSignIn.
+2024-12-11 09:28:21.683 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.deployWorkspaceProject.
+2024-12-11 09:28:21.683 [warning] [vscode-azurecontainerapps]: Couldn't find message for key containerApps.walkthrough.cleanUpResources.
+2024-12-11 09:28:21.723 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.0]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 09:28:21.725 [error] [/home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 09:28:21.751 [error] [/home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3]: Extension is not compatible with Code 1.94.2. Extension requires: ^1.95.0.
+2024-12-11 09:28:27.985 [info] [perf] Render performance baseline is 77ms
+2024-12-11 09:28:57.317 [error] Cannot read the extension from /home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21: ScanningExtension: Cannot read the extension from /home/mpeters/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.21
+    at Ql.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73154)
+2024-12-11 09:28:57.368 [error] Cannot read the extension from /home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64: ScanningExtension: Cannot read the extension from /home/mpeters/.vscode/extensions/ms-toolsai.jupyter-2024.10.0-linux-x64
+    at Ql.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73154)
+2024-12-11 09:28:57.394 [error] Cannot read the extension from /home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3: ScanningExtension: Cannot read the extension from /home/mpeters/.vscode/extensions/github.vscode-pull-request-github-0.100.3
+    at Ql.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:73154)

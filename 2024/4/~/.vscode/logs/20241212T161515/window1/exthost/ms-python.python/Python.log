@@ -1,0 +1,87 @@
+2024-12-12 16:15:19.024 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-12 16:15:19.025 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-12 16:15:19.025 [info] Experiment 'pythonTestAdapter' is active
+2024-12-12 16:15:19.025 [info] Native locator: Refresh started
+2024-12-12 16:15:19.097 [info] Native locator: Refresh finished in 130 ms
+2024-12-12 16:15:19.149 [info] Native locator: Refresh started
+2024-12-12 16:15:19.228 [info] > pyenv which python
+2024-12-12 16:15:19.228 [info] cwd: .
+2024-12-12 16:15:20.509 [info] Python interpreter path: /usr/bin/python3
+2024-12-12 16:15:20.987 [info] Native locator: Refresh finished in 1838 ms
+2024-12-12 16:15:21.935 [info] Starting Pylance language server.
+2024-12-12 16:15:34.651 [info] Send text to terminal: python
+2024-12-12 16:15:36.651 [info] Send text to terminal: 
+from importlib import reload
+import os, sys
+import subprocess
+from databricks.sdk import WorkspaceClient
+from databricks.sdk.service.compute import Language
+
+sys.path.append("/tmp/db-notebook")
+
+os.makedirs("/tmp/db-notebook", exist_ok=True)
+
+class my_logger:
+  def __init__(self, log_file):
+    self.log_file = log_file
+    if os.path.exists(log_file):
+      os.remove(log_file)
+  def write(self, msg):
+    with open(self.log_file, "a") as f:
+      f.write(msg)
+  def clear_done(self, done_file):
+    if os.path.exists(done_file):
+      os.remove(done_file)
+  def flag_done(self, done_file):
+    with open(done_file, "w") as f:
+      f.write("DONE")
+  def flush(self):
+    pass
+
+logger = my_logger("/tmp/db-notebook/cell-command0d3c45046802f4033bf11b37a0f41d73.out")
+
+spark = None
+
+try:
+  from databricks.connect import DatabricksSession
+  spark = DatabricksSession.builder.getOrCreate()
+except e:
+  print(f"Unable to create a remote Spark Session: {e}")
+
+sys.stdout = logger
+sys.stderr = logger
+
+w = WorkspaceClient()
+lang = Language.PYTHON
+
+2024-12-12 16:15:48.697 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-12 16:15:48.697 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-12 16:15:48.697 [info] Experiment 'pythonTestAdapter' is active
+2024-12-12 16:15:48.697 [info] Native locator: Refresh started
+2024-12-12 16:15:48.697 [info] Native locator: Refresh finished in 143 ms
+2024-12-12 16:15:48.735 [info] Native locator: Refresh started
+2024-12-12 16:15:48.828 [info] Python interpreter path: /usr/bin/python3
+2024-12-12 16:15:48.839 [info] > pyenv which python
+2024-12-12 16:15:48.839 [info] cwd: .
+2024-12-12 16:15:50.488 [info] Native locator: Refresh finished in 1754 ms
+2024-12-12 16:15:51.486 [info] Starting Pylance language server.
+2024-12-12 16:16:14.982 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-12 16:16:14.982 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-12 16:16:14.982 [info] Experiment 'pythonTestAdapter' is active
+2024-12-12 16:16:14.982 [info] Native locator: Refresh started
+2024-12-12 16:16:14.982 [info] Native locator: Refresh started
+2024-12-12 16:16:15.032 [info] > pyenv which python
+2024-12-12 16:16:15.032 [info] cwd: .
+2024-12-12 16:16:16.247 [info] Native locator: Refresh finished in 1767 ms
+2024-12-12 16:16:16.253 [info] Python interpreter path: /usr/bin/python3
+2024-12-12 16:16:17.237 [info] Starting Pylance language server.
+2024-12-12 16:18:23.535 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-12 16:18:29.787 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-12 16:19:32.764 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-12 16:20:06.520 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-12 16:20:24.532 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-12 16:20:33.795 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-12 17:42:15.861 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-12 17:43:21.205 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-12 17:43:35.755 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/main.py
+2024-12-13 06:54:38.389 [info] Discover tests for workspace name: _4 - uri: /home/mpeters/projects/AOC/2024/_4/main.py

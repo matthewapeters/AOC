@@ -1,0 +1,23 @@
+2024-12-13 07:00:10.861 [info] Starting Python Locator /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python-env-tools/bin/pet server
+2024-12-13 07:00:10.861 [info] Discovered env: /home/mpeters/home/bin/python
+2024-12-13 07:00:10.863 [info] Discovered env: /bin/python3
+2024-12-13 07:00:11.672 [info] Discovered env: /usr/bin/python3
+2024-12-13 07:00:11.949 [info] Locator Conda took 40.452693ms
+2024-12-13 07:00:11.952 [info] Locator Homebrew took 388.766µs
+2024-12-13 07:00:11.953 [info] Locator LinuxGlobal took 57.334916ms
+2024-12-13 07:00:11.953 [info] Locator PipEnv took 120.34µs
+2024-12-13 07:00:11.954 [info] Locator Poetry took 309.847µs
+2024-12-13 07:00:11.954 [info] Locator PyEnv took 367.151µs
+2024-12-13 07:00:11.954 [info] Locator Venv took 70.073µs
+2024-12-13 07:00:11.955 [info] Locator VirtualEnv took 10.657µs
+2024-12-13 07:00:11.955 [info] Locator VirtualEnvWrapper took 110.99µs
+2024-12-13 07:00:11.955 [info] Locator GlobalVirtualEnvs took 308.641µs
+2024-12-13 07:00:11.955 [info] Locator Locators took 60.062613ms
+2024-12-13 07:00:11.955 [info] Locator Path took 96.809411ms
+2024-12-13 07:00:11.955 [info] Locator Workspaces took 1.992791ms
+2024-12-13 07:00:11.956 [info] Refresh completed in 96ms
+2024-12-13 07:00:11.962 [info] Resolved Python Environment /home/mpeters/home/bin/python
+2024-12-13 07:00:11.965 [info] Resolved Python Environment /home/mpeters/home/bin/python
+2024-12-13 07:00:41.762 [info] Resolved Python Environment /home/mpeters/home/bin/python
+2024-12-13 07:01:57.827 [info] Resolved Python Environment /home/mpeters/home/bin/python
+2024-12-13 07:02:41.677 [info] Resolved Python Environment /home/mpeters/home/bin/python

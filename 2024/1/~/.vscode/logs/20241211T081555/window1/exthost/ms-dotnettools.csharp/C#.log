@@ -1,0 +1,8 @@
+2024-12-11 08:16:58.040 [info] Using dotnet configured on PATH
+2024-12-11 08:16:58.043 [info] Dotnet path: /usr/lib/dotnet/dotnet
+2024-12-11 08:16:58.043 [info] Activating C# + C# Dev Kit + C# IntelliCode...
+2024-12-11 08:17:05.048 [info] [stdout] {"pipeName":"/tmp/dd577930.sock"}
+
+2024-12-11 08:17:05.048 [info] received named pipe information from server
+2024-12-11 08:17:05.052 [info] client has connected to server
+2024-12-11 08:17:05.470 [info] [Info  - 8:17:05 AM] [Program] Language server initialized

@@ -1,0 +1,18 @@
+2024-12-12 16:15:20.890 [warning] /home/mpeters/.ssh/config: ENOENT: no such file or directory, open '/home/mpeters/.ssh/config'
+2024-12-12 16:15:20.890 [info] Activation> Extension version: 0.102.0
+2024-12-12 16:15:20.984 [info] Looking for git repository
+2024-12-12 16:15:20.984 [info] Found 0 repositories during activation
+2024-12-12 16:15:20.984 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-12 16:15:20.985 [info] Registering git provider
+2024-12-12 16:15:50.434 [warning] /home/mpeters/.ssh/config: ENOENT: no such file or directory, open '/home/mpeters/.ssh/config'
+2024-12-12 16:15:50.434 [info] Activation> Extension version: 0.102.0
+2024-12-12 16:15:50.536 [info] Looking for git repository
+2024-12-12 16:15:50.536 [info] Found 0 repositories during activation
+2024-12-12 16:15:50.536 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-12 16:15:50.537 [info] Registering git provider
+2024-12-12 16:16:16.237 [warning] /home/mpeters/.ssh/config: ENOENT: no such file or directory, open '/home/mpeters/.ssh/config'
+2024-12-12 16:16:16.237 [info] Activation> Extension version: 0.102.0
+2024-12-12 16:16:16.353 [info] Looking for git repository
+2024-12-12 16:16:16.353 [info] Found 0 repositories during activation
+2024-12-12 16:16:16.353 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-12 16:16:16.354 [info] Registering git provider

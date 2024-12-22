@@ -1,0 +1,156 @@
+2024-12-13 08:26:55.451 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:26:55.461 [info] Getting configurations for workspace
+2024-12-13 08:26:55.461 [info] Using configuration in workspace
+2024-12-13 08:26:55.648 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:26:55.653 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:26:55.653 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:26:55.685 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:26:55.779 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:26:55.781 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:26:55.781 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:26:56.274 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:26:57.364 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:26:57.367 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:27:30.091 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:27:30.101 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:27:30.197 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:27:30.200 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:27:30.201 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:27:30.535 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:27:31.569 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:27:31.572 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:28:18.377 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:28:18.383 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:28:18.488 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:28:18.490 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:28:18.491 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:28:18.835 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:28:19.916 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:28:19.919 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:29:06.624 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:29:06.629 [info] Getting configurations for workspace
+2024-12-13 08:29:06.629 [info] Using configuration in workspace
+2024-12-13 08:29:06.829 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:29:06.837 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:29:06.837 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:29:06.840 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:29:06.919 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:29:06.921 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:29:06.921 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:29:07.324 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:29:08.392 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:29:08.396 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:30:49.181 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:30:49.183 [info] Getting configurations for workspace
+2024-12-13 08:30:49.183 [info] Using configuration in workspace
+2024-12-13 08:30:49.362 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:30:49.371 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:30:49.372 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:30:49.380 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:30:49.486 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:30:49.487 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:30:49.488 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:30:49.804 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:30:50.865 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:30:50.868 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:31:40.974 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:31:40.976 [info] Getting configurations for workspace
+2024-12-13 08:31:40.976 [info] Using configuration in workspace
+2024-12-13 08:31:41.131 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:31:41.135 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:31:41.135 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:31:41.138 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:31:41.225 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:31:41.225 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:31:41.226 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:31:41.544 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:32:10.549 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:32:10.552 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:33:00.587 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:33:00.588 [info] Getting configurations for workspace
+2024-12-13 08:33:00.588 [info] Using configuration in workspace
+2024-12-13 08:33:00.790 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:33:00.793 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:33:00.793 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:33:00.796 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:33:00.888 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:33:00.891 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:33:00.891 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:33:01.226 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:34:21.680 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:34:21.682 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:34:41.669 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:34:41.674 [info] Getting configurations for workspace
+2024-12-13 08:34:41.674 [info] Using configuration in workspace
+2024-12-13 08:34:41.855 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:34:41.870 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:34:41.870 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:34:41.876 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:34:42.000 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:34:42.001 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:34:42.002 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:34:42.344 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:35:29.266 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:35:29.269 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:35:31.252 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:35:31.253 [info] Getting configurations for workspace
+2024-12-13 08:35:31.254 [info] Using configuration in workspace
+2024-12-13 08:35:31.430 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:35:31.433 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:35:31.433 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:35:31.440 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:35:31.527 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:35:31.529 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:35:31.529 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:35:31.865 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:38:51.045 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:38:51.050 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:39:07.015 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:39:07.019 [info] Getting configurations for workspace
+2024-12-13 08:39:07.020 [info] Using configuration in workspace
+2024-12-13 08:39:07.218 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:39:07.220 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:39:07.221 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:39:07.224 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:39:07.322 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:39:07.328 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:39:07.328 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:39:07.684 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:39:36.736 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:39:36.739 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:39:38.737 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:39:38.759 [info] Getting configurations for workspace
+2024-12-13 08:39:38.759 [info] Using configuration in workspace
+2024-12-13 08:39:38.925 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:39:38.929 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:39:38.929 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:39:38.934 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:39:39.020 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:39:39.022 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:39:39.022 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:39:39.354 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:42:53.582 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:42:53.584 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:43:33.955 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:43:33.959 [info] Getting configurations for workspace
+2024-12-13 08:43:33.959 [info] Using configuration in workspace
+2024-12-13 08:43:34.119 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:43:34.123 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:43:34.123 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:43:34.126 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:43:34.213 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:43:34.215 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:43:34.215 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:43:34.538 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:44:53.253 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:44:53.262 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:51:29.935 [info] Debugging using the editor button 'Debug in terminal'
+2024-12-13 08:51:29.941 [info] Getting configurations for workspace
+2024-12-13 08:51:29.941 [info] Using configuration in workspace
+2024-12-13 08:51:30.246 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:51:30.251 [info] Resolving launch configuration with substituted variables
+2024-12-13 08:51:30.251 [info] Using the only workspaceFolder found:  /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:51:30.254 [info] DAP Server launched with command: /home/mpeters/home/bin/python /home/mpeters/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64/bundled/libs/debugpy/adapter
+2024-12-13 08:51:30.351 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:51:30.352 [info] Received 'debugpySockets' event from debugpy.
+2024-12-13 08:51:30.353 [info] Received 'debugpySockets' event from debugpy.

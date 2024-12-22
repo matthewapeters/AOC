@@ -1,0 +1,20 @@
+2024-12-11 22:39:14.005 [info] Starting Python Locator /home/mpeters/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python-env-tools/bin/pet server
+2024-12-11 22:39:15.421 [info] Discovered env: /bin/python3
+2024-12-11 22:39:15.446 [info] Discovered env: /usr/bin/python3
+2024-12-11 22:39:15.466 [info] Locator Conda took 132.406101ms
+2024-12-11 22:39:15.466 [info] Locator Homebrew took 10.596926ms
+2024-12-11 22:39:15.467 [info] Locator LinuxGlobal took 210.726453ms
+2024-12-11 22:39:15.467 [info] Locator PipEnv took 342.346µs
+2024-12-11 22:39:15.467 [info] Locator Poetry took 4.817589ms
+2024-12-11 22:39:15.467 [info] Locator PyEnv took 149.559µs
+2024-12-11 22:39:15.468 [info] Locator Venv took 28.62µs
+2024-12-11 22:39:15.468 [info] Locator VirtualEnv took 67.376µs
+2024-12-11 22:39:15.468 [info] Locator VirtualEnvWrapper took 131.373µs
+2024-12-11 22:39:15.469 [info] Locator GlobalVirtualEnvs took 828.089µs
+2024-12-11 22:39:15.469 [info] Locator Locators took 216.670413ms
+2024-12-11 22:39:15.469 [info] Locator Path took 358.891105ms
+2024-12-11 22:39:15.470 [info] Locator Workspaces took 2.716309ms
+2024-12-11 22:39:15.470 [info] Refresh completed in 362ms
+2024-12-11 22:39:15.540 [info] Resolved Python Environment /bin/python3
+2024-12-11 22:40:00.209 [info] Resolved Python Environment /bin/python3
+2024-12-11 22:40:58.849 [info] Resolved Python Environment /bin/python3

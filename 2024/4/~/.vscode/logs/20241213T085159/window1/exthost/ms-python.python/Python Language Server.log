@@ -1,0 +1,19 @@
+2024-12-13 08:52:06.051 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.0)
+2024-12-13 08:52:06.199 [info] [Info  - 8:52:06 AM] (237528) Server root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-13 08:52:06.200 [info] [Info  - 8:52:06 AM] (237528) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-13 08:52:06.208 [info] [Info  - 8:52:06 AM] (237528) Starting service instance "_4"
+2024-12-13 08:52:06.286 [info] [Info  - 8:52:06 AM] (237528) Setting environmentName for service "_4": "3.12.7 (home venv)"
+2024-12-13 08:52:06.286 [info] [Info  - 8:52:06 AM] (237528) Setting pythonPath for service "_4": "/home/mpeters/home/bin/python"
+2024-12-13 08:52:06.286 [info] [Info  - 8:52:06 AM] (237528) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_4
+2024-12-13 08:52:06.287 [info] [Info  - 8:52:06 AM] (237528) Auto-excluding **/node_modules
+2024-12-13 08:52:06.288 [info] [Info  - 8:52:06 AM] (237528) Auto-excluding **/__pycache__
+2024-12-13 08:52:06.288 [info] [Info  - 8:52:06 AM] (237528) Auto-excluding **/.*
+2024-12-13 08:52:06.317 [info] [Info  - 8:52:06 AM] (237528) Assuming Python version 3.12.7.final.0
+2024-12-13 08:52:06.402 [info] [Info  - 8:52:06 AM] (237528) Found 1 source file
+2024-12-13 08:52:07.111 [info] [Info  - 8:52:07 AM] (237528) Background analysis(1) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-13 08:52:07.116 [info] [Info  - 8:52:07 AM] (237528) Background analysis(1) started
+2024-12-13 08:52:07.163 [info] [Info  - 8:52:07 AM] (237528) Indexer background runner(2) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-13 08:52:07.163 [info] [Info  - 8:52:07 AM] (237528) Indexing(2) started
+2024-12-13 08:52:07.686 [info] [Info  - 8:52:07 AM] (237528) scanned(2) 25 files over 1 exec env
+2024-12-13 08:52:07.905 [info] [Info  - 8:52:07 AM] (237528) indexed(2) 25 files over 1 exec env
+2024-12-13 08:52:07.929 [info] [Info  - 8:52:07 AM] (237528) Indexing finished(2).

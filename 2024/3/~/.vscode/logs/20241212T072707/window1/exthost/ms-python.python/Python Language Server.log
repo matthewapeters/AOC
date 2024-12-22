@@ -1,0 +1,31 @@
+2024-12-12 07:27:13.420 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.0)
+2024-12-12 07:27:13.421 [info] [Info  - 7:27:13 AM] (4179) Server root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-12 07:27:13.422 [info] [Info  - 7:27:13 AM] (4179) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2024-12-12 07:27:13.427 [info] [Info  - 7:27:13 AM] (4179) Starting service instance "_3"
+2024-12-12 07:27:13.491 [info] [Info  - 7:27:13 AM] (4179) Setting environmentName for service "_3": "3.12.7 (global)"
+2024-12-12 07:27:13.491 [info] [Info  - 7:27:13 AM] (4179) Setting pythonPath for service "_3": "/usr/bin/python3"
+2024-12-12 07:27:13.491 [info] [Info  - 7:27:13 AM] (4179) No include entries specified; assuming /home/mpeters/projects/AOC/2024/_3
+2024-12-12 07:27:13.492 [info] [Info  - 7:27:13 AM] (4179) Auto-excluding **/node_modules
+2024-12-12 07:27:13.493 [info] [Info  - 7:27:13 AM] (4179) Auto-excluding **/__pycache__
+2024-12-12 07:27:13.493 [info] [Info  - 7:27:13 AM] (4179) Auto-excluding **/.*
+2024-12-12 07:27:13.524 [info] [Info  - 7:27:13 AM] (4179) Assuming Python version 3.12.7.final.0
+2024-12-12 07:27:13.674 [info] [Info  - 7:27:13 AM] (4179) Found 1 source file
+2024-12-12 07:27:14.133 [info] [Info  - 7:27:14 AM] (4179) Background analysis(1) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-12 07:27:14.136 [info] [Info  - 7:27:14 AM] (4179) Background analysis(1) started
+2024-12-12 07:27:14.358 [info] [Info  - 7:27:14 AM] (4179) Indexer background runner(2) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2024-12-12 07:27:14.358 [info] [Info  - 7:27:14 AM] (4179) Indexing(2) started
+2024-12-12 07:27:15.040 [info] [Info  - 7:27:15 AM] (4179) scanned(2) 118 files over 1 exec env
+2024-12-12 07:27:15.206 [info] [Info  - 7:27:15 AM] (4179) indexed(2) 118 files over 1 exec env
+2024-12-12 07:27:15.233 [info] [Info  - 7:27:15 AM] (4179) Indexing finished(2).
+2024-12-12 07:27:28.024 [info] [Info  - 7:27:28 AM] (4179) Starting service instance "<default>"
+2024-12-12 07:27:28.041 [info] [Info  - 7:27:28 AM] (4179) Setting environmentName for service "<default>": "3.12.7 (global)"
+2024-12-12 07:27:28.042 [info] [Info  - 7:27:28 AM] (4179) Setting pythonPath for service "<default>": "/usr/bin/python3"
+2024-12-12 07:27:28.042 [info] [Info  - 7:27:28 AM] (4179) No include entries specified; assuming /<default workspace root>
+2024-12-12 07:27:28.042 [info] [Info  - 7:27:28 AM] (4179) Auto-excluding **/node_modules
+2024-12-12 07:27:28.042 [info] [Info  - 7:27:28 AM] (4179) Auto-excluding **/__pycache__
+2024-12-12 07:27:28.043 [info] [Info  - 7:27:28 AM] (4179) Auto-excluding **/.*
+2024-12-12 07:27:28.067 [info] [Info  - 7:27:28 AM] (4179) Assuming Python version 3.12.7.final.0
+2024-12-12 07:27:28.100 [info] [Error - 7:27:28 AM] (4179) File or directory "/<default workspace root>" does not exist.
+2024-12-12 07:27:28.100 [info] [Info  - 7:27:28 AM] (4179) No source files found.
+2024-12-12 07:27:28.465 [info] [Info  - 7:27:28 AM] (4179) Background analysis(3) root directory: file:///home/mpeters/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2024-12-12 07:27:28.468 [info] [Info  - 7:27:28 AM] (4179) Background analysis(3) started

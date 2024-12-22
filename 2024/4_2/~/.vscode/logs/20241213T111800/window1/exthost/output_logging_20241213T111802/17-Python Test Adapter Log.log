@@ -1,0 +1,12 @@
+2024-12-13T19:18:09.410Z INFO unittest at '_4_2': Reading configuration for workspace _4_2
+2024-12-13T19:18:09.413Z  DBG unittest at '_4_2': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T19:18:09.415Z INFO pytest at '_4_2': Reading configuration for workspace _4_2
+2024-12-13T19:18:09.416Z  DBG pytest at '_4_2': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T19:18:09.417Z INFO testplan at '_4_2': Reading configuration for workspace _4_2
+2024-12-13T19:18:09.418Z  DBG testplan at '_4_2': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T19:18:10.666Z INFO unittest at '_4_2': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T19:18:10.666Z INFO pytest at '_4_2': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T19:18:10.666Z INFO testplan at '_4_2': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T19:18:10.669Z INFO unittest at '_4_2': Unittest test discovery is disabled
+2024-12-13T19:18:10.670Z INFO pytest at '_4_2': Pytest test discovery is disabled
+2024-12-13T19:18:10.670Z INFO testplan at '_4_2': TestPlan test discovery is disabled

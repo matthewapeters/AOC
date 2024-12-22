@@ -1,0 +1,229 @@
+﻿12/11/2024 08:17:09 Pacific Standard Time : Information : Local timezone is (UTC-08:00) Pacific Time (Los Angeles)
+12/11/2024 08:17:10 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 108
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":5303}]}
+12/11/2024 08:17:10 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 434
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://5552F732A1","ControllerConfig":{"Executable":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/servicehub-controller-net60.linux-x64/Microsoft.ServiceHub.Controller","Args":["5b03ce6e14"],"PipeName":"5b03ce6e14"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+12/11/2024 08:17:10 Pacific Standard Time : Information : Connected to Hub Controller's client watch 'net.pipe://5552F732A1
+12/11/2024 08:17:11 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 108
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":5303}]}
+12/11/2024 08:17:11 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 434
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://5552F732A1","ControllerConfig":{"Executable":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/servicehub-controller-net60.linux-x64/Microsoft.ServiceHub.Controller","Args":["5b03ce6e14"],"PipeName":"5b03ce6e14"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+12/11/2024 08:17:11 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 18011
+
+
+12/11/2024 08:17:11 Pacific Standard Time : Information : VsHubClient-hubController write: {"jsonrpc":"2.0","id":3,"method":"RegisterServicesAsync","params":[{"Microsoft.VisualStudio.CpsProjectIconSourceService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectIconSourceServiceFactory"}},"Microsoft.VisualStudio.LaunchConfigurationService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.CompositionService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectTreeProviderFactory"}},"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory"}},"Microsoft.VisualStudio.Debugger.AspireSessionSynchronizeService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.AspireSessionSynchronizeService+Factory"}},"Microsoft.VisualStudio.Debugger.GenericHotReloadAgentManagerService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.GenericHotReloadAgentManagerService+Factory"}},"Microsoft.VisualStudio.Debugger.HotReloadClientService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.HotReloadClientService+Factory"}},"Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory"}},"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueCsDevKitEngineService2":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueCsDevKitEngineService+Factory"}},"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueRemoteDebuggerService2":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueRemoteDebuggerService+Factory"}},"Microsoft.VisualStudio.Debugger.ManagedHotReloadAgentManagerService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedHotReloadAgentManagerService+Factory"}},"Microsoft.VisualStudio.Debugger.ManagedHotReloadService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedHotReloadService+Factory"}},"Microsoft.VisualStudio.Debugger.SourceLinkService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.SourceLinkService+Factory"}},"Microsoft.VisualStudio.Debugger.SymbolLocatorService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.BrokeredServices.SymbolLocator.SymbolLocatorService+Factory"}},"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory"}},"Microsoft.VisualStudio.TestWindow.VSCode.Service":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory"}},"Microsoft.VisualStudio.AspireServer":{"host":"dotnet.aspireServer","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.AspireServer.dll","fullClassName":"Microsoft.WebTools.AspireServer.ServiceFactory"}},"Microsoft.VisualStudio.Debugger.AspireService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.Aspire.VSCode.Services.dll","fullClassName":"Microsoft.WebTools.Aspire.VSCode.Services.ServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.projectsystem.managed/Services","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.projectsystem.managed/Services/Microsoft.ProjectSystem.Managed.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.CodeCoverage.VSCode.CollectionService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64/Microsoft.CodeCoverage.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory"}},"Microsoft.CodeCoverage.VSCode.ReportService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64/Microsoft.CodeCoverage.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.CoverageServices.ReportServiceFactory"}},"Microsoft.VisualStudio.ProjectQueryTestService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64/Microsoft.VisualStudio.Samples.SayHello.dll","fullClassName":"Microsoft.VisualStudio.Samples.SayHello.ProjectQueryTestServiceFactory"}},"helloServiceHubDotNetHost":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64/Microsoft.VisualStudio.Samples.SayHello.dll","fullClassName":"Microsoft.VisualStudio.Samples.SayHello.HelloWorldFactory"}},"vs-intellicode-base-models":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64/Microsoft.VisualStudio.IntelliCode.CSharp.BaseModelService.dll","fullClassName":"Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory"}}}]}
+12/11/2024 08:17:11 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+12/11/2024 08:17:11 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 347
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.Service","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/244f1cffdd"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:11 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 332
+
+{"jsonrpc":"2.0","id":6,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/af849407c5"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}Content-Length: 342
+
+{"jsonrpc":"2.0","id":7,"method":"requestServiceChannel","params":[{"Name":"Microsoft.CodeCoverage.VSCode.ReportService","Version":"1.0"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/9a9607625c"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}Content-Length: 361
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/72f02b1139"},"ClientCredentials":{},"ClientCulture":"","ClientUICulture":"en-US"}]}Content-Length: 325
+
+{"jsonrpc":"2.0","id":5,"method":"requestServiceChannel","params":[{"Name":"vs-intellicode-base-models","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/e35eba6365"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":3,"result":{"RequestId":"0dd1a762-d484-4a92-a747-61896ac9a8d4","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/a188f9e5b5","IsEmpty":false}}
+12/11/2024 08:17:12 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":5,"result":{"RequestId":"8790e6a6-b92e-4c95-8971-932148055721","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/82885f1ccc","IsEmpty":false}}Content-Length: 163
+
+{"jsonrpc":"2.0","id":4,"result":{"RequestId":"e6da411e-39e0-4ac1-8238-927b1f37dd02","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/ecb5c62151","IsEmpty":false}}Content-Length: 163
+
+{"jsonrpc":"2.0","id":7,"result":{"RequestId":"3a5d1847-7fbb-4c2b-8bd6-a939272ed902","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/b539131ded","IsEmpty":false}}
+12/11/2024 08:17:12 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 346
+
+{"jsonrpc":"2.0","id":8,"method":"requestServiceChannel","params":[{"Name":"Microsoft.CodeCoverage.VSCode.CollectionService","Version":"1.0"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/2aca8bd64e"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Disposing ServiceBroker server '/home/mpeters/.ServiceHub/5b03ce6e14/e35eba6365'.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Disposing ServiceBroker server '/home/mpeters/.ServiceHub/5b03ce6e14/9a9607625c'.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Disposing ServiceBroker server '/home/mpeters/.ServiceHub/5b03ce6e14/244f1cffdd'.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Disposing ServiceBroker server '/home/mpeters/.ServiceHub/5b03ce6e14/72f02b1139'.
+12/11/2024 08:17:12 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":8,"result":{"RequestId":"5875f81e-a22a-4fd0-9254-f474275cf680","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/5c2e8e0e43","IsEmpty":false}}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Disposing ServiceBroker server '/home/mpeters/.ServiceHub/5b03ce6e14/2aca8bd64e'.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"8.0.11"}}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.CodeCoverage.VSCode.ReportService-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"8.0.11"}}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"8.0.11"}}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.CodeCoverage.VSCode.CollectionService-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"8.0.11"}}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : vs-intellicode-base-models-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"8.0.11"}}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.CodeCoverage.VSCode.ReportService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+12/11/2024 08:17:12 Pacific Standard Time : Information : vs-intellicode-base-models-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.CodeCoverage.VSCode.CollectionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+12/11/2024 08:17:12 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":6,"result":{"RequestId":"91613133-b3be-4653-aee6-e13fc386c712","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/9d53f24200","IsEmpty":false}}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService-RemoteServiceBrokerServer read: Content-Length: 178
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"","clientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.CodeCoverage.VSCode.CollectionService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : vs-intellicode-base-models-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.CodeCoverage.VSCode.ReportService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.CodeCoverage.VSCode.ReportService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"593ed913-9a69-4db3-a410-c97f2be6d659","pipeName":"/tmp/054fe3533e6749009a776ee91aabee4b"}}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.CodeCoverage.VSCode.CollectionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"b17a3092-d874-455c-8e5a-60749c7669db","pipeName":"/tmp/d7a79ac427db4ec19e389535e52d6beb"}}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"879617e0-c7ec-4d50-948d-9c31975e2bcd","pipeName":"/tmp/4a307e2df4ec4e2a8c2e32e8bbe9ae1c"}}
+12/11/2024 08:17:12 Pacific Standard Time : Information : vs-intellicode-base-models-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"ec027a46-3ce0-4991-a686-39bc3742716a","pipeName":"/tmp/5ff6a530f0f248b4bd1733e3db3c9ff8"}}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"c339ccee-4e9e-4279-af10-4fda20261dab","pipeName":"/tmp/154cc829b8134e0e964f57a02de9ff2a"}}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Disposing ServiceBroker server '/home/mpeters/.ServiceHub/5b03ce6e14/af849407c5'.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.0"}}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+12/11/2024 08:17:13 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 369
+
+{"jsonrpc":"2.0","id":9,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/786252bca1"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":9,"result":{"RequestId":"6e617147-6a5d-45ef-b390-5ef95160e1a7","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/a6ba9c1672","IsEmpty":false}}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Disposing ServiceBroker server '/home/mpeters/.ServiceHub/5b03ce6e14/786252bca1'.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"8.0.11"}}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"c47ea220-3ec8-4c29-b6fb-928067b4238e","pipeName":"/tmp/40bf579168c44653acb54c582a48dda1"}}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 293
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","version":"0.3"},{"clientCulture":"en-US","clientUICulture":"en-US"}],"traceparent":"00-8b6231d876bda243aa0ad147d8a3cf5a-b5dde8fcfa001647-00"}
+12/11/2024 08:17:13 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 373
+
+{"jsonrpc":"2.0","id":10,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","Version":"0.3"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/1dc05af432"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 164
+
+{"jsonrpc":"2.0","id":10,"result":{"RequestId":"03f587f8-832a-407c-acc9-a61a4a6b6095","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/f07587d78b","IsEmpty":false}}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 147
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"03f587f8-832a-407c-acc9-a61a4a6b6095","pipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/f07587d78b"}}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Disposing ServiceBroker server '/home/mpeters/.ServiceHub/5b03ce6e14/1dc05af432'.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.0"}}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"ac983a5a-8003-4e90-a8c0-83fde1f14cdc","pipeName":"/tmp/46be47e4c65a476089b27469b99fd0bd"}}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"45290083-bb26-46fd-b6ef-0b4a3871d5b7","pipeName":"/tmp/444282d4c6ff4efa94082e0c6509650a"}}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 203
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 355
+
+{"jsonrpc":"2.0","id":11,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/539a9ace68"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 164
+
+{"jsonrpc":"2.0","id":11,"result":{"RequestId":"80886930-9b7d-48ba-8973-0634bbf63bc9","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/f50a7f7032","IsEmpty":false}}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 147
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"80886930-9b7d-48ba-8973-0634bbf63bc9","pipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/f50a7f7032"}}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Disposing ServiceBroker server '/home/mpeters/.ServiceHub/5b03ce6e14/539a9ace68'.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.0"}}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"29bd9df8-5efd-4697-8ff7-a7e9add51474","pipeName":"/tmp/1360923d669c473cbc590f13044bb569"}}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ComponentExportsService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 197
+
+{"jsonrpc":"2.0","id":5,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.NoDelay.EnvironmentService","version":"0.1"},{"clientCulture":"en-US","clientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"5e77a426-91f2-4ae1-8767-1324bea7d6ef","pipeName":"/tmp/c322af32708c48249b4ba81a238dc282"}}
+12/11/2024 08:17:13 Pacific Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":5,"result":{"requestId":"bebd1c0b-ff42-4107-b168-cefa2b3a98d5","pipeName":"/tmp/cb6c06d7501944a7a938a99afaa9bcca"}}
+12/11/2024 08:43:45 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 333
+
+{"jsonrpc":"2.0","id":12,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/2597a03293"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:43:45 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 373
+
+{"jsonrpc":"2.0","id":13,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","Version":"0.3"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/8d97c85367"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:43:45 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 164
+
+{"jsonrpc":"2.0","id":12,"result":{"RequestId":"96b7a7f9-d8b1-49d0-b4fb-ca1924a1a6ea","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/e5a6c6b97d","IsEmpty":false}}
+12/11/2024 08:43:45 Pacific Standard Time : Information : VsHubClient-hubController read: Content-Length: 164
+
+{"jsonrpc":"2.0","id":13,"result":{"RequestId":"1b393289-d8eb-4673-9309-de25d6eec4ce","PipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/16666c71ed","IsEmpty":false}}
+12/11/2024 08:43:45 Pacific Standard Time : Information : VsHubClient-hubController JSON RPC has been disposed
+12/11/2024 08:43:45 Pacific Standard Time : Information : VsHubClient-hubController write: Content-Length: 63
+
+{"jsonrpc":"2.0","method":"$/cancelRequest","params":{"id":13}}
+12/11/2024 08:43:45 Pacific Standard Time : Information : VsHubClient-hubController read: end of stream
+12/11/2024 08:43:45 Pacific Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: end of stream

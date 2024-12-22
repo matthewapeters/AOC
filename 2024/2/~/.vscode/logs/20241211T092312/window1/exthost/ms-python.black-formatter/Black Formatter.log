@@ -1,0 +1,197 @@
+2024-12-11 09:23:24.154 [info] Name: Black Formatter
+2024-12-11 09:23:24.154 [info] Module: black
+2024-12-11 09:23:24.154 [info] Default formatter is set to null for workspace /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:23:24.154 [warning] Black Formatter is NOT set as the default formatter for workspace /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:23:24.154 [warning] To set Black Formatter as the default formatter, add the following to your settings.json file:
+2024-12-11 09:23:24.154 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
+2024-12-11 09:23:24.154 [info] Python extension loading
+2024-12-11 09:23:24.154 [info] Waiting for interpreter from python extension.
+2024-12-11 09:23:24.154 [info] No interpreter found from setting black-formatter.interpreter
+2024-12-11 09:23:24.154 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:23:24.154 [info] Python extension loaded
+2024-12-11 09:23:24.154 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_2: /bin/python3
+2024-12-11 09:23:24.154 [info] Workspace settings for /home/mpeters/projects/AOC/2024/_2 (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_2",
+    "workspace": "file:///home/mpeters/projects/AOC/2024/_2",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python3"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-11 09:23:24.154 [info] No interpreter found from setting black-formatter.interpreter
+2024-12-11 09:23:24.154 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:23:24.154 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_2: /bin/python3
+2024-12-11 09:23:24.154 [info] Workspace settings for /home/mpeters/projects/AOC/2024/_2 (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_2",
+    "workspace": "file:///home/mpeters/projects/AOC/2024/_2",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python3"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-11 09:23:24.154 [info] Global settings (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_2",
+    "workspace": "/home/mpeters/projects/AOC/2024/_2",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-11 09:23:24.154 [info] Server run command: /bin/python3 /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py
+2024-12-11 09:23:24.154 [info] Server: Start requested.
+2024-12-11 09:23:24.154 [info] CWD Server: /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:23:24.154 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/mpeters/projects/AOC/2024/_2",
+        "workspace": "file:///home/mpeters/projects/AOC/2024/_2",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python3"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2024-12-11 09:23:24.154 [info] Global settings received on server:
+{
+    "cwd": "/home/mpeters/projects/AOC/2024/_2",
+    "workspace": "/home/mpeters/projects/AOC/2024/_2",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2024-12-11 09:23:24.160 [info] sys.path used to run Server:
+   /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/libs
+   /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool
+   /usr/lib/python312.zip
+   /usr/lib/python3.12
+   /usr/lib/python3.12/lib-dynload
+   /usr/local/lib/python3.12/dist-packages
+   /usr/lib/python3/dist-packages
+2024-12-11 09:23:24.174 [info] /bin/python3 -m black --version
+2024-12-11 09:23:24.180 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:23:24.184 [info] Version info for formatter running for /home/mpeters/projects/AOC/2024/_2:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.12.7
+
+2024-12-11 09:23:24.186 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2024-12-11 09:23:43.263 [info] [Trace - 9:23:43 AM] Sending notification 'textDocument/didClose'.
+2024-12-11 09:24:29.285 [info] [Trace - 9:24:29 AM] Sending notification 'textDocument/didOpen'.
+2024-12-11 09:25:03.177 [info] [Trace - 9:25:03 AM] Sending request 'shutdown - (1)'.
+2024-12-11 09:25:03.201 [info] [Trace - 9:25:03 AM] Received response 'shutdown - (1)' in 41ms.
+2024-12-11 09:25:03.202 [info] [Trace - 9:25:03 AM] Sending notification 'exit'.
+2024-12-11 09:25:11.514 [info] Name: Black Formatter
+2024-12-11 09:25:11.514 [info] Module: black
+2024-12-11 09:25:11.514 [info] Default formatter is set to null for workspace /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:25:11.514 [warning] Black Formatter is NOT set as the default formatter for workspace /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:25:11.514 [warning] To set Black Formatter as the default formatter, add the following to your settings.json file:
+2024-12-11 09:25:11.514 [warning] 
+"[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+}
+2024-12-11 09:25:11.514 [info] Python extension loading
+2024-12-11 09:25:11.514 [info] Waiting for interpreter from python extension.
+2024-12-11 09:25:11.514 [info] No interpreter found from setting black-formatter.interpreter
+2024-12-11 09:25:11.514 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:25:11.514 [info] Python extension loaded
+2024-12-11 09:25:11.514 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_2: /bin/python3
+2024-12-11 09:25:11.514 [info] Workspace settings for /home/mpeters/projects/AOC/2024/_2 (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_2",
+    "workspace": "file:///home/mpeters/projects/AOC/2024/_2",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python3"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-11 09:25:11.514 [info] No interpreter found from setting black-formatter.interpreter
+2024-12-11 09:25:11.514 [info] Getting interpreter from ms-python.python extension for workspace /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:25:11.514 [info] Interpreter from ms-python.python extension for /home/mpeters/projects/AOC/2024/_2: /bin/python3
+2024-12-11 09:25:11.514 [info] Workspace settings for /home/mpeters/projects/AOC/2024/_2 (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_2",
+    "workspace": "file:///home/mpeters/projects/AOC/2024/_2",
+    "args": [],
+    "path": [],
+    "interpreter": [
+        "/bin/python3"
+    ],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-11 09:25:11.514 [info] Global settings (client side): {
+    "cwd": "/home/mpeters/projects/AOC/2024/_2",
+    "workspace": "/home/mpeters/projects/AOC/2024/_2",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+2024-12-11 09:25:11.514 [info] Server run command: /bin/python3 /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool/lsp_server.py
+2024-12-11 09:25:11.514 [info] Server: Start requested.
+2024-12-11 09:25:12.998 [info] CWD Server: /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:25:13.008 [info] Settings received on server:
+[
+    {
+        "cwd": "/home/mpeters/projects/AOC/2024/_2",
+        "workspace": "file:///home/mpeters/projects/AOC/2024/_2",
+        "args": [],
+        "path": [],
+        "interpreter": [
+            "/bin/python3"
+        ],
+        "importStrategy": "useBundled",
+        "showNotifications": "off"
+    }
+]
+
+2024-12-11 09:25:13.017 [info] Global settings received on server:
+{
+    "cwd": "/home/mpeters/projects/AOC/2024/_2",
+    "workspace": "/home/mpeters/projects/AOC/2024/_2",
+    "args": [],
+    "path": [],
+    "interpreter": [],
+    "importStrategy": "useBundled",
+    "showNotifications": "off"
+}
+
+2024-12-11 09:25:13.029 [info] sys.path used to run Server:
+   /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/libs
+   /home/mpeters/.vscode/extensions/ms-python.black-formatter-2024.4.0/bundled/tool
+   /usr/lib/python312.zip
+   /usr/lib/python3.12
+   /usr/lib/python3.12/lib-dynload
+   /usr/local/lib/python3.12/dist-packages
+   /usr/lib/python3/dist-packages
+2024-12-11 09:25:13.036 [info] /bin/python3 -m black --version
+2024-12-11 09:25:13.045 [info] CWD formatter: /home/mpeters/projects/AOC/2024/_2
+2024-12-11 09:25:13.266 [info] Version info for formatter running for /home/mpeters/projects/AOC/2024/_2:
+black, 24.8.0 (compiled: no)
+Python (CPython) 3.12.7
+
+2024-12-11 09:25:13.274 [info] SUPPORTED black>=22.3.0
+FOUND black==24.8.0
+
+2024-12-11 09:26:33.181 [info] [Trace - 9:26:33 AM] Sending notification 'textDocument/didOpen'.
+2024-12-11 09:27:56.774 [info] [Error - 9:27:56 AM] Server process exited with code 0.

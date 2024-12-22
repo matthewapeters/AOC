@@ -1,0 +1,24 @@
+2024-12-13T19:28:19.218Z INFO unittest at '_4_2': Reading configuration for workspace _4_2
+2024-12-13T19:28:19.221Z  DBG unittest at '_4_2': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T19:28:19.222Z INFO pytest at '_4_2': Reading configuration for workspace _4_2
+2024-12-13T19:28:19.222Z  DBG pytest at '_4_2': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T19:28:19.223Z INFO testplan at '_4_2': Reading configuration for workspace _4_2
+2024-12-13T19:28:19.224Z  DBG testplan at '_4_2': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T19:28:20.012Z INFO unittest at '_4_2': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T19:28:20.012Z INFO pytest at '_4_2': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T19:28:20.012Z INFO testplan at '_4_2': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T19:28:20.016Z INFO unittest at '_4_2': Unittest test discovery is disabled
+2024-12-13T19:28:20.016Z INFO pytest at '_4_2': Pytest test discovery is disabled
+2024-12-13T19:28:20.017Z INFO testplan at '_4_2': TestPlan test discovery is disabled
+2024-12-13T19:28:20.389Z INFO unittest at '_4_2': Reading configuration for workspace _4_2
+2024-12-13T19:28:20.389Z  DBG unittest at '_4_2': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T19:28:20.390Z INFO pytest at '_4_2': Reading configuration for workspace _4_2
+2024-12-13T19:28:20.390Z  DBG pytest at '_4_2': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T19:28:20.390Z INFO testplan at '_4_2': Reading configuration for workspace _4_2
+2024-12-13T19:28:20.391Z  DBG testplan at '_4_2': usingNewInterpreterStorage feature flag is 'true'
+2024-12-13T19:28:20.392Z INFO unittest at '_4_2': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T19:28:20.392Z INFO pytest at '_4_2': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T19:28:20.392Z INFO testplan at '_4_2': Using auto-detected pythonPath /home/mpeters/home/bin/python
+2024-12-13T19:28:20.392Z  DBG unittest at '_4_2': Sending autorun event
+2024-12-13T19:28:20.392Z  DBG pytest at '_4_2': Sending autorun event
+2024-12-13T19:28:20.392Z  DBG testplan at '_4_2': Sending autorun event

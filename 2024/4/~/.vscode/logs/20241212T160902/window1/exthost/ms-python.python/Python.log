@@ -1,0 +1,34 @@
+2024-12-12 16:09:42.128 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-12 16:09:42.128 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-12 16:09:42.128 [info] Experiment 'pythonTestAdapter' is active
+2024-12-12 16:09:42.139 [info] Native locator: Refresh started
+2024-12-12 16:09:42.383 [info] Native locator: Refresh started
+2024-12-12 16:09:42.414 [info] > pyenv which python
+2024-12-12 16:09:42.414 [info] cwd: .
+2024-12-12 16:09:42.420 [info] > pyenv which python
+2024-12-12 16:09:42.420 [info] cwd: .
+2024-12-12 16:09:42.911 [info] > conda info --json
+2024-12-12 16:09:42.945 [info] Native locator: Refresh finished in 800 ms
+2024-12-12 16:09:42.973 [info] Python interpreter path: /usr/bin/python3
+2024-12-12 16:09:44.031 [info] Starting Pylance language server.
+2024-12-12 16:10:28.117 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-12 16:10:28.118 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-12 16:10:28.118 [info] Experiment 'pythonTestAdapter' is active
+2024-12-12 16:10:28.125 [info] Native locator: Refresh started
+2024-12-12 16:10:28.387 [info] Native locator: Refresh started
+2024-12-12 16:10:29.590 [info] > pyenv which python
+2024-12-12 16:10:29.590 [info] cwd: .
+2024-12-12 16:10:29.730 [info] > conda info --json
+2024-12-12 16:10:29.797 [info] Native locator: Refresh finished in 1673 ms
+2024-12-12 16:10:29.803 [info] Python interpreter path: /usr/bin/python3
+2024-12-12 16:10:30.941 [info] Starting Pylance language server.
+2024-12-12 16:10:57.314 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-12 16:10:57.314 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-12 16:10:57.314 [info] Experiment 'pythonTestAdapter' is active
+2024-12-12 16:10:57.314 [info] Native locator: Refresh started
+2024-12-12 16:10:57.314 [info] Native locator: Refresh started
+2024-12-12 16:10:57.558 [info] > pyenv which python
+2024-12-12 16:10:57.558 [info] cwd: .
+2024-12-12 16:10:58.404 [info] Native locator: Refresh finished in 1683 ms
+2024-12-12 16:10:58.409 [info] Python interpreter path: /usr/bin/python3
+2024-12-12 16:10:59.498 [info] Starting Pylance language server.

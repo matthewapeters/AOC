@@ -1,0 +1,14 @@
+﻿12/11/2024 08:17:12 Pacific Standard Time : Information : Local timezone is (UTC-08:00) Pacific Time (Los Angeles)
+12/11/2024 08:17:12 Pacific Standard Time : Information : Added local RPC method "start" -> Microsoft.VisualStudio.CoverageServices.Collection.CollectionService.StartAsync(CollectionServerData) (Microsoft.VisualStudio.CoverageServices.Collection.CollectionService)
+12/11/2024 08:17:12 Pacific Standard Time : Information : Added local RPC method "start" -> Microsoft.VisualStudio.CoverageServices.Collection.CollectionService.StartAsync(String, String, String) (Microsoft.VisualStudio.CoverageServices.Collection.CollectionService)
+12/11/2024 08:17:12 Pacific Standard Time : Information : Added local RPC method "stop" -> Microsoft.VisualStudio.CoverageServices.Collection.CollectionService.StopAsync(String) (Microsoft.VisualStudio.CoverageServices.Collection.CollectionService)
+12/11/2024 08:17:12 Pacific Standard Time : Information : Added local RPC method "dispose" -> Microsoft.VisualStudio.CoverageServices.Collection.CollectionService.Dispose() (Microsoft.VisualStudio.CoverageServices.Collection.CollectionService)
+12/11/2024 08:17:12 Pacific Standard Time : Information : Added local RPC method "start" -> Microsoft.VisualStudio.CoverageServices.Collection.CollectionService.StartAsync(CollectionServerData) (Microsoft.VisualStudio.CoverageServices.Collection.CollectionService)
+12/11/2024 08:17:12 Pacific Standard Time : Information : Added local RPC method "start" -> Microsoft.VisualStudio.CoverageServices.Collection.CollectionService.StartAsync(String, String, String) (Microsoft.VisualStudio.CoverageServices.Collection.CollectionService)
+12/11/2024 08:17:12 Pacific Standard Time : Information : Added local RPC method "stop" -> Microsoft.VisualStudio.CoverageServices.Collection.CollectionService.StopAsync(String) (Microsoft.VisualStudio.CoverageServices.Collection.CollectionService)
+12/11/2024 08:17:12 Pacific Standard Time: Information : 3 :Listening started.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Microsoft.CodeCoverage.VSCode.CollectionService read: end of stream
+12/11/2024 08:43:45 Pacific Standard Time : Information : Waiting for 'Microsoft.CodeCoverage.VSCode.CollectionService' instance to complete its completionTask.
+12/11/2024 08:43:45 Pacific Standard Time: Information : 13 :Connection closing (RemotePartyTerminated: Reached end of stream.). 
+12/11/2024 08:43:45 Pacific Standard Time : Information : Disposed 'Microsoft.CodeCoverage.VSCode.CollectionService' via 'completionTask' method.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Finishing shutting down service: Microsoft.CodeCoverage.VSCode.CollectionService.

@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.defaultFoldingRangeProvider": "ms-python.python",
+    "pylint.lintOnChange": true
+}

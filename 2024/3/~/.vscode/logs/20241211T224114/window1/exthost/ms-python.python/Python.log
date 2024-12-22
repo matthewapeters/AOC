@@ -1,0 +1,32 @@
+2024-12-11 22:41:21.502 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-11 22:41:21.502 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-11 22:41:21.502 [info] Experiment 'pythonTestAdapter' is active
+2024-12-11 22:41:21.502 [info] Native locator: Refresh started
+2024-12-11 22:41:21.672 [info] Native locator: Refresh started
+2024-12-11 22:41:21.698 [info] Native locator: Refresh finished in 456 ms
+2024-12-11 22:41:21.725 [info] Python interpreter path: /bin/python3
+2024-12-11 22:41:21.847 [info] > pyenv which python
+2024-12-11 22:41:21.847 [info] cwd: .
+2024-12-11 22:41:28.115 [info] Starting Pylance language server.
+2024-12-11 22:41:33.243 [info] Python interpreter path: /usr/bin/python3
+2024-12-11 22:41:34.550 [info] > conda info --json
+2024-12-11 22:42:34.188 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-11 22:44:42.430 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-11 22:44:48.445 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-11 22:45:12.613 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-11 22:46:52.664 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-11 22:48:11.165 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-11 22:49:08.666 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-11 22:50:24.706 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 06:48:58.932 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 06:51:06.253 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 06:52:19.266 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 06:52:58.965 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 06:53:23.300 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 06:53:42.038 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 06:55:59.912 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 06:58:46.175 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 06:58:49.900 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 07:00:03.377 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 07:01:01.402 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py
+2024-12-12 07:16:55.768 [info] Discover tests for workspace name: _3 - uri: /home/mpeters/projects/AOC/2024/_3/main.py

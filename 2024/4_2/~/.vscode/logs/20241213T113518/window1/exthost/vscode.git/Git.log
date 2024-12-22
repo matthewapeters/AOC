@@ -1,0 +1,41 @@
+2024-12-13 11:35:22.706 [info] [main] Log level: Trace
+2024-12-13 11:35:22.706 [info] [main] Validating found git in: "git"
+2024-12-13 11:35:22.706 [info] [main] Using git "2.45.2" from "git"
+2024-12-13 11:35:22.706 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-13 11:35:22.706 [trace] [Model][doInitialScan] Settings: autoRepositoryDetection=true, openRepositoryInParentFolders=prompt
+2024-12-13 11:35:22.706 [trace] [Model][onDidChangeWorkspaceFolders] Workspace folders: [/home/mpeters/projects/AOC/2024/_4_2]
+2024-12-13 11:35:22.706 [trace] [Model][scanWorkspaceFolders] Workspace folder: /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:35:22.706 [trace] [Model][openRepository] Repository: /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:35:22.706 [trace] [Model][onDidChangeConfiguration] Workspace folders: [/home/mpeters/projects/AOC/2024/_4_2]
+2024-12-13 11:35:22.706 [trace] [Model][scanWorkspaceFolders] Workspace scan settings: repositoryScanMaxDepth=1; repositoryScanIgnoredFolders=[node_modules]; scanRepositories=[]
+2024-12-13 11:35:22.706 [trace] [Model][scanWorkspaceFolders] Workspace scan sub folders: [/home/mpeters/projects/AOC/2024/_4_2/~]
+2024-12-13 11:35:22.706 [info] > git rev-parse --show-toplevel [113ms]
+2024-12-13 11:35:22.706 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-13 11:35:22.706 [trace] [Model][openRepository] Opening repository for path='/home/mpeters/projects/AOC/2024/_4_2' failed. Error:Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+2024-12-13 11:35:22.706 [trace] [Model][openRepository] Repository: /home/mpeters/projects/AOC/2024/_4_2
+2024-12-13 11:35:22.706 [info] > git rev-parse --show-toplevel [384ms]
+2024-12-13 11:35:22.706 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-13 11:35:22.706 [trace] [Model][openRepository] Opening repository for path='/home/mpeters/projects/AOC/2024/_4_2' failed. Error:Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+2024-12-13 11:35:22.706 [trace] [Model][openRepository] Repository: /home/mpeters/projects/AOC/2024/_4_2/~
+2024-12-13 11:35:22.715 [info] > git rev-parse --show-toplevel [19ms]
+2024-12-13 11:35:22.715 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-13 11:35:22.715 [trace] [Model][openRepository] Opening repository for path='/home/mpeters/projects/AOC/2024/_4_2/~' failed. Error:Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+2024-12-13 11:35:22.717 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

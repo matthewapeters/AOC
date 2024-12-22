@@ -1,0 +1,20 @@
+{
+  "runtimeOptions": {
+    "tfm": "net7.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "7.0.0"
+      },
+      {
+        "name": "Microsoft.AspNetCore.App",
+        "version": "7.0.0"
+      }
+    ],
+    "configProperties": {
+      "System.Threading.ThreadPool.MinThreads": 20,
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
+      "System.Runtime.TieredCompilation": true
+    }
+  }
+}

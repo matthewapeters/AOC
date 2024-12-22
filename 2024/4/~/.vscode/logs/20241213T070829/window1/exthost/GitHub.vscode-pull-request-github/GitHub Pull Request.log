@@ -1,0 +1,6 @@
+2024-12-13 07:08:38.546 [warning] /home/mpeters/.ssh/config: ENOENT: no such file or directory, open '/home/mpeters/.ssh/config'
+2024-12-13 07:08:38.546 [info] Activation> Extension version: 0.102.0
+2024-12-13 07:08:38.675 [info] Looking for git repository
+2024-12-13 07:08:38.675 [info] Found 0 repositories during activation
+2024-12-13 07:08:38.675 [info] Git repository found, initializing review manager and pr tree view.
+2024-12-13 07:08:38.676 [info] Registering git provider

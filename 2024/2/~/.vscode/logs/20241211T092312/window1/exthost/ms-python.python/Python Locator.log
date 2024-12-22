@@ -1,0 +1,34 @@
+2024-12-11 09:23:19.570 [info] Starting Python Locator /home/mpeters/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python-env-tools/bin/pet server
+2024-12-11 09:23:24.248 [info] Discovered env: /usr/bin/python3
+2024-12-11 09:23:24.257 [info] Discovered env: /bin/python3
+2024-12-11 09:23:24.286 [info] Locator Conda took 102.129726ms
+2024-12-11 09:23:24.287 [info] Locator Homebrew took 810.178µs
+2024-12-11 09:23:24.290 [info] Locator LinuxGlobal took 92.424373ms
+2024-12-11 09:23:24.296 [info] Locator PipEnv took 24.841µs
+2024-12-11 09:23:24.298 [info] Locator Poetry took 895.509µs
+2024-12-11 09:23:24.300 [info] Locator PyEnv took 134.635µs
+2024-12-11 09:23:24.302 [info] Locator Venv took 21.144µs
+2024-12-11 09:23:24.303 [info] Locator VirtualEnv took 36.598µs
+2024-12-11 09:23:24.340 [info] Locator VirtualEnvWrapper took 29.107µs
+2024-12-11 09:23:24.344 [info] Locator GlobalVirtualEnvs took 154.83µs
+2024-12-11 09:23:24.345 [info] Locator Locators took 104.572774ms
+2024-12-11 09:23:24.347 [info] Locator Path took 209.547177ms
+2024-12-11 09:23:24.348 [info] Locator Workspaces took 29.059076ms
+2024-12-11 09:23:24.351 [info] Refresh completed in 209ms
+2024-12-11 09:25:07.507 [info] Starting Python Locator /home/mpeters/.vscode/extensions/ms-python.python-2024.20.0-linux-x64/python-env-tools/bin/pet server
+2024-12-11 09:25:12.371 [info] Discovered env: /bin/python3
+2024-12-11 09:25:12.446 [info] Discovered env: /usr/bin/python3
+2024-12-11 09:25:12.549 [info] Locator Conda took 67.891379ms
+2024-12-11 09:25:12.557 [info] Locator Homebrew took 77.535µs
+2024-12-11 09:25:12.577 [info] Locator LinuxGlobal took 83.698473ms
+2024-12-11 09:25:12.586 [info] Locator PipEnv took 33.27µs
+2024-12-11 09:25:12.594 [info] Locator Poetry took 684.545µs
+2024-12-11 09:25:12.601 [info] Locator PyEnv took 214.785µs
+2024-12-11 09:25:12.609 [info] Locator Venv took 22.559µs
+2024-12-11 09:25:12.618 [info] Locator VirtualEnv took 123.222µs
+2024-12-11 09:25:12.627 [info] Locator VirtualEnvWrapper took 24.644µs
+2024-12-11 09:25:12.634 [info] Locator GlobalVirtualEnvs took 72.701µs
+2024-12-11 09:25:12.642 [info] Locator Locators took 87.826596ms
+2024-12-11 09:25:12.649 [info] Locator Path took 184.926967ms
+2024-12-11 09:25:12.656 [info] Locator Workspaces took 1.864631ms
+2024-12-11 09:25:12.702 [info] Refresh completed in 185ms

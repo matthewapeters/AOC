@@ -1,0 +1,135 @@
+﻿12/11/2024 08:17:11 Pacific Standard Time : Information : Local timezone is (UTC-08:00) Pacific Time (Los Angeles)
+12/11/2024 08:17:12 Pacific Standard Time : Information : Service Hub .NET service module host started. Host id: dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE. Controller pipe: net.pipe://5552A25AFE. PID: 5654
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr read: Content-Length: 116
+
+{"jsonrpc":"2.0","id":2,"method":"InitializeHostAsync","params":[{"HostsRootDirectory":".","AppConfigFallback":""}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr write: Content-Length: 79
+
+{"jsonrpc":"2.0","id":2,"result":"dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"}
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr read: Content-Length: 1001
+
+{"jsonrpc":"2.0","id":4,"method":"StartServiceAsync","params":[{"name":"vs-intellicode-base-models","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64/Microsoft.VisualStudio.IntelliCode.CSharp.BaseModelService.dll","fullClassName":"Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/e35eba6365","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr read: Content-Length: 1031
+
+{"jsonrpc":"2.0","id":5,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.TestWindow.VSCode.Service","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/244f1cffdd","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}Content-Length: 961
+
+{"jsonrpc":"2.0","id":6,"method":"StartServiceAsync","params":[{"name":"Microsoft.CodeCoverage.VSCode.ReportService","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64/Microsoft.CodeCoverage.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.CoverageServices.ReportServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/9a9607625c","__servicehub__RequestedServiceVersion":"1.0"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}Content-Length: 1007
+
+{"jsonrpc":"2.0","id":3,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/72f02b1139","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : CLR host received start request for service 'vs-intellicode-base-models'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64/Microsoft.VisualStudio.IntelliCode.CSharp.BaseModelService.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.vscodeintellicode-csharp-2.2.3-linux-x64/components/model-service/platforms/linux-x64/node_modules/@vsintellicode/model-service.linux-x64'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Starting service module 'vs-intellicode-base-models'. Class: Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : Started service 'vs-intellicode-base-models'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/82885f1ccc, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":4,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/82885f1ccc"}
+12/11/2024 08:17:12 Pacific Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.TestWindow.VSCode.Service'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Starting service module 'Microsoft.VisualStudio.TestWindow.VSCode.Service'. Class: Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : Started service 'Microsoft.VisualStudio.TestWindow.VSCode.Service'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/a188f9e5b5, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : CLR host received start request for service 'Microsoft.CodeCoverage.VSCode.ReportService'
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":5,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/a188f9e5b5"}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64/Microsoft.CodeCoverage.VSCode.Services.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Starting service module 'Microsoft.CodeCoverage.VSCode.ReportService'. Class: Microsoft.VisualStudio.CoverageServices.ReportServiceFactory, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : Started service 'Microsoft.CodeCoverage.VSCode.ReportService'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/b539131ded, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService'
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":6,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/b539131ded"}
+12/11/2024 08:17:12 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Starting service module 'Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService'. Class: Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : Started service 'Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/ecb5c62151, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":3,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/ecb5c62151"}
+12/11/2024 08:17:12 Pacific Standard Time : Information : A new client connected to CLR service module 'vs-intellicode-base-models'
+12/11/2024 08:17:12 Pacific Standard Time : Information : A new client connected to CLR service module 'Microsoft.CodeCoverage.VSCode.ReportService'
+12/11/2024 08:17:12 Pacific Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService'
+12/11/2024 08:17:12 Pacific Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.TestWindow.VSCode.Service'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.CodeCoverage.VSCode.ReportService.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Service 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Service 'Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.TestWindow.VSCode.Service.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Service 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Found FactoryVersion=Version2 for service : vs-intellicode-base-models.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Service 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr write: Content-Length: 110
+
+{"jsonrpc":"2.0","method":"HostServicesStartedAsync","params":["dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr read: Content-Length: 969
+
+{"jsonrpc":"2.0","id":7,"method":"StartServiceAsync","params":[{"name":"Microsoft.CodeCoverage.VSCode.CollectionService","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64/Microsoft.CodeCoverage.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/2aca8bd64e","__servicehub__RequestedServiceVersion":"1.0"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:12 Pacific Standard Time : Information : CLR host received start request for service 'Microsoft.CodeCoverage.VSCode.CollectionService'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64/Microsoft.CodeCoverage.VSCode.Services.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/vs-code-coverage/platforms/linux-x64/node_modules/@microsoft/coverage-services.linux-x64'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Starting service module 'Microsoft.CodeCoverage.VSCode.CollectionService'. Class: Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : Started service 'Microsoft.CodeCoverage.VSCode.CollectionService'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/5c2e8e0e43, Supported Version: 
+12/11/2024 08:17:12 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":7,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/5c2e8e0e43"}
+12/11/2024 08:17:12 Pacific Standard Time : Information : A new client connected to CLR service module 'Microsoft.CodeCoverage.VSCode.CollectionService'
+12/11/2024 08:17:12 Pacific Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.CodeCoverage.VSCode.CollectionService.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Service 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Creating service Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Creating service Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=1.0.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Creating service Microsoft.VisualStudio.CoverageServices.ReportServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=1.0.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Creating service Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Creating service Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+12/11/2024 08:17:12 Pacific Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' from factory
+12/11/2024 08:17:12 Pacific Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory' from factory
+12/11/2024 08:17:12 Pacific Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' from factory
+12/11/2024 08:17:12 Pacific Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' from factory
+12/11/2024 08:17:12 Pacific Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' from factory
+12/11/2024 08:17:12 Pacific Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' from factory
+12/11/2024 08:17:12 Pacific Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' from factory
+12/11/2024 08:17:12 Pacific Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' from factory
+12/11/2024 08:17:12 Pacific Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' from factory
+12/11/2024 08:17:13 Pacific Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory' from factory
+12/11/2024 08:17:13 Pacific Standard Time : Information : hubHostClr read: Content-Length: 1080
+
+{"jsonrpc":"2.0","id":8,"method":"StartServiceAsync","params":[{"name":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64","entryPoint":{"assemblyPath":"/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/mpeters/.ServiceHub/5b03ce6e14/786252bca1","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"en-US","ClientUICulture":"en-US"}]}
+12/11/2024 08:17:13 Pacific Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service'
+12/11/2024 08:17:13 Pacific Standard Time : Information : Loading service module assembly '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll' from '/home/mpeters/.vscode/extensions/ms-dotnettools.csdevkit-1.14.14-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64'
+12/11/2024 08:17:13 Pacific Standard Time : Information : Starting service module 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service'. Class: Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory, Supported Version: 
+12/11/2024 08:17:13 Pacific Standard Time : Information : Started service 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service'. Pipe name: /home/mpeters/.ServiceHub/5b03ce6e14/a6ba9c1672, Supported Version: 
+12/11/2024 08:17:13 Pacific Standard Time : Information : hubHostClr write: Content-Length: 83
+
+{"jsonrpc":"2.0","id":8,"result":"/home/mpeters/.ServiceHub/5b03ce6e14/a6ba9c1672"}
+12/11/2024 08:17:13 Pacific Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service'
+12/11/2024 08:17:13 Pacific Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Service 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Creating service Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+12/11/2024 08:17:13 Pacific Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' from factory
+12/11/2024 08:17:13 Pacific Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' from factory
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements System.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements System.IDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' implements System.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' implements System.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.IntelliCode.BaseModelService.BaseModelServiceFactory' implements System.IDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' implements System.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' implements System.IDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' implements System.IDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory' implements System.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory' implements System.IDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr write: Content-Length: 108
+
+{"jsonrpc":"2.0","method":"HostServicesEndedAsync","params":["dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' implements System.IAsyncDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory' implements System.IDisposable.
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr read: Content-Length: 57
+
+{"jsonrpc":"2.0","id":9,"method":"ExitAsync","params":[]}
+12/11/2024 08:43:45 Pacific Standard Time : Information : Exit command received. Exiting CLR host
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr JSON RPC has been disposed
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":9,"result":null}
+12/11/2024 08:43:45 Pacific Standard Time : Information : hubHostClr read: end of stream
