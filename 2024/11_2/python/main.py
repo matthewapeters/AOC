@@ -65,10 +65,7 @@ What if for each blink we send a SET of rocks, and then rebuild the list with th
 results from the map
 """
 
-from datetime import datetime
-from typing import List, Tuple
-
-# from multiprocessing import Pool, Manager
+from typing import List
 from functools import cache
 
 TEST = False
@@ -131,8 +128,8 @@ if __name__ == "__main__":
     blink_times: int = 75
 
     print(f"compute changes over {blink_times} blinks")
-    total = 0
-    last_total = 0
+    total: int = 0
+    last_total: int = 0
     for r in rocks:
         total += blink_a_bunch(blink_times, r)
         print(f"{blink_times} blinks for {r} produces {total-last_total} rocks\n")
