@@ -83,7 +83,7 @@ def blink(n: int):
     # If the stone is engraved with the number 0, it is replaced by a
     #   stone engraved with the number 1.
     if n == 0:
-        return [1]
+        return (1, None)
 
     # If the stone is engraved with a number that has an even number of
     #   digits, it is replaced by two stones. The left half of the digits
@@ -91,82 +91,35 @@ def blink(n: int):
     #   are engraved on the new right stone. (The new numbers don't keep
     #   extra leading zeroes: 1000 would become stones 10 and 0.)
     if len(f"{n}") % 2 == 0:
-        split = int(len(f"{n}") / 2)
-        return [int(f"{n}"[:split]), int(f"{n}"[split:])]
+        split = len(f"{n}") // 2
+        return (int(f"{n}"[:split]), int(f"{n}"[split:]))
 
     # If none of the other rules apply, the stone is replaced by a new stone;
     #   the old stone's number multiplied by 2024 is engraved on the new stone.
-    return [n * 2024]
+    return (n * 2024, None)
 
 
 # pylint: disable=redefined-outer-name
 @cache
-def blink_a_bunch(blinks: int, rocks: Tuple[int]) -> Tuple[int]:
+def blink_a_bunch(blinks: int, rock: int) -> int:
     """
     blink_a_bunch
     """
-    print(f"{blinks:3} blinks, {len(rocks):10} rocks")
-    rl = list(rocks)
-    rl.sort()
+    left_rock, right_rock = blink(rock)
     if blinks == 1:
-        if len(rocks) > 1:
-            return [r for rk in rl for r in blink_a_bunch(1, (rk,))]
+        if right_rock is not None:
+            return 2
         else:
-            return tuple(blink(rl[0]))
-
-    if blinks > 1 and blinks <= 5:
-        return tuple(
-            r
-            for rock in rocks
-            for r in blink_a_bunch(
-                1,
-                tuple(
-                    blink_a_bunch(
-                        1,
-                        tuple(
-                            blink_a_bunch(
-                                1,
-                                tuple(
-                                    blink_a_bunch(
-                                        1,
-                                        tuple(
-                                            blink_a_bunch(
-                                                1,
-                                                tuple([rock]),
-                                            )
-                                        ),
-                                    )
-                                ),
-                            )
-                        ),
-                    )
-                ),
-            )
-        )
-    if blinks > 5 and blinks <= 25:
-        return tuple(
-            r
-            for rock in rl
-            for r in blink_a_bunch(
-                5,
-                blink_a_bunch(
-                    5,
-                    blink_a_bunch(
-                        5,
-                        blink_a_bunch(
-                            5,
-                            blink_a_bunch(5, (rock,)),
-                        ),
-                    ),
-                ),
-            )
-        )
-    return blink_a_bunch(25, blink_a_bunch(25, blink_a_bunch(25, rocks)))
+            return 1
+    count = blink_a_bunch(blinks - 1, left_rock)
+    if right_rock is not None:
+        count += blink_a_bunch(blinks - 1, right_rock)
+    return count
 
 
 if __name__ == "__main__":
     if not TEST:
-        with open("input.txt", "r", encoding="utf8") as fh:
+        with open("../input.txt", "r", encoding="utf8") as fh:
             raw = fh.read().split(" ")
     else:
         raw = SAMPLE.split(" ")
@@ -176,10 +129,13 @@ if __name__ == "__main__":
     print()
 
     blink_times: int = 75
-    last_time = datetime.now()
-    pool_size: int = 5
 
     print(f"compute changes over {blink_times} blinks")
-    results = blink_a_bunch(75, tuple(rocks))
+    total = 0
+    last_total = 0
+    for r in rocks:
+        total += blink_a_bunch(blink_times, r)
+        print(f"{blink_times} blinks for {r} produces {total-last_total} rocks\n")
+        last_total = total
 
-    print(len(results))
+    print(total)
