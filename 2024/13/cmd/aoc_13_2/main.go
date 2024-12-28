@@ -1,5 +1,10 @@
 package main
 
+/**
+
+Add 10000000000000 to both prize coordinates
+*/
+
 import (
 	"fmt"
 	"os"
@@ -40,8 +45,13 @@ func NewClawMachine(inputs []string)(cm *ClawMachine, err error) {
 	"Prize: X=6993, Y=2877",
 	"\n",
 	]
+
+	PART 2 - add 10000000000000 to each Prize Coordinate
+
 	*/
 	// remove the label, split on comma
+
+	prizeOffset := 10000000000000
 
 	if len(inputs) != 4 {
 		fmt.Println("ERROR: expected 4 lines for input")
@@ -92,12 +102,14 @@ func NewClawMachine(inputs []string)(cm *ClawMachine, err error) {
 		fmt.Print(inputs)
 		return
 	}
+	pX += prizeOffset
 	pY,err := strconv.Atoi(strings.Split((pStr[1]),"=")[1])
 	if err != nil {
 		fmt.Printf("ERROR: %s\n",err)
 		fmt.Print(inputs)
 		return
 	}
+	pY += prizeOffset
 	determinate :=(float64(A.DeltaX)* float64(B.DeltaY)) - (float64(A.DeltaY)*float64(B.DeltaX))
 	if determinate == 0 {
 		err = fmt.Errorf(("determinate is 0"))
