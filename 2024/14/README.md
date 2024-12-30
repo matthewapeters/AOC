@@ -1,15 +1,14 @@
 # NOTES ON DAY 14 - Part 2
 
-## SPOILER ALERT!
+## SPOILER ALERT
 
-** I give my solution below **
-
+**I give my solution below**
 
 After researching the problem, I understand there is a method called the Chinese Remainder Theory (CRT)
 that can be used to identify the number of moves (seconds) that will align the X and Y offsets, providing
 the Chrsitmas tree image.
 
-Unfortunately, I could not find libraries or satisfactory implementation details for me to provide my own working 
+Unfortunately, I could not find libraries or satisfactory implementation details for me to provide my own working
 solution - so I punted.  I modified aoc_14_2 so that it accepts keyboard input at run-time.
 
 To run the app:
@@ -32,6 +31,10 @@ but retains their X vector.
 At 22 seconds in, I observed vertical structure in the image:
 
 ```
+
+# structure observed on these columns:  |                             |
+#                                       V                             V
+# (partial screen scrape)
 
         @                               @                                                            
                                                @ @                  @                                
@@ -191,4 +194,3 @@ MOVES:  6587
 
 
 ```
-
