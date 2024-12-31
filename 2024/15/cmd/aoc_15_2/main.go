@@ -12,7 +12,7 @@ type Coord struct {
 }
 
 type Box struct {
-	GPS Coord
+	GPS [2]Coord
 }
 
 type Robot struct {
@@ -61,35 +61,87 @@ var Moves = map[rune]Coord{
 	'<': {-1,0},
 }
 
-func CoordToGPS(c Coord)int{
+func CoordToGPS(c [2]Coord, maxX int)int{
 	// The GPS coordinate system is 0-indexed,
 	// so the upper-left wall corner (X=0, Y=0)
 	// is at y*100 + x = 0*100 + 0 == 0
-	return c.Y*100 + c.X
+	vertical := c[0].Y*100
+	horizontal := c[0].X
+	return vertical + horizontal
 }
 
-func GetInventoryGPS()( c int){
+func GetInventoryGPS(maxX int)( c int){
+	// create a set of boxes
+	boxList := map[*Box]bool {}
 	for _, b := range Boxes {
-		c += CoordToGPS(b.GPS)
+		boxList[b]=true
+	}
+	for b := range boxList {
+		c += CoordToGPS(b.GPS, maxX)
+	}
+
+
+	return
+}
+
+func (box *Box) CanMove(direction rune)(moveable bool) {
+	// A box can move if any adjacent boxes can move (and so on)
+	newLocation := [2]Coord{box.GPS[0].Move(direction), box.GPS[1].Move(direction)}
+	// if either side of the box is blocked by a wall,
+	// the box cannot move
+	if Walls[newLocation[0]] != nil || Walls[newLocation[1]] != nil {
+		return false
+	}
+	// create a set of adjacent boxes
+	// aligned boxes will create only one entry
+	// offset boxes can create fan-outs
+	boxList := map[*Box]bool{}
+	for _, l := range newLocation {
+		if Boxes[l] != nil && Boxes[l] != box{
+			boxList[Boxes[l]]=true
+		}
+	}
+	moveable = true
+	for bx := range boxList{
+		if bx != box{
+			moveable = moveable && bx.CanMove(direction)
+		}
 	}
 	return
 }
 
 
 func (box *Box) Move(direction rune)bool{
-	newLocation := box.GPS.Move(direction)
-	oldLocation := box.GPS
-	if FloorMap[newLocation] == '#'{
+	if ! box.CanMove(direction){
 		return false
 	}
-	if FloorMap[newLocation]=='O' && ! Boxes[newLocation].Move(direction){
-		return false
+	oldLocation := box.GPS
+	newLocation := [2]Coord{box.GPS[0].Move(direction), box.GPS[1].Move(direction)}
+	// create a set of adjacent boxes
+	// aligned boxes will create only one entry
+	// offset boxes can create fan-outs
+	boxList := map[*Box]bool{}
+	for _, l := range newLocation {
+		if Boxes[l] != nil && Boxes[l] != box{
+			boxList[Boxes[l]]=true
+		}
+	}
+	for bx := range boxList{
+		if bx != box {
+			bx.Move(direction)
+		}
 	}
 	box.GPS = newLocation
-	FloorMap[newLocation]='O'
-	FloorMap[oldLocation]='.'
-	delete(Boxes, oldLocation)
-	Boxes[newLocation] = box
+	r1 := FloorMap[oldLocation[0]]
+	r2 := FloorMap[oldLocation[1]]
+	FloorMap[oldLocation[0]]='.'
+	FloorMap[oldLocation[1]]='.'
+	FloorMap[newLocation[0]]= r1
+	FloorMap[newLocation[1]]= r2
+	delete(Boxes, oldLocation[0])
+	delete(Boxes, oldLocation[1])
+	Boxes[newLocation[0]] = box
+	Boxes[newLocation[1]] = box
 	return true
 }
 
@@ -124,27 +176,42 @@ func main() {
 		}
 
 		if data[0] == '#' {
-			for x,r := range data{
+			for x_pre,r := range data{
+				x := x_pre * 2
+				location1 := Coord{x,y}
+				location2 := Coord{x+1,y}
 
-				location := Coord{x,y}
 				// Add symbol to floor map - this is our state record
-				FloorMap[location] = r
 				if r == 'O'{
 					// Add a Box
-					Boxes[location] =  &Box{location}
+					box :=&Box{[2]Coord{location1,location2}}
+					Boxes[location1] = box
+					Boxes[location2] = box
+					FloorMap[location1] = '['
+					FloorMap[location2] = ']'
 				}
 				if r == '#'{
-					if x>maxX{
-						maxX=x
-					}					// Add a Wall
+					// Add a Wall
+					if x+1>maxX{
+						maxX=x+1
+					}
 					if y>maxY{
 						maxY = y
 					}
-					Walls[location] =  &Wall{location}
+					Walls[location1] =  &Wall{location1}
+					Walls[location2] =  &Wall{location2}
+					FloorMap[location1] = '#'
+					FloorMap[location2] = '#'
 				}
 				if r == '@' {
 					// we found our robot
-					robot.GPS = location
+					robot.GPS = location1
+					FloorMap[location1]='@'
+					FloorMap[location2]='.'
+				}
+				if r == '.' {
+					FloorMap[location1]='.'
+					FloorMap[location2]='.'
 				}
 			}
 
@@ -161,5 +228,5 @@ func main() {
 		//ShowState(maxX, maxY)
 		//fmt.Println()
 	}
-	fmt.Printf("Inventory GPS: %d\n", GetInventoryGPS())
+	fmt.Printf("Inventory GPS: %d\n", GetInventoryGPS(maxX))
 }
