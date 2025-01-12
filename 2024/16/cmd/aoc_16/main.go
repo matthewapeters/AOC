@@ -1,11 +1,10 @@
 package main
 
 import (
+	"container/heap"
 	"fmt"
 	"os"
 	"strings"
-	"sync"
-	"time"
 )
 
 type Coord struct {
@@ -13,190 +12,159 @@ type Coord struct {
 	Y int
 }
 
-func (c Coord)To(direction rune) (Coord) {
+func (c Coord)To(direction int) (Coord) {
 	return Coord{c.X + Moves[direction].X, c.Y+Moves[direction].Y}
 }
 
-const Up = 'U'
-const Down = 'D'
-const Left = 'L'
-const Right = 'R'
+func (c Coord)String()string{
+	return fmt.Sprintf("{%d,%d}", c.X, c.Y)
+}
+
+type Edge struct {
+	Location Coord
+	IncomingDirection int
+	CuumulativeCost int
+	OutGoingDirection int
+	Symbol rune
+	Index int
+	Path []*Edge
+}
+
+func (e Edge)String()string{
+	return fmt.Sprintf("%s%s%s%s[%d]%s", string(Symbols[e.IncomingDirection]),e.Location,string(Symbols[e.OutGoingDirection]), e.Location.To(e.OutGoingDirection), e.CuumulativeCost, string(e.Symbol))
+}
+
+type PriorityQueue []*Edge
+
+func (pq PriorityQueue)Len()int {
+	return len(pq)
+}
+
+func (pq PriorityQueue) Swap(i,j int) {
+	pq[i],pq[j] = pq[j],pq[i]
+	pq[i].Index = i
+	pq[j].Index = j
+}
+
+func (pq PriorityQueue)Less(i,j int) bool {
+	return pq[i].CuumulativeCost < pq[j].CuumulativeCost
+}
+
+func (pq *PriorityQueue)Push(x any){
+	n := len(*pq)
+	edge := x.(Edge)
+	edge.Index = n
+	fmt.Printf("push %s\n", edge)
+	*pq = append(*pq, &edge)
+}
+
+func (pq *PriorityQueue) Pop() any {
+	old := *pq
+	n := len(old)
+	item := old[n-1]
+	old[n-1] = nil  // don't stop the GC from reclaiming the item eventually
+	item.Index = -1 // for safety
+	*pq = old[0 : n-1]
+	return item
+}
+
 const MaxCoords = 'M'
 const Wall = '#'
 const Space = '.'
 const Start = 'S'
 const End = 'E'
 const OneTurn = 1000
+const OneMove = 1
 
+// set of visited cells
+var Visited = map[string]Edge{}
+
+/*
+To find the opposite of a direction, add 2 and % 4
+To find the turns, add +1 or -1 and % 4
+*/
+const (	Right = iota
+		Up
+	  	Left
+	   	Down
+		)
+
+
+var Symbols =[]rune {
+	Right: '>',
+	Up: '^',
+	Left:'<',
+	Down: 'V',
+}
 
 // Moves maps movement vectors to runes
-var Moves = map[rune]Coord{
+var Moves = map[int]Coord{
 	Up:{0,-1},
 	Down:{0,1},
 	Left: {-1,0},
 	Right: {1,0},
 }
-func (c Coord)LookAround()(seenObjects map[rune][]rune){
-	// returns the mapping of runes in the cardinal
-	// directions to the current coordinant
-	// Because the map has walls, we will not look beyond the map
-		seenObjects = map[rune][]rune{Space:{}}
-		view := map[rune]rune{
-			Up: MAP[c.To(Up)],
-			Down: MAP[c.To(Down)],
-			Left: MAP[c.To(Left)],
-			Right: MAP[c.To(Right)],
-		}
-		for k,v := range view {
-			if v == Space || v == End {
-				seenObjects[Space]=append(seenObjects[Space],k)
-			}
-		}
-	return
-}
 
-type Turning struct {
-	Location Coord
-	InitialDirection rune
-	TriedDirection rune
-}
+func (current Edge)LookAround()(moves []Edge){
+	// examine cells in cardinal directions from c
+	// return unvisisted spaces (or the End) as a list of Edges
+	// Edges are not costed
+	moves = []Edge{}
 
-// Mutex to allow multiple Deer access the BadTurns
-var BadTurnMtx = &sync.Mutex{}
-// BadTurns are turnings that lead to dead-ends
-// the rune refers to the Move vector
-var BadTurns = map[Coord][]rune{}
-
-type Deer struct {
-	Name string
-	Location Coord
-	PreviousLocation Coord
-	Direction rune
-	Path map[Coord] int
-	Turns []Turning // a stack
-	Score int
-}
-
-func NewDeer(name string, startPosition Coord)*Deer{
-	return &Deer{Name:name, Location:startPosition, Direction: Right ,
-		Turns:[]Turning{{startPosition, Right, Right}},
-		Path:map[Coord]int{startPosition:0}}
-}
-
-func (d *Deer)Clone(newDirection rune)(nd *Deer){
-	t := []Turning{}
-	t = append(t,d.Turns...)
-	p := map[Coord]int{}
-	for k,v := range d.Path{
-		p[k] = v
+	var partialPath = []*Edge{}
+	if len(current.Path) >= 2 {
+		partialPath = current.Path[:len(current.Path)-1]
 	}
-	s := d.Score + OneTurn
-	t = append([]Turning{{d.Location, d.Direction, newDirection}}, t...)
-	nd = &Deer{Name:d.Name+string(newDirection), Location:d.Location, PreviousLocation: d.PreviousLocation, Direction:newDirection, Path:p, Turns: t, Score: s}
-	//fmt.Printf("%s cloned to %s at %d, %d\n",d.Name, nd.Name, d.Location.X, d.Location.Y)
-	return
-}
+	for direction := range 4 {
+		// ignore the "backwards" move
+		if (direction + 2) % 4 == current.IncomingDirection ||
+			MAP[current.Location.To(direction)] == Wall {
+			continue
+		}
 
-func (d *Deer)Move(){
-	d.PreviousLocation = d.Location
-	d.Location = d.Location.To(d.Direction)
-	//fmt.Printf("%s moves to %d,%d\n", d.Name, d.Location.X, d.Location.Y)
-	d.Path[d.Location] = len(d.Path)
-	d.Score += 1
-}
+		newLocation := current.Location.To(direction)
+		cost := current.CuumulativeCost + OneMove
+		// Symbol is what we found on the MAP ...
+		if direction != current.IncomingDirection {
+			cost += OneTurn
+			// or what our old direction was if the direction changes
+		}
+		// clone the current Edge, but change its direction to the direction of the move
+		// its path is no longer necessary
+		clonedCurrent := Edge{current.Location, current.IncomingDirection, current.CuumulativeCost, direction, current.Symbol, current.Index, []*Edge{}}
+		// create the edge for the new move
+		edge := Edge{newLocation, direction, cost, direction, MAP[newLocation],-1,[]*Edge{}}
+		edge.Path = append(partialPath, []*Edge{&clonedCurrent, &edge}...)
 
-func (d *Deer)Race(finishedRacers chan *Deer, joinTheRace chan *Deer, wg *sync.WaitGroup){
-	/*
-	*/
-	defer wg.Done()
-	time.Sleep(600 * time.Millisecond)
-	for {
-		/*
-		The race starts on a Turning location, but we don't know that
-		yet.
-			* If we are on the End, send the deer's pointer on the finishedRacers Channel and return from race
-			* Look around.  Exclude '#' and BadTurns and the last location in our path
-			   * exclude our PriorLocation and any known bad locations, and any locations in our Path (to prevent looping)
-			   * if there are no '.' in our view, we are on a dead-end, so resign
-			   * if there are '.' in our view but in a new direction, clone a new deer to explore that path and move there
-			   * if there is a '.' in our view in our direction, move there
-			* if there are no valid moves or turns, resign
-		*/
-		if MAP[d.Location] == End || (d.Location.X == SPECIAL[End].X && d.Location.Y == SPECIAL[End].Y ){
-			finishedRacers <- d
-			fmt.Printf("%s reached the end with score %d!!!\n",d.Name, d.Score)
-			return
-		}
-		view := d.Location.LookAround()
-		// if the current location has bad turns, build a set (map[direction rune]bool true)
-		BadTurnMtx.Lock()
-		badTurnsHere := map[rune]bool{}
-		for _, dir := range BadTurns[d.Location]{
-			badTurnsHere[dir]=true
-		}
-		BadTurnMtx.Unlock()
-
-		openings := []rune{}
-		for _, direction := range view[Space] {
-			// ignore our last position and bad turns
-			newPos := d.Location.To(direction)
- 			_, beenThere := d.Path[newPos]
-			if newPos == d.PreviousLocation || badTurnsHere[direction] || beenThere {
-				continue
-			}else{
-				openings = append(openings,direction)
-			}
-		}
-		// Dead-end
-		if len(openings) == 0 {
-			// mark the last turning in this direction as bad
-			// end this racer
-			lastTurn := d.Turns[0]
-			BadTurnMtx.Lock()
-			if BadTurns[lastTurn.Location] != nil {
-				BadTurns[d.Location] = append(BadTurns[d.Location], lastTurn.TriedDirection)
-			}else{
-				BadTurns[d.Location] = []rune{d.Turns[0].TriedDirection}
-			}
-			BadTurnMtx.Unlock()
-			fmt.Printf("%s found dead-end at %d,%d and resigns\n",d.Name, d.Location.X, d.Location.Y)
-			d.Path = nil
-			d.Turns = nil
-			d.Name=""
-			return
-		}
-		doMove := false
-		for _, direction := range openings{
-			// for any forks or changes in directions, we spawn a new deer by
-			// cloning this one.  The change in direction incurs a turn cost.
-			// if we are capable of continuing in our original direction, we
-			// do that after spawning clones.
-			if direction != d.Direction {
-				nd := d.Clone(direction)
-				nd.Move()
-				wg.Add(1)
-				joinTheRace <- nd
-			}else {
-				doMove = true
-			}
-		}
-		if doMove {
-			// if the direciton is the current direction, there is no score change
-			d.Name = d.Name + "M"
-			//time.Sleep(100 * time.Microsecond)
-			d.Move()
+		if _, ok := Visited[edge.String()]; !ok &&( edge.Symbol == Space || edge.Symbol == End) {
+			moves = append(moves, edge)
 		} else {
-			// cannot move in the same direction, and have cloned new deer for changes
-			// in direction.  We have not made it to the finish, so there is nothing left
-			// to do but resign the race
-			fmt.Printf("%s has no good turns and cannot move forawards at %d,%d and resigns\n",d.Name, d.Location.X, d.Location.Y)
-			d.Path = nil
-			d.Turns = nil
-			d.Name=""
-			return
+			if e, ok := Visited[edge.String()]; ok && cost < e.CuumulativeCost {
+				fmt.Printf("re-costing %s from %d to %d\n", e, e.CuumulativeCost, cost)
+				e.CuumulativeCost = cost
+				moves = append(moves, e)
+			}
 		}
 	}
+	return
 }
+
+func Dijkstra(pq *PriorityQueue)(winner *Edge){
+	for (*pq).Len()>0 {
+		var edge *Edge = heap.Pop(pq).(*Edge)
+		if edge.Location == SPECIAL[End]{
+			fmt.Printf("Found End at %s\n", edge)
+			return edge
+		}
+		// repeatedly process the lowest-cost edge until the end is found
+		for _, move := range  edge.LookAround() {
+			heap.Push(pq, move)
+			Visited[edge.String()] = move
+		}
+	}
+	return
+}
+
 
 var MAP = map[Coord]rune{}
 
@@ -225,73 +193,33 @@ func main() {
 		}
 	}
 
-	finishedRacers := make(chan *Deer, 100)
-	joinTheRace := make(chan *Deer, 1000)
-	nextStep := make(chan bool)
-	waitGroup := &sync.WaitGroup{}
+	pq := &PriorityQueue{}
+	heap.Init(pq)
+	e := Edge{SPECIAL['S'],Right,0,Right, Start,0, []*Edge{}}
+	e.Path = []*Edge{&e}
+	heap.Push(pq, e)
 
+	winner := Dijkstra(pq)
 
-	go func(wg *sync.WaitGroup, raceQueue chan *Deer, next chan bool){
-		fmt.Println("waiting for deer to join the race")
-		close(next)
-		for deer := range raceQueue{
-			go deer.Race(finishedRacers, raceQueue, wg)
-			fmt.Printf("%s joined the race\n",deer.Name)
-		}
-		fmt.Println("joinTheRace is closed")
-	}(waitGroup, joinTheRace, nextStep)
-
-	waitGroup.Add(1)
-	joinTheRace <- NewDeer(string(Start), SPECIAL[Start])
-	<- nextStep
-	nextStep = make(chan bool)
-
-	go func(wg *sync.WaitGroup, join, finished chan *Deer, next chan bool){
-		wg.Wait()
-		close(next)
-		close(finished)
-		close(join)
-	}(waitGroup, joinTheRace, finishedRacers, nextStep)
-
-	var winner *Deer
-	go func(){
-		processing:
-		for {
-			select {
-			case racer := <- finishedRacers:
-				fmt.Printf("racer %s got score %d\n", racer.Name, racer.Score)
-				if winner == nil {
-					winner = racer
-				}else{
-					if racer.Score < winner.Score {
-						fmt.Printf("so far, racer %s score %d is the best\n", racer.Name, racer.Score)
-						winner = racer
-					}
-				}
-			case <- nextStep:
-				break processing
-			}
-		}
-
-	}()
-	<- nextStep
-	if winner != nil {
-		fmt.Printf("racer %s is the Winner with score of %d\n", winner.Name, winner.Score)
-		for location := range winner.Path {
-			MAP[location] = '*'
-		}
-		for y := range SPECIAL[MaxCoords].Y+1{
-			for x := range SPECIAL[MaxCoords].X+1{
-				fmt.Print(string(MAP[Coord{x,y}]))
-			}
-			fmt.Println()
-		}
-		for loc := range winner.Path{
-			fmt.Printf("%d, %d  ", loc.X, loc.Y)
-		}
-		fmt.Println(len(winner.Path))
-	}else {
-		fmt.Println("No Winner Found")
+	// Render the map and the path taken
+	//   First, copy the path taken into the map
+	for _,e := range winner.Path {
+		MAP[e.Location] = Symbols[e.OutGoingDirection]
+		fmt.Printf("%s  ", e)
 	}
-	fmt.Println(BadTurns)
+	fmt.Printf("\n\n")
+	//   Draw the map
+	fmt.Print(" ")
+	for x := range SPECIAL['M'].X+1 {
+		fmt.Printf("%d", x%10)
+	}
+	fmt.Println()
+	for y := range SPECIAL['M'].Y+1 {
+		fmt.Printf("%d", y%10)
+		for x := range SPECIAL['M'].X+1 {
+			fmt.Printf("%s", string(MAP[Coord{x,y}]))
+		}
+		fmt.Println()
+	}
+	fmt.Printf("\nThe winning score is %d\n", winner.CuumulativeCost)
 }
